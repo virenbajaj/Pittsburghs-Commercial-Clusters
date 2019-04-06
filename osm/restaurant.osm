@@ -1,0 +1,3731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-04-04T13:01:02Z" areas="2019-04-04T11:54:02Z"/>
+
+  <node id="361975506" lat="40.4654293" lon="-79.9559666">
+    <tag k="addr:housenumber" v="4050"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="vietnamese"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="drink:tea" v="yes"/>
+    <tag k="name" v="Tram's Kitchen"/>
+    <tag k="opening_hours" v="Tu-Sa 10:00-22:00; Su 11:00-20:30"/>
+    <tag k="payment:cash" v="only"/>
+    <tag k="phone" v="+1-412-682-2688"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="412045724" lat="40.4623327" lon="-79.9499363">
+    <tag k="addr:housenumber" v="4627"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:tea" v="yes"/>
+    <tag k="name" v="Thai Cuisine"/>
+    <tag k="opening_hours" v="Tu-Th 16:00-21:30; Fr 16:00-22:00; Sa 12:00-22:00; Su 12:00-21:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-688-9661"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="532136017" lat="40.4869927" lon="-79.8911291">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="TGI Friday's"/>
+  </node>
+  <node id="532136142" lat="40.4869463" lon="-79.8888647">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Walnut Grill"/>
+  </node>
+  <node id="533753695" lat="40.4620769" lon="-79.9643613">
+    <tag k="addr:housenumber" v="3525"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="The Church Brew Works"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-23:45;Fr-Sa 11:30-01:00;Su 12:00-21:45"/>
+    <tag k="phone" v="(412) 688-8200"/>
+    <tag k="website" v="https://churchbrew.com/"/>
+  </node>
+  <node id="533755434" lat="40.4288610" lon="-79.9898852">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Mantini's Wood Fired"/>
+  </node>
+  <node id="871836046" lat="40.4411836" lon="-79.9566682">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Fuel &amp; Fuddle"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="902287334" lat="40.4412374" lon="-79.9576147">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="key" v="Diner"/>
+    <tag k="name" v="P&amp;G Pamela's Diner"/>
+    <tag k="website" v="https://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh"/>
+  </node>
+  <node id="1152028822" lat="40.4631619" lon="-79.9515510">
+    <tag k="addr:housenumber" v="4505"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="drink:tea" v="yes"/>
+    <tag k="name" v="Thai Gourmet"/>
+    <tag k="opening_hours" v="Mo, We, Th 11:00-14:00, 16:00-20:30; Su 04:30-20:30; Fr 11:00-14:00, 16:00-21:30; Sa 16:00-21:30"/>
+    <tag k="phone" v="+1-412-681-4373"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.facebook.com/pages/Thai-Gourmet/113906725407128"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1152028826" lat="40.4627252" lon="-79.9507142">
+    <tag k="addr:housenumber" v="4601"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brewery" v="Sierra Nevada"/>
+    <tag k="cuisine" v="burger; salad; sandwich; chicken"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="lunch" v="Mo-Su 11:00-16:00"/>
+    <tag k="name" v="Tessaro's American Bar &amp; Hardwood Grill"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-23:00"/>
+    <tag k="phone" v="+1-412-682-6809"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://tessaros.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1207764582" lat="40.4281728" lon="-79.9653706">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="South 27th Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Cheesecake Factory"/>
+  </node>
+  <node id="1256617292" lat="40.4153362" lon="-79.9241448">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="name" v="Hokkaido Seafood Buffet"/>
+    <tag k="website" v="http://www.hokkaidopittsburgh.com/"/>
+  </node>
+  <node id="1371543233" lat="40.4581522" lon="-79.9249574">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Casbah"/>
+  </node>
+  <node id="1371543257" lat="40.4500761" lon="-79.9138075">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Point Brugge Café"/>
+  </node>
+  <node id="1371543264" lat="40.4582399" lon="-79.9253141">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Mad Mex"/>
+  </node>
+  <node id="1371543273" lat="40.4583522" lon="-79.9253007">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Buffalo Blues"/>
+  </node>
+  <node id="1371543274" lat="40.4503353" lon="-79.9143949">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Pino's Italian Kitchen"/>
+  </node>
+  <node id="1371543278" lat="40.4596300" lon="-79.9253686">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="name" v="Plum"/>
+  </node>
+  <node id="1371543291" lat="40.4599664" lon="-79.9254348">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Brgr"/>
+  </node>
+  <node id="1371543294" lat="40.4600460" lon="-79.9252283">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Spoon"/>
+  </node>
+  <node id="1371572638" lat="40.4326236" lon="-79.9233333">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="New Dumpling House"/>
+  </node>
+  <node id="1371572643" lat="40.4381740" lon="-79.9221800">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Turkish Kebab"/>
+  </node>
+  <node id="1371572644" lat="40.4379060" lon="-79.9194669">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="How Lee"/>
+  </node>
+  <node id="1371572647" lat="40.4374610" lon="-79.9231201">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="name" v="Silk Elephant"/>
+  </node>
+  <node id="1371572650" lat="40.4375712" lon="-79.9228037">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:postcode" v="15217"/>
+    <tag k="addr:street" v="Murray Ave."/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="jewish"/>
+    <tag k="name" v="Nu"/>
+    <tag k="phone" v="412.422.0220"/>
+  </node>
+  <node id="1371572651" lat="40.4373405" lon="-79.9230919">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Murray Ave. Grill"/>
+  </node>
+  <node id="1371572658" lat="40.4382010" lon="-79.9214290">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Bellino's"/>
+  </node>
+  <node id="1371572668" lat="40.4329533" lon="-79.9232146">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Mineo's Pizza House"/>
+  </node>
+  <node id="1371572677" lat="40.4359139" lon="-79.9230482">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pastoli's"/>
+  </node>
+  <node id="1371572682" lat="40.4379228" lon="-79.9225756">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Uncle Sam's Subs"/>
+  </node>
+  <node id="1371572685" lat="40.4357471" lon="-79.9230262">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Sichuan Gourmet"/>
+  </node>
+  <node id="1371572686" lat="40.4420582" lon="-79.9564439">
+    <tag k="alt_name" v="The Original Hot Dog Shop"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Essie's Original Hot Dogs"/>
+    <tag k="wikidata" v="Q5399876"/>
+  </node>
+  <node id="1376928128" lat="40.4511589" lon="-79.9347254">
+    <tag k="addr:housenumber" v="733"/>
+    <tag k="addr:postcode" v="15232"/>
+    <tag k="addr:street" v="Copeland St"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Girasole"/>
+    <tag k="website" v="http://www.733copeland.com/"/>
+  </node>
+  <node id="1395536352" lat="40.4595955" lon="-79.9255837">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Dinette"/>
+    <tag k="website" v="https://www.dinette-pgh.com/"/>
+  </node>
+  <node id="1400061031" lat="40.4601930" lon="-79.9251718">
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="South Highland Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Abay"/>
+    <tag k="website" v="https://www.abayrestaurant.com/"/>
+  </node>
+  <node id="1409318790" lat="40.4338945" lon="-79.9231083">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="Chaya"/>
+  </node>
+  <node id="1460625738" lat="40.4334934" lon="-80.0035956">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Grand Concourse"/>
+  </node>
+  <node id="1485888909" lat="40.4457302" lon="-80.0115151">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Jerome Bettis 36"/>
+  </node>
+  <node id="1584945029" lat="40.4277325" lon="-79.9684992">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Emiliano's"/>
+  </node>
+  <node id="1666996370" lat="40.4428255" lon="-79.9531771">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="The Porch at Schenley"/>
+    <tag k="website" v="http://www.theporchatschenley.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1671668274" lat="40.4440634" lon="-79.9569222">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="french"/>
+    <tag k="name" v="Brioche Dorée"/>
+  </node>
+  <node id="1675849760" lat="40.4761661" lon="-79.9205380">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="5801"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Bryant Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Park Bruges"/>
+    <tag k="website" v="https://www.pointbrugge.com/"/>
+  </node>
+  <node id="1698029038" lat="40.4495960" lon="-79.9549026">
+    <tag k="amenity" v="restaurant"/>
+  </node>
+  <node id="1707487974" lat="40.4724636" lon="-79.9630790">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Kaleidoscope Cafe"/>
+  </node>
+  <node id="1707487981" lat="40.4784009" lon="-79.9554911">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Lucky Dragon"/>
+  </node>
+  <node id="1796197117" lat="40.4587877" lon="-79.9222772">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="fax" v="+1-412-361-6927"/>
+    <tag k="name" v="Minutello's Restaurant and Lounge"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 15:00-23:00; Su 15:00-21:00"/>
+    <tag k="phone" v="+1-412-361-9311"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.minutellosrestaurant.com/"/>
+  </node>
+  <node id="1838834929" lat="40.4451909" lon="-79.9485562">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="S Craig St"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Lucca Ristorante"/>
+    <tag k="opening_hours" v="Mo-Fr 11:30-14:00,17:00+; Sa 17:00+; Su 16:30+"/>
+    <tag k="phone" v="+1-412-682-3310"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="https://luccaristorante.com/"/>
+  </node>
+  <node id="2014435213" lat="40.4755676" lon="-79.9196398">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="E2"/>
+  </node>
+  <node id="2014437487" lat="40.4757683" lon="-79.9196498">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="5901"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Byrant St."/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="name" v="The Smiling Banana Leaf"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets:unisex" v="yes"/>
+    <tag k="website" v="http://smilingbananaleaf.com"/>
+  </node>
+  <node id="2014454568" lat="40.4764926" lon="-79.9214814">
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:street" v="Bryant St."/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Joseph Tambellini Restaurant"/>
+  </node>
+  <node id="2126388523" lat="40.4436635" lon="-80.0006481">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Grille on Seventh"/>
+    <tag k="website" v="www.thegrilleonseventh.com"/>
+  </node>
+  <node id="2127251945" lat="40.4398179" lon="-79.9990375">
+    <tag k="addr:housenumber" v="441"/>
+    <tag k="addr:street" v="Smithfield Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Sbarro"/>
+    <tag k="opening_hours" v="Mo-Fr 7:00-19:00; Sa 10:00-18:00; Su 11:00-16:00"/>
+    <tag k="phone" v="(412) 566-2881"/>
+  </node>
+  <node id="2128024043" lat="40.4389155" lon="-80.0039382">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Genoa Pizza"/>
+    <tag k="opening_hours" v="Su-Th 10:00-2:00; Fr-Sa 10:00-3:00"/>
+    <tag k="phone" v="412-281-6100"/>
+    <tag k="website" v="http://www.genoapizza.com/"/>
+  </node>
+  <node id="2131915844" lat="40.4381826" lon="-80.0001673">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Fiesta"/>
+    <tag k="opening_hours" v="10:00-2:00"/>
+    <tag k="phone" v="(412) 281-4222"/>
+    <tag k="source" v="http://www.downtownpittsburgh.com"/>
+  </node>
+  <node id="2131915902" lat="40.4392027" lon="-80.0033670">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="River City Inn"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-2:00; Sa 17:00-2:00"/>
+    <tag k="phone" v="+1 412-391-1707"/>
+    <tag k="website" v="http://www.facebook.com/pages/River-City-Inn/107807639260645"/>
+  </node>
+  <node id="2131950297" lat="40.4388405" lon="-80.0002407">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="City Oven"/>
+    <tag k="opening_hours" v="Mo-Fr 7:00-15:00; Sa 8:00-14:00"/>
+    <tag k="website" v="http://www.cityoven.com/"/>
+  </node>
+  <node id="2133358832" lat="40.4389302" lon="-79.9991687">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Smithfield Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Italian Village Pizza"/>
+    <tag k="opening_hours" v="11:00-18:00"/>
+    <tag k="phone" v="(412) 471-7885"/>
+    <tag k="website" v="www.italianvillagepizza.com"/>
+  </node>
+  <node id="2133358838" lat="40.4388041" lon="-79.9985826">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Cherry Way"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Primanti Bros. Restaurant"/>
+    <tag k="shop" v="kiosk"/>
+    <tag k="website" v="https://primantibros.com/"/>
+  </node>
+  <node id="2133358893" lat="40.4387904" lon="-79.9992645">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Smithfield Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="greek"/>
+    <tag k="name" v="Zorbas"/>
+    <tag k="opening_hours" v="Mo-Th 10:30-16:30; Fr 10:30-15:00"/>
+    <tag k="phone" v="+1 412-471-9930"/>
+    <tag k="website" v="http://www.facebook.com/pages/Zorbas/147692775250463?sk=info"/>
+  </node>
+  <node id="2133381680" lat="40.4391422" lon="-79.9980044">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="greek"/>
+    <tag k="name" v="The Apollo Cafe"/>
+    <tag k="opening_hours" v="Mo-Fr 6:30-15:00"/>
+    <tag k="phone" v="(412) 471-3033"/>
+    <tag k="website" v="www.apollocafepittsburgh.com"/>
+  </node>
+  <node id="2133394211" lat="40.4384415" lon="-79.9983932">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Storms Restaurant"/>
+    <tag k="opening_hours" v="Mo-Fr 11:30-19:00"/>
+    <tag k="phone" v="412-281-4321"/>
+    <tag k="website" v="http://www.stormsrestaurant.com/"/>
+  </node>
+  <node id="2133810136" lat="40.4381318" lon="-79.9985217">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Easy Street"/>
+    <tag k="phone" v="412.235.7984"/>
+    <tag k="website" v="www.easystreetpittsburgh.com"/>
+  </node>
+  <node id="2133810144" lat="40.4380854" lon="-79.9984164">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sushi"/>
+    <tag k="name" v="Sushi and Rolls"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-17:00"/>
+    <tag k="phone" v="412.255.0520"/>
+    <tag k="website" v="http://shopoxford.com/ooc_sushiandrolls.shtml"/>
+  </node>
+  <node id="2134218436" lat="40.4377449" lon="-79.9972750">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Grant Street Tavern"/>
+    <tag k="opening_hours" v="Mo-Th 9:00-21:00; Fr 9:00-22:00; Sa 10:30-22:00; Su 10:30-19:00"/>
+    <tag k="phone" v="(412) 261-4805"/>
+    <tag k="website" v="www.thegrantstreet.com"/>
+  </node>
+  <node id="2134218437" lat="40.4370950" lon="-79.9965509">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Mitchell's Restaurant"/>
+    <tag k="website" v="www.mitchells.tv/"/>
+  </node>
+  <node id="2134617786" lat="40.4411217" lon="-79.9997285">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="McCormick &amp; Schmick's"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-21:00; Fr 11:30-22:00; Sa 16:00-22:00; Su 16:00-20:00"/>
+    <tag k="phone" v="(412) 201-6992"/>
+    <tag k="website" v="https://www.mccormickandschmicks.com/"/>
+  </node>
+  <node id="2134618002" lat="40.4409614" lon="-79.9998560">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Capital Grille"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-15:00, 17:00-22:00; Fr, Su 17:00-23:00; Sa 17:00-22:00"/>
+    <tag k="phone" v="412-338-9100"/>
+    <tag k="website" v="https://www.thecapitalgrille.com"/>
+  </node>
+  <node id="2268515442" lat="40.4392677" lon="-79.9958864">
+    <tag k="addr:housename" v="BNY Mellon Center"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:street" v="Grant Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="The Carlton"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="website" v="http://www.thecarltonrestaurant.com/"/>
+  </node>
+  <node id="2295076983" lat="40.4744810" lon="-79.9578846">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Barb's Country Kitchen"/>
+  </node>
+  <node id="2412692684" lat="40.4507593" lon="-79.9855454">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Primanti Bros"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="website" v="https://primantibros.com/"/>
+    <tag k="wikidata" v="Q7243049"/>
+  </node>
+  <node id="2498441901" lat="40.4541496" lon="-79.9828158">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Cioppino Restaurant &amp; Cigar Bar"/>
+  </node>
+  <node id="2498441914" lat="40.4543288" lon="-79.9825463">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Osteria 2350"/>
+  </node>
+  <node id="2508719227" lat="40.4339763" lon="-80.0043650">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="seafood"/>
+    <tag k="name" v="Joe's Crab Shack"/>
+  </node>
+  <node id="2508719228" lat="40.4334995" lon="-80.0043859">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Buca di Beppo"/>
+  </node>
+  <node id="2631664841" lat="40.4368692" lon="-79.9548469">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Semple Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Campus Deli"/>
+    <tag k="website" v="http://campusdelipittsburgh.com/"/>
+  </node>
+  <node id="2631671683" lat="40.4400865" lon="-79.9562329">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="247"/>
+    <tag k="addr:street" v="Atwood Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Antoon's Pizza"/>
+    <tag k="opening_hours" v="11:00 - 02:30"/>
+    <tag k="phone" v="+1 (412) 687-5446"/>
+  </node>
+  <node id="2631688095" lat="40.4527735" lon="-79.9494416">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4705"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:street" v="Centre Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="capacity" v="0"/>
+    <tag k="cuisine" v="Middle_Eastern"/>
+    <tag k="name" v="Salim's Middle Eastern Food"/>
+    <tag k="website" v="http://www.salimsfoods.com/"/>
+  </node>
+  <node id="2631691016" lat="40.4528163" lon="-79.9493263">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4709"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:street" v="Centre Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Cipriani Pizza"/>
+    <tag k="phone" v="+1 412 682 2111"/>
+  </node>
+  <node id="2672381390" lat="40.4833461" lon="-79.9491536">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4017"/>
+    <tag k="addr:postcode" v="15201"/>
+    <tag k="addr:street" v="Butler Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+    <tag k="website" v="http://www.subway.com/"/>
+  </node>
+  <node id="2702507878" lat="40.4511349" lon="-79.9349275">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Stack'd"/>
+  </node>
+  <node id="2710170970" lat="40.4405841" lon="-79.9581671">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="3600"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Forbes Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="piada;pasta"/>
+    <tag k="name" v="Piada Italian Street Food"/>
+    <tag k="opening_hours" v="Mo-Fr 10:45-22:00, Sa-Su 10:45-21:00"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://mypiada.com/menu/oakland"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2710170985" lat="40.4414292" lon="-79.9569923">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="3716"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Forbes Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Stack'd Oakland"/>
+    <tag k="opening_hours" v="Su-We 11:30-00:00, Th-Sa 11:30-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="412-681-1800"/>
+    <tag k="website" v="https://www.stackdburgers.com/oakland"/>
+  </node>
+  <node id="2710170992" lat="40.4417732" lon="-79.9569092">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="Sandwich,_Beer"/>
+    <tag k="name" v="Primanti's"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2710170995" lat="40.4418314" lon="-79.9568622">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="4805"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Forbes Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="Noodles &amp; Company"/>
+    <tag k="brand:wikidata" v="Q7049673"/>
+    <tag k="brand:wikipedia" v="en:Noodles &amp; Company"/>
+    <tag k="cuisine" v="pasta"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Noodles &amp; Company"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="2795636184" lat="40.4411362" lon="-80.0044989">
+    <tag k="addr:housenumber" v="444"/>
+    <tag k="addr:street" v="Liberty Ave"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Eddie Merlot's Prime Aged Beef and Seafood"/>
+  </node>
+  <node id="2795639301" lat="40.4389930" lon="-80.0059643">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Stanwix St"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bluebird Kitchen"/>
+  </node>
+  <node id="2795639833" lat="40.4394740" lon="-80.0035742">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="steak"/>
+    <tag k="name" v="Ruth's Chris Steak House"/>
+    <tag k="website" v="https://www.ruthschris.com/restaurant-locations/pittsburgh/"/>
+  </node>
+  <node id="2932472400" lat="40.4327024" lon="-79.9229456">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2201"/>
+    <tag k="addr:postcode" v="15217"/>
+    <tag k="addr:street" v="Murray Ave."/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="description" v="North &amp; South Indian Dishes, Bar"/>
+    <tag k="name" v="Coriander India Grill"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="412.904.3654"/>
+    <tag k="website" v="http://www.corianderpa.com/"/>
+  </node>
+  <node id="3071090445" lat="40.4568414" lon="-79.9160239">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Social"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3074012634" lat="40.4513527" lon="-79.9335602">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Steel Cactus"/>
+  </node>
+  <node id="3074012642" lat="40.4509018" lon="-79.9342484">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sushi"/>
+    <tag k="name" v="Sushi Too"/>
+  </node>
+  <node id="3074012643" lat="40.4510158" lon="-79.9340005">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="China Palace"/>
+  </node>
+  <node id="3074019974" lat="40.4515533" lon="-79.9330025">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza,_gelato"/>
+    <tag k="name" v="Mercurio's"/>
+  </node>
+  <node id="3074019976" lat="40.4515853" lon="-79.9328275">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pamela's Diner"/>
+  </node>
+  <node id="3074019977" lat="40.4516559" lon="-79.9328415">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="peruvian"/>
+    <tag k="name" v="La Feria"/>
+  </node>
+  <node id="3151898420" lat="40.4330768" lon="-79.9231878">
+    <tag k="addr:housenumber" v="2120"/>
+    <tag k="addr:postcode" v="15217"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="kosher;pizza"/>
+    <tag k="name" v="Milky Way"/>
+    <tag k="website" v="http://milkywaypgh.com/"/>
+  </node>
+  <node id="3151898421" lat="40.4331325" lon="-79.9231854">
+    <tag k="addr:housenumber" v="2118"/>
+    <tag k="addr:postcode" v="15217"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="kosher;burger"/>
+    <tag k="name" v="Grilliance"/>
+  </node>
+  <node id="3264546832" lat="40.4501035" lon="-79.9507308">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Legume"/>
+  </node>
+  <node id="3293548534" lat="40.4437907" lon="-80.0023122">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Braddock's American Brasserie"/>
+  </node>
+  <node id="3293548540" lat="40.4408589" lon="-80.0060956">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Stone - Neapolitan Pizzeria"/>
+  </node>
+  <node id="3312117362" lat="40.3945872" lon="-80.0208886">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="719"/>
+    <tag k="addr:postcode" v="15226"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Brookline Boulevard"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Scoops on the Boulevard"/>
+    <tag k="opening_hours" v="Mar-May Mo-Su 11:00-22:00; Jun-Aug Mo-Su 11:00-22:30; Sept-Nov Mo-Su 11:00-22:00; Dec-Feb Mo-Su 11:00-21:30"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1-412-561-9982"/>
+  </node>
+  <node id="3312335224" lat="40.4514199" lon="-79.9341141">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="736"/>
+    <tag k="addr:postcode" v="15232"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Bellefonte Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="The Yard"/>
+  </node>
+  <node id="3315380373" lat="40.4516663" lon="-79.9325780">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="5533"/>
+    <tag k="addr:postcode" v="15232"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Walnut Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Trapuzzano Italian Chophouse"/>
+  </node>
+  <node id="3315425386" lat="40.4447986" lon="-79.9488580">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="taiwanese"/>
+    <tag k="name" v="Rose Tea Cafe"/>
+  </node>
+  <node id="3315425387" lat="40.4449145" lon="-79.9488640">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Yuva India Indian Eatery"/>
+  </node>
+  <node id="3362506384" lat="40.4495496" lon="-79.9504420">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="North Craig Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="no"/>
+    <tag k="name" v="Pizza Prima"/>
+    <tag k="phone" v="(412) 687-6464"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="3518240883" lat="40.4483671" lon="-80.0044880">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Soho"/>
+  </node>
+  <node id="3552270773" lat="40.4300270" lon="-80.0072286">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Micro Diner"/>
+    <tag k="phone" v="412 381 1391"/>
+  </node>
+  <node id="3552270774" lat="40.4301802" lon="-80.0072567">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Sloppy Joe's"/>
+    <tag k="phone" v="412 381 4300"/>
+  </node>
+  <node id="3552273598" lat="40.4293451" lon="-80.0074472">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="J &amp; J's Family Restaurant &amp; Catering"/>
+    <tag k="phone" v="412 381 1822"/>
+    <tag k="website" v="https://jjrestaurant.webs.com/"/>
+  </node>
+  <node id="3583950000" lat="40.4516357" lon="-79.9331913">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="732"/>
+    <tag k="addr:postcode" v="15232"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Filbert Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="french"/>
+    <tag k="name" v="Cafe Moulin"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-17:00"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="3758324636" lat="40.4735935" lon="-80.0289495">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Cesaroli Pizza"/>
+    <tag k="phone" v="+1 412 766 1020"/>
+  </node>
+  <node id="3781491070" lat="40.4847402" lon="-80.0353956">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza; gyros"/>
+    <tag k="name" v="Nick's Place"/>
+  </node>
+  <node id="3790657877" lat="40.4809893" lon="-80.0415956">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Chubby's Pizza"/>
+    <tag k="phone" v="+1 412 766 8665"/>
+  </node>
+  <node id="3855626458" lat="40.4689703" lon="-79.9617333">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Supreme Pizza"/>
+    <tag k="phone" v="+1 412 687 4449"/>
+  </node>
+  <node id="3865713240" lat="40.4701255" lon="-79.9604562">
+    <tag k="addr:housenumber" v="4130"/>
+    <tag k="addr:street" v="Butler Street"/>
+    <tag k="amenity" v="restaurant"/>
+  </node>
+  <node id="3865713245" lat="40.4711202" lon="-79.9597591">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pesaro's Pizza"/>
+    <tag k="phone" v="+1 412 681 8220"/>
+  </node>
+  <node id="3865719389" lat="40.4706272" lon="-79.9601328">
+    <tag k="addr:housenumber" v="4300"/>
+    <tag k="addr:street" v="Butler Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="tacos"/>
+    <tag k="name" v="Condado"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-02:00"/>
+    <tag k="phone" v="+1-412-863-7630"/>
+  </node>
+  <node id="3886814057" lat="40.4523315" lon="-80.0150728">
+    <tag k="addr:housenumber" v="822"/>
+    <tag k="addr:street" v="Western Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Allegheny Sandwich Shop"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-14:30; Sa 07:00-13:00"/>
+  </node>
+  <node id="3886814067" lat="40.4521181" lon="-80.0162238">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Nicki's Thai Kitchen"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-15:00, 17:00-21:00; Fr-Sa 11:30-15:00, 17:00-22:00; Su 17:00-21:00"/>
+    <tag k="phone" v="+1 412 321 8424"/>
+  </node>
+  <node id="3886814069" lat="40.4520687" lon="-80.0164372">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Modern Cafe"/>
+  </node>
+  <node id="4041696845" lat="40.4001809" lon="-80.0431088">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Coach's Restaurant &amp; Grille"/>
+  </node>
+  <node id="4044963452" lat="40.4191171" lon="-80.0301797">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1150"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Banksville Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Namaste India"/>
+  </node>
+  <node id="4515618491" lat="40.4286662" lon="-79.9855523">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Doce Taqueria"/>
+    <tag k="name:en" v="Doce Taqueria"/>
+    <tag k="opening_hours" v="Su-Mo 11:00-22:00; Tu-Th 11:00-00:00; Fr-Sa 11:00-03:00"/>
+  </node>
+  <node id="4515637690" lat="40.4391517" lon="-79.9553660">
+    <tag k="addr:housenumber" v="326"/>
+    <tag k="addr:street" v="Atwood Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Las Palmas"/>
+    <tag k="name:en" v="Las Palmas"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-17:00; Fr 09:00-22:00; Sa 12:00-19:00; Su 12:00-16:30"/>
+  </node>
+  <node id="4516441294" lat="40.4552279" lon="-79.9997709">
+    <tag k="addr:housenumber" v="537"/>
+    <tag k="addr:street" v="Suismon Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Max's Allegheny Tavern"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 09:30-21:00"/>
+  </node>
+  <node id="4591599397" lat="40.4514375" lon="-80.0182986">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Lindo's Restaurant"/>
+    <tag k="phone" v="+1 412 231 0110"/>
+  </node>
+  <node id="4608378413" lat="40.4515998" lon="-80.0171051">
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:street" v="Western Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+  </node>
+  <node id="4637977683" lat="40.3822600" lon="-79.9972382">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="J.B.'s PIzza"/>
+    <tag k="phone" v="+1 412 881 9980"/>
+  </node>
+  <node id="4664781289" lat="40.4288821" lon="-80.0073318">
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Southern Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Kavsar"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+  </node>
+  <node id="4681024390" lat="40.4402774" lon="-80.0807385">
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="West Steuben Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="email" v="creekhouse@sharpedgebeer.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Sharp Edge Creekhouse"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-22:00; Fr-Sa 11:00-00:00; Su 12:00-21:00"/>
+    <tag k="phone" v="+1-412-922-8118"/>
+  </node>
+  <node id="4868333971" lat="40.4520804" lon="-80.0167403">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Benjamin's"/>
+  </node>
+  <node id="4932672606" lat="40.4558721" lon="-80.0065948">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="El Burro"/>
+  </node>
+  <node id="4933214689" lat="40.4559144" lon="-80.0066136">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Nana's Northside Diner"/>
+  </node>
+  <node id="4957731299" lat="40.4377887" lon="-79.9211678">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="name" v="Bangkok Balcony"/>
+  </node>
+  <node id="4957731308" lat="40.4382011" lon="-79.9201056">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="noodle"/>
+    <tag k="name" v="Everyday Noodles"/>
+  </node>
+  <node id="4960676487" lat="40.4328472" lon="-79.9232257">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="greek"/>
+    <tag k="name" v="The Greek Gourmet"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="4960676492" lat="40.4331003" lon="-79.9228965">
+    <tag k="addr:housenumber" v="2121"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="name" v="Curry on Murray"/>
+    <tag k="phone" v="+1 412 422 3120"/>
+  </node>
+  <node id="4960676525" lat="40.4332049" lon="-79.9231754">
+    <tag k="addr:housenumber" v="2114"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="vietnamese"/>
+    <tag k="name" v="Tân Lạc Viên"/>
+  </node>
+  <node id="4960676526" lat="40.4332708" lon="-79.9231647">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Aiello's Pizza"/>
+  </node>
+  <node id="4960676557" lat="40.4341354" lon="-79.9230748">
+    <tag k="addr:housenumber" v="2020"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="korean"/>
+    <tag k="name" v="Green Pepper"/>
+  </node>
+  <node id="4960676561" lat="40.4344100" lon="-79.9230333">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Napoli Pizzeria"/>
+  </node>
+  <node id="4960676728" lat="40.4356094" lon="-79.9230279">
+    <tag k="addr:housenumber" v="1912"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Smallman Street Deli"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5015750078" lat="40.4565365" lon="-80.0014740">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Legends of the North Shore"/>
+  </node>
+  <node id="5019226608" lat="40.4535020" lon="-80.0015924">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Subba Asian Restaurant"/>
+  </node>
+  <node id="5019226609" lat="40.4534183" lon="-80.0015575">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="5114511932" lat="40.4392199" lon="-80.0015647">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name:en" v="Mandarin Gourmet"/>
+    <tag k="name:zh" v="天廚飯店"/>
+  </node>
+  <node id="5201362028" lat="40.4532779" lon="-80.0010938">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bistro To Go Cafe"/>
+  </node>
+  <node id="5205450377" lat="40.4535755" lon="-79.9995036">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Lillen's Pizza"/>
+  </node>
+  <node id="5205472926" lat="40.4535466" lon="-80.0008859">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Victory Grill"/>
+  </node>
+  <node id="5205507545" lat="40.4540697" lon="-79.9981075">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="China Taste"/>
+  </node>
+  <node id="5205520968" lat="40.4543689" lon="-80.0010549">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="James Street Gastropub &amp; Speakeasy"/>
+  </node>
+  <node id="5207537161" lat="40.4567844" lon="-79.9989259">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Huszar"/>
+  </node>
+  <node id="5218819728" lat="40.4563551" lon="-80.0070856">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1219"/>
+    <tag k="addr:postcode" v="15212"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Federal Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pizza Hut"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+    <tag k="outdoor_seating" v="no"/>
+  </node>
+  <node id="5227872331" lat="40.4414937" lon="-79.9573592">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mediterranean;kebab;sandwich"/>
+    <tag k="name" v="Forbes Gyro"/>
+  </node>
+  <node id="5240343115" lat="40.4390874" lon="-79.9553116">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="328"/>
+    <tag k="addr:postcode" v="15213-4026"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Atwood Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Sichuan Gourmet"/>
+    <tag k="name:zh" v="府河人家"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5240353338" lat="40.4417046" lon="-79.9573430">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Oakland Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sushi;japanese"/>
+    <tag k="name" v="Sushi Fuku"/>
+  </node>
+  <node id="5240356675" lat="40.4415164" lon="-79.9585440">
+    <tag k="addr:city" v="Pittburgh"/>
+    <tag k="addr:housenumber" v="3614"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Fifth Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Prince of India Restaurant"/>
+  </node>
+  <node id="5240356676" lat="40.4413696" lon="-79.9587902">
+    <tag k="addr:city" v="Pittburgh"/>
+    <tag k="addr:housenumber" v="3608"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Fifth Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="name" v="Thai Hana Restaurant"/>
+  </node>
+  <node id="5247380041" lat="40.4511429" lon="-80.0049447">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Eco Bistro"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5255062245" lat="40.4561100" lon="-80.0066678">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Rasta House"/>
+  </node>
+  <node id="5269232912" lat="40.4484067" lon="-80.0041218">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Mullen's Bar &amp; Grill"/>
+  </node>
+  <node id="5278917407" lat="40.4484869" lon="-80.0025718">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Warhol Cafe"/>
+  </node>
+  <node id="5336003141" lat="40.4558213" lon="-80.0065793">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Badamo's Pizza"/>
+  </node>
+  <node id="5337685786" lat="40.4481669" lon="-80.0040518">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Local Brewhouse"/>
+  </node>
+  <node id="5337834592" lat="40.4477958" lon="-80.0043583">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Steel Cactus Restaurante &amp; Cantina"/>
+  </node>
+  <node id="5337836676" lat="40.4469956" lon="-80.0041142">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Slice on Broadway"/>
+  </node>
+  <node id="5369151261" lat="40.4463271" lon="-80.0083943">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Hyde Park Prime Steakhouse"/>
+  </node>
+  <node id="5373915767" lat="40.4880627" lon="-79.8865574">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="983"/>
+    <tag k="addr:postcode" v="15238"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Freeport Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="steak_house;japanese;hibachi;sushi"/>
+    <tag k="delivery" v="no"/>
+    <tag k="name" v="Ichiban Steakhouse &amp; Sushi Bar"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-14:30, 16:30-21:30; Fr 11:00-14:30, 16:30-22:30; Sa 13:00-22:30; Su 12:00-20:30"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="ichiban-hibachi-steakhouse.com"/>
+  </node>
+  <node id="5382222595" lat="40.4459069" lon="-80.0105048">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Rivertowne North Shore"/>
+  </node>
+  <node id="5382222596" lat="40.4458028" lon="-80.0111995">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Foundry"/>
+  </node>
+  <node id="5384512913" lat="40.4605649" lon="-79.9472811">
+    <tag k="addr:housenumber" v="4786"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cocktails" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="drink:liquor" v="yes"/>
+    <tag k="drink:wine" v="yes"/>
+    <tag k="email" v="contact@lombardozzis.com"/>
+    <tag k="name" v="Lombardozzi's"/>
+    <tag k="opening_hours" v="We, Th 11:00-21:00; Fr 11:00-22:00; Sa 13:00-22:00; Su 13:00-21:00"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-682-5785"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="start_date" v="1973"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://lombardozzis.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5384512916" lat="40.4619218" lon="-79.9492555">
+    <tag k="addr:housenumber" v="4717"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:fee" v="1"/>
+    <tag k="delivery:min_payment" v="15"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:tea" v="yes"/>
+    <tag k="name" v="Wai Wai Chinese Cuisine"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-22:00; Fr, Sa 11:00-23:00; Su 12:00-22:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-621-0133"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://waiwaichinese.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5391525086" lat="40.4461775" lon="-80.0108803">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Burgatory"/>
+  </node>
+  <node id="5391525087" lat="40.4462242" lon="-80.0106189">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bar Louie"/>
+  </node>
+  <node id="5394965510" lat="40.4488484" lon="-80.0087197">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Clark Bar &amp; Grill"/>
+  </node>
+  <node id="5436334785" lat="40.4464126" lon="-79.8939423">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="5455256664" lat="40.4432437" lon="-80.0025340">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Alihan's Mediterranean Cuisine"/>
+  </node>
+  <node id="5455256667" lat="40.4431844" lon="-80.0025077">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Christos Mediterranean Grille"/>
+  </node>
+  <node id="5455256671" lat="40.4431343" lon="-80.0024879">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Cafe Milano"/>
+  </node>
+  <node id="5455256675" lat="40.4430450" lon="-80.0024443">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pork &amp; Beans"/>
+  </node>
+  <node id="5455256684" lat="40.4428967" lon="-80.0023748">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Redbeard's on Sixth"/>
+  </node>
+  <node id="5455256703" lat="40.4425943" lon="-80.0031128">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Fu Lai Chinese Restaurant"/>
+  </node>
+  <node id="5460743062" lat="40.4643879" lon="-79.9233130">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Ventos"/>
+  </node>
+  <node id="5484929417" lat="40.4051801" lon="-80.0185053">
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Capital Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Fiori's Pizzaria"/>
+    <tag k="opening_hours" v="Su-Sa 11:00-01:00"/>
+  </node>
+  <node id="5529637840" lat="40.4216575" lon="-79.9934998">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:postcode" v="15210"/>
+    <tag k="addr:street" v="E Warrington Ave"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Alla Famiglia"/>
+    <tag k="opening_hours" v="Mo-Sa 17:00:23:00"/>
+    <tag k="phone" v="(412) 488-1440"/>
+  </node>
+  <node id="5553591722" lat="40.4613686" lon="-79.9488228">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4734"/>
+    <tag k="addr:postcode" v="15224"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="drink:tea" v="yes"/>
+    <tag k="name" v="Ginza Japanese Restaurant"/>
+    <tag k="opening_hours" v="Tu-Th 11:00-22:00; Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-21:00"/>
+    <tag k="phone" v="+1-412-688-7272"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://ginzapa.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5553608413" lat="40.4613492" lon="-79.9481174">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4759"/>
+    <tag k="addr:postcode" v="15224"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="burger;breakfast;sandwich"/>
+    <tag k="drink:coffee" v="served"/>
+    <tag k="name" v="Rocky's Cafe"/>
+    <tag k="opening_hours" v="Tu, Th, Sa-Su 08:00-12:00"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5553608414" lat="40.4616977" lon="-79.9487095">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4729"/>
+    <tag k="addr:postcode" v="15224"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pleasure Bar"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="5553616888" lat="40.4218809" lon="-79.9959316">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="639"/>
+    <tag k="addr:postcode" v="15210"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Warrington Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Onion Maiden"/>
+  </node>
+  <node id="5553630785" lat="40.4216439" lon="-79.9942103">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="740"/>
+    <tag k="addr:postcode" v="15210"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Warrington Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Breakfast at Shelly's"/>
+  </node>
+  <node id="5553630804" lat="40.4219142" lon="-79.9928338">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="823"/>
+    <tag k="addr:postcode" v="15210"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Warrington Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="caribbean"/>
+    <tag k="name" v="Leon's Caribbean Food"/>
+  </node>
+  <node id="5553630805" lat="40.4219181" lon="-79.9928981">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:postcode" v="15210"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Warrington Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Paisano's Restaurant"/>
+  </node>
+  <node id="5555063704" lat="40.3952518" lon="-80.0224151">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american;sandwich"/>
+    <tag k="name" v="Parker's Cafe"/>
+    <tag k="opening_hours" v="Tu-Th 10:00-19:00; Fr-Su 08:00-15:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="no"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1-412-207-8099"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+  </node>
+  <node id="5555063710" lat="40.3954303" lon="-80.0226786">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="536"/>
+    <tag k="addr:postcode" v="15226"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Brookline Boulevard"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="No Name Cafe"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-15:30"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="payment:debit_cards" v="no"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:notes" v="no"/>
+    <tag k="phone" v="4125631813"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+  </node>
+  <node id="5555152755" lat="40.3950295" lon="-80.0220543">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:postcode" v="15226"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Brookline Boulevard"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza;sandwich"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Vinny's Pizza"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-24:00; Su 00:00-01:00; Su 11:00-23:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1-412-344-8500"/>
+    <tag k="takeaway" v="only"/>
+    <tag k="website" v="http://www.vinnys.us/"/>
+  </node>
+  <node id="5555532665" lat="40.3928027" lon="-80.0184362">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:postcode" v="15226"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Brookline Boulevard"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="hotdog"/>
+    <tag k="name" v="Hank's Dogs"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-16:00; "/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5555532697" lat="40.3921473" lon="-80.0172607">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1011"/>
+    <tag k="addr:postcode" v="15226"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Brookline Boulevard"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mediterranean"/>
+    <tag k="name" v="Jolina's Mediterranean Cuisine"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-20:30; Fr-Sa 11:00-17:30"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1-412-341-3333"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5587366200" lat="40.4461439" lon="-80.0110516">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Burn Restaurant &amp; Cigar Lounge"/>
+  </node>
+  <node id="5587366201" lat="40.4554176" lon="-80.0075346">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Brugge on North"/>
+  </node>
+  <node id="5824544292" lat="40.4398867" lon="-80.0023571">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Fourth Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mediterranean;turkish;pizza"/>
+    <tag k="name" v="Ephesus"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5930304618" lat="40.4535054" lon="-80.0010857">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Siempre Algo"/>
+  </node>
+  <node id="6032741513" lat="40.4337589" lon="-80.0046198">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Terrene"/>
+  </node>
+  <node id="6033100482" lat="40.4325381" lon="-80.0039932">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="6041923918" lat="40.4376051" lon="-79.9191091">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="taiwanese"/>
+    <tag k="name" v="Cafe 33 Taiwanese Bistro"/>
+  </node>
+  <node id="6044335580" lat="40.4608562" lon="-79.9478572">
+    <tag k="addr:housenumber" v="4766"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza; salad"/>
+    <tag k="delivery" v="Mo-Su 11:00-14:00, 16:00-23:00"/>
+    <tag k="delivery:min_payment" v="10"/>
+    <tag k="name" v="Angelo's Pizzeria"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+    <tag k="phone" v="+1-412621-5330"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://angelospizzeria.us/"/>
+  </node>
+  <node id="6044338909" lat="40.4607931" lon="-79.9477482">
+    <tag k="addr:housenumber" v="4770"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pad Thai Noodle"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-904-1640"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://padthaipitt.com/"/>
+  </node>
+  <node id="6044389852" lat="40.4599397" lon="-79.9461404">
+    <tag k="addr:housenumber" v="4830"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="burger; breakfast; sandwich"/>
+    <tag k="drink:coffee" v="served"/>
+    <tag k="name" v="GM Dog N' Burger Shoppe"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-17:00; Sa 07:00-14:00"/>
+    <tag k="payment:cash" v="only"/>
+    <tag k="phone" v="+1-412-681-8276"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="6044699183" lat="40.4611746" lon="-79.9485071">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4744"/>
+    <tag k="addr:postcode" v="15224"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american;burger"/>
+    <tag k="diet:vegan" v="limited"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="drink:liquor" v="yes"/>
+    <tag k="drink:wine" v="yes"/>
+    <tag k="happy_hours" v="yes"/>
+    <tag k="opening_hours" v="Tu-Sa 11:30-24:30; Su 17:00-24:30"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://stationrestaurantpittsburgh.com"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6050046173" lat="40.4619774" lon="-79.9493153">
+    <tag k="addr:housenumber" v="4715"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="craft" v="caterer"/>
+    <tag k="cuisine" v="breakfast"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="email" v="azoreancafe@gmail.com"/>
+    <tag k="name" v="Azorean Cafe"/>
+    <tag k="opening_hours" v="Tu-Fr 09:00-21:00; Mo, Sa, Su 07:30-16:00"/>
+    <tag k="organic" v="yes"/>
+    <tag k="phone" v="+1-(412) 586-4241"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://azoreancafe.com/"/>
+  </node>
+  <node id="6050122404" lat="40.4624089" lon="-79.9500631">
+    <tag k="addr:housenumber" v="4621"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="craft" v="caterer"/>
+    <tag k="cuisine" v="chicken; pasta; salad"/>
+    <tag k="email" v="sausalido@live.com"/>
+    <tag k="name" v="Sausalido"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1-412-683-4575"/>
+    <tag k="website" v="https://sausalido.net/"/>
+  </node>
+  <node id="6050122405" lat="40.4625436" lon="-79.9503820">
+    <tag k="addr:housenumber" v="4713"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pastry; salad; sandwich"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="name" v="Bitter Ends Garden &amp; Luncheonette"/>
+    <tag k="opening_hours" v="We 16:00-19:00; Th 12:00-14:00; Fr 08:00-14:00; Sa, Su 09:00-14:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.tillthebitterends.com/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6050559785" lat="40.4620502" lon="-79.9500985">
+    <tag k="addr:housenumber" v="4624"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="branch" v="Bloomfield"/>
+    <tag k="cocktails" v="yes"/>
+    <tag k="craft" v="caterer"/>
+    <tag k="cuisine" v="pizza; burger; sandwich"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="drink:liquor" v="yes"/>
+    <tag k="drink:wine" v="yes"/>
+    <tag k="fireplace" v="yes"/>
+    <tag k="happy_hours" v="yes"/>
+    <tag k="name" v="Caliente Pizza &amp; Drafthouse"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-14:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-682-1414"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://pizzadrafthouse.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="6051094664" lat="40.4627447" lon="-79.9513994">
+    <tag k="addr:housenumber" v="4512"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pizza Italia"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-22:00; Fr, Sa 11:00-23:00; Su 12:00-21:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1-412-621-8960"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="6051095563" lat="40.4627819" lon="-79.9514542">
+    <tag k="addr:housenumber" v="4510"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Nana's Place By Gibson"/>
+    <tag k="opening_hours" v="Tu-Sa 11:30-19:30"/>
+    <tag k="phone" v="+1-412-682-1400"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="6051095809" lat="40.4628075" lon="-79.9515342">
+    <tag k="addr:housenumber" v="4508"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Baby Loves Tacos"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-20:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="http://babylovestacospgh.com/"/>
+  </node>
+  <node id="6051095810" lat="40.4628250" lon="-79.9515938">
+    <tag k="addr:housenumber" v="4506"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="China House"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-22:00; Sa 11:00-23:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-621-0995"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.chinahouse15224.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6053510156" lat="40.4630525" lon="-79.9520649">
+    <tag k="addr:housenumber" v="4428"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="craft" v="caterer"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="drink:liquor" v="yes"/>
+    <tag k="email" v="info@sugarandsmokepgh.com"/>
+    <tag k="happy_hours" v="yes"/>
+    <tag k="name" v="Sugar and Smoke"/>
+    <tag k="opening_hours" v="Tu-Sa 11:00-15:00, 17:00-22:00; Su 11:00-16:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1-412-251-0240"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://sugarandsmokepgh.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="6066644204" lat="40.4656487" lon="-79.9545721">
+    <tag k="addr:housenumber" v="4110"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="burrito; taco; torta"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="email" v="loscabosmexfood@gmail.com"/>
+    <tag k="name" v="Los Cabos Mexican Restaurant"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-22:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1-412-251-5105"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://loscabosmexfood.wordpress.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6066644329" lat="40.4658200" lon="-79.9548367">
+    <tag k="addr:housenumber" v="4109"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="name" v="Graziano's Pizzeria"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-22:00; Su 11:00-21:00"/>
+    <tag k="phone" v="+1-412-621-7790"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://grazianospizzeriaandbeer.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6066760416" lat="40.4656940" lon="-79.9555438">
+    <tag k="addr:housenumber" v="4065"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza; salad; sandwich"/>
+    <tag k="delivery" v="Mo-Sa 11:00-21:30"/>
+    <tag k="name" v="Fox's Pizza Den"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-22:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-683-1011"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://foxspizzadenlawrenceville.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6067259566" lat="40.4582674" lon="-79.9751717">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Smallman Street Deli"/>
+  </node>
+  <node id="6073630726" lat="40.4545677" lon="-79.9791587">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Edgar's Best Tacos"/>
+  </node>
+  <node id="6073929741" lat="40.4519558" lon="-79.9833119">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Chicken Latino"/>
+  </node>
+  <node id="6073983272" lat="40.4516919" lon="-79.9833097">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Casa Reyna"/>
+  </node>
+  <node id="6074063184" lat="40.4516516" lon="-79.9844704">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Kaya"/>
+  </node>
+  <node id="6074063992" lat="40.4520831" lon="-79.9837757">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Smallman Galley"/>
+  </node>
+  <node id="6074063993" lat="40.4519657" lon="-79.9836261">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pamela's Diner"/>
+    <tag k="wikidata" v="Q15265231"/>
+  </node>
+  <node id="6074311282" lat="40.4490529" lon="-79.9873428">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Maiku Sushi and Pho"/>
+  </node>
+  <node id="6074312188" lat="40.4489766" lon="-79.9874913">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Gaucho Parrilla Argentina"/>
+  </node>
+  <node id="6076527369" lat="40.4507961" lon="-79.9842210">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Little Bangkok in the Strip"/>
+  </node>
+  <node id="6076721443" lat="40.4515262" lon="-79.9827540">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pittsburgh Popcorn Company"/>
+  </node>
+  <node id="6076721445" lat="40.4518012" lon="-79.9827650">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Luke Wholey's Wild Alaskan Grille"/>
+  </node>
+  <node id="6076721450" lat="40.4519840" lon="-79.9824985">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pho Van"/>
+  </node>
+  <node id="6076809937" lat="40.4652606" lon="-79.9568287">
+    <tag k="addr:housenumber" v="4028"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Fazio's Pizza"/>
+    <tag k="opening_hours" v="Fr, Sa 11:00-23:00; Tu-Th 11:00-22:00; Su 12:00-20:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1-412-251-5312"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://faziopizza.com/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6076837752" lat="40.4646729" lon="-79.9602603">
+    <tag k="addr:housenumber" v="3832"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="craft" v="caterer"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="drink:liquor" v="yes"/>
+    <tag k="drink:wine" v="yes"/>
+    <tag k="name" v="Piazza Talarico and Papa Joe’s Wine Cellar"/>
+    <tag k="opening_hours" v="Tu-Th 12:00-20:00; Fr, Sa 12:00-21:00; PH off"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1-412-652-9426"/>
+    <tag k="reservation" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://piazzatalarico.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6077289113" lat="40.4525707" lon="-79.9816679">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bar Marco"/>
+  </node>
+  <node id="6089215012" lat="40.4420183" lon="-80.0032473">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Fresh Corner"/>
+  </node>
+  <node id="6089215013" lat="40.4419389" lon="-80.0032113">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Rosso Pizzeria"/>
+  </node>
+  <node id="6089215014" lat="40.4419808" lon="-80.0030672">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Wok &amp; Grill"/>
+  </node>
+  <node id="6114037985" lat="40.4463911" lon="-79.9915914">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Sushi Kim"/>
+  </node>
+  <node id="6114038018" lat="40.4460499" lon="-79.9921633">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Crystal"/>
+  </node>
+  <node id="6216528776" lat="40.4447106" lon="-79.9951092">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Jimmy John's"/>
+  </node>
+  <node id="6219141647" lat="40.4439342" lon="-79.9948781">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bill's Bar &amp; Burger"/>
+  </node>
+  <node id="6226454007" lat="40.4852729" lon="-79.9258105">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1744"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:street" v="Chislett Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Eddie's Pizza"/>
+    <tag k="note" v="Carry out or delivery only. Cash only."/>
+    <tag k="phone" v="(412) 361-6600"/>
+  </node>
+  <node id="6227359462" lat="40.4425223" lon="-79.9955603">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Au Bon Pain"/>
+  </node>
+  <node id="6247555254" lat="40.4436194" lon="-79.9958438">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pizza Parma"/>
+  </node>
+  <node id="6264981067" lat="40.4410383" lon="-80.0032768">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Forbes Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Cherries Diner"/>
+    <tag k="opening_hours" v="Mo-Fr 7:00-15:00; Sa 8:00-14:00"/>
+    <tag k="phone" v="(412) 281-8182"/>
+  </node>
+  <node id="6266219592" lat="40.4270626" lon="-79.9733459">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="asian;thai"/>
+    <tag k="delivery" v="no"/>
+    <tag k="name" v="Thai Me Up"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-21:30, Sa 12:00-21:30"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="6266628083" lat="40.4435706" lon="-79.9960288">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Joe &amp; Pie Cafe &amp; Pizzeria"/>
+  </node>
+  <node id="6266628089" lat="40.4435372" lon="-79.9961379">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bae Bae's Kitchen"/>
+  </node>
+  <node id="6266628095" lat="40.4435032" lon="-79.9962844">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Mahoney’s Restaurant"/>
+  </node>
+  <node id="6271848238" lat="40.4433145" lon="-79.9970334">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Mike &amp; Tony's Gyros"/>
+  </node>
+  <node id="6271902565" lat="40.4443183" lon="-79.9957294">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Ten Penny"/>
+  </node>
+  <node id="6271902576" lat="40.4441376" lon="-79.9963719">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="August Henry's Burger Bar"/>
+  </node>
+  <node id="6271902577" lat="40.4441014" lon="-79.9965117">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Sienna Mercato"/>
+  </node>
+  <node id="6271957842" lat="40.4440775" lon="-79.9966719">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bakersfield"/>
+  </node>
+  <node id="6271957850" lat="40.4440251" lon="-79.9968420">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="6271957857" lat="40.4439220" lon="-79.9972592">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Sharp Edge Bistro"/>
+  </node>
+  <node id="6271957858" lat="40.4439889" lon="-79.9969943">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bridges &amp; Bourbon"/>
+  </node>
+  <node id="6281224691" lat="40.4431039" lon="-79.9979225">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Sammy's Famous Corned Beef"/>
+  </node>
+  <node id="6281334789" lat="40.4438898" lon="-79.9982004">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Nicky's Thai Kitchen"/>
+  </node>
+  <node id="6375119969" lat="40.4439961" lon="-80.0004800">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Social House 7"/>
+  </node>
+  <node id="6375142272" lat="40.4434885" lon="-79.9989144">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Cafe 808"/>
+  </node>
+  <way id="34343097">
+    <bounds minlat="40.4559125" minlon="-79.9376123" maxlat="40.4561883" maxlon="-79.9372540"/>
+    <nd ref="1792246146" lat="40.4559125" lon="-79.9374990"/>
+    <nd ref="1792246148" lat="40.4559962" lon="-79.9372540"/>
+    <nd ref="393935040" lat="40.4561883" lon="-79.9373672"/>
+    <nd ref="393935039" lat="40.4561046" lon="-79.9376123"/>
+    <nd ref="1792246146" lat="40.4559125" lon="-79.9374990"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="5430"/>
+    <tag k="addr:postcode" v="15232"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Centre Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Panera Bread"/>
+  </way>
+  <way id="43047818">
+    <bounds minlat="40.4340848" minlon="-80.0056531" maxlat="40.4346192" maxlon="-80.0049720"/>
+    <nd ref="539280468" lat="40.4346192" lon="-80.0052831"/>
+    <nd ref="539280472" lat="40.4345691" lon="-80.0051966"/>
+    <nd ref="6032740635" lat="40.4345752" lon="-80.0051896"/>
+    <nd ref="6032740636" lat="40.4345245" lon="-80.0051016"/>
+    <nd ref="6032740637" lat="40.4345170" lon="-80.0051085"/>
+    <nd ref="6032740638" lat="40.4344953" lon="-80.0050706"/>
+    <nd ref="6032740639" lat="40.4345018" lon="-80.0050646"/>
+    <nd ref="539280476" lat="40.4344512" lon="-80.0049720"/>
+    <nd ref="539280479" lat="40.4343507" lon="-80.0050737"/>
+    <nd ref="3235594673" lat="40.4343315" lon="-80.0050412"/>
+    <nd ref="539280483" lat="40.4343104" lon="-80.0050047"/>
+    <nd ref="539280489" lat="40.4342547" lon="-80.0050601"/>
+    <nd ref="539280495" lat="40.4342632" lon="-80.0050734"/>
+    <nd ref="6032740640" lat="40.4342522" lon="-80.0050897"/>
+    <nd ref="539280501" lat="40.4341763" lon="-80.0050786"/>
+    <nd ref="539280513" lat="40.4341001" lon="-80.0051511"/>
+    <nd ref="539280519" lat="40.4340848" lon="-80.0052990"/>
+    <nd ref="539280526" lat="40.4341454" lon="-80.0054093"/>
+    <nd ref="539280532" lat="40.4340879" lon="-80.0054695"/>
+    <nd ref="6032740641" lat="40.4341106" lon="-80.0055141"/>
+    <nd ref="6032740642" lat="40.4341154" lon="-80.0055102"/>
+    <nd ref="539280538" lat="40.4341656" lon="-80.0055920"/>
+    <nd ref="539280541" lat="40.4341939" lon="-80.0055653"/>
+    <nd ref="539280543" lat="40.4342435" lon="-80.0056531"/>
+    <nd ref="6032740643" lat="40.4344122" lon="-80.0054859"/>
+    <nd ref="539280468" lat="40.4346192" lon="-80.0052831"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="242"/>
+    <tag k="addr:postcode" v="15219"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="West Station Square Drive"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="commercial"/>
+    <tag k="cocktails" v="yes"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="delivery" v="no"/>
+    <tag k="name" v="The Melting Pot"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-22:00; Fr 16:00-23:00; Sa 12:00-23:00; Su 11:00-21:00; Dec 24 12:00-20:00; Dec 25 off"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+1 412 261 3477"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="no"/>
+    <tag k="website" v="https://www.meltingpot.com/pittsburgh-pa/"/>
+  </way>
+  <way id="43047819">
+    <bounds minlat="40.4338091" minlon="-80.0051364" maxlat="40.4341462" maxlon="-80.0046893"/>
+    <nd ref="539280570" lat="40.4341274" lon="-80.0049909"/>
+    <nd ref="539280578" lat="40.4341042" lon="-80.0049480"/>
+    <nd ref="539280586" lat="40.4341462" lon="-80.0049062"/>
+    <nd ref="6032741385" lat="40.4341232" lon="-80.0048673"/>
+    <nd ref="6032741402" lat="40.4341216" lon="-80.0048542"/>
+    <nd ref="539280593" lat="40.4341152" lon="-80.0048029"/>
+    <nd ref="539280602" lat="40.4340880" lon="-80.0047576"/>
+    <nd ref="6032741403" lat="40.4340547" lon="-80.0047379"/>
+    <nd ref="539280607" lat="40.4340443" lon="-80.0047318"/>
+    <nd ref="539280613" lat="40.4340220" lon="-80.0046909"/>
+    <nd ref="539280618" lat="40.4339810" lon="-80.0047307"/>
+    <nd ref="539280622" lat="40.4339570" lon="-80.0046893"/>
+    <nd ref="539280635" lat="40.4338091" lon="-80.0048345"/>
+    <nd ref="539280636" lat="40.4338329" lon="-80.0048770"/>
+    <nd ref="539280648" lat="40.4338230" lon="-80.0048875"/>
+    <nd ref="6032741448" lat="40.4338280" lon="-80.0048968"/>
+    <nd ref="6032741386" lat="40.4338717" lon="-80.0049770"/>
+    <nd ref="6032741387" lat="40.4338630" lon="-80.0049839"/>
+    <nd ref="6032741388" lat="40.4338881" lon="-80.0050283"/>
+    <nd ref="6032741389" lat="40.4338964" lon="-80.0050203"/>
+    <nd ref="6032741443" lat="40.4339459" lon="-80.0051018"/>
+    <nd ref="539280655" lat="40.4339476" lon="-80.0051047"/>
+    <nd ref="539280658" lat="40.4339583" lon="-80.0050944"/>
+    <nd ref="539280662" lat="40.4339823" lon="-80.0051364"/>
+    <nd ref="6032741439" lat="40.4339928" lon="-80.0051259"/>
+    <nd ref="539280570" lat="40.4341274" lon="-80.0049909"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hard Rock Cafe"/>
+  </way>
+  <way id="109728531">
+    <bounds minlat="40.4537828" minlon="-79.9496113" maxlat="40.4539739" maxlon="-79.9494667"/>
+    <nd ref="1255345513" lat="40.4537828" lon="-79.9495873"/>
+    <nd ref="1255345511" lat="40.4539647" lon="-79.9496113"/>
+    <nd ref="1255345527" lat="40.4539739" lon="-79.9494907"/>
+    <nd ref="1255345535" lat="40.4537920" lon="-79.9494667"/>
+    <nd ref="1255345513" lat="40.4537828" lon="-79.9495873"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4710"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Baum Boulevard"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Hut"/>
+  </way>
+  <way id="109860416">
+    <bounds minlat="40.4148589" minlon="-79.9235688" maxlat="40.4151570" maxlon="-79.9231843"/>
+    <nd ref="1256617309" lat="40.4148589" lon="-79.9232891"/>
+    <nd ref="5196540037" lat="40.4148880" lon="-79.9233377"/>
+    <nd ref="5196540038" lat="40.4148784" lon="-79.9233477"/>
+    <nd ref="5196540040" lat="40.4149691" lon="-79.9234988"/>
+    <nd ref="5196540039" lat="40.4149547" lon="-79.9235137"/>
+    <nd ref="1256617233" lat="40.4149878" lon="-79.9235688"/>
+    <nd ref="1256617248" lat="40.4151570" lon="-79.9233935"/>
+    <nd ref="1256617346" lat="40.4150314" lon="-79.9231843"/>
+    <nd ref="5196540041" lat="40.4149579" lon="-79.9232604"/>
+    <nd ref="5196540042" lat="40.4149305" lon="-79.9232149"/>
+    <nd ref="1256617309" lat="40.4148589" lon="-79.9232891"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4656"/>
+    <tag k="addr:postcode" v="15217"/>
+    <tag k="addr:street" v="Browns Hill Rd"/>
+    <tag k="alt_name" v="International House of Pancakes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="IHOP"/>
+    <tag k="website" v="https://www.ihop.com/"/>
+  </way>
+  <way id="121054817">
+    <bounds minlat="40.4450727" minlon="-79.9492680" maxlat="40.4452110" maxlon="-79.9488498"/>
+    <nd ref="1356020432" lat="40.4451493" lon="-79.9492378"/>
+    <nd ref="1356020428" lat="40.4451126" lon="-79.9492316"/>
+    <nd ref="1356020422" lat="40.4451105" lon="-79.9492579"/>
+    <nd ref="1356020430" lat="40.4450957" lon="-79.9492558"/>
+    <nd ref="1356020431" lat="40.4450942" lon="-79.9492680"/>
+    <nd ref="1356020415" lat="40.4450727" lon="-79.9492633"/>
+    <nd ref="3315425385" lat="40.4450773" lon="-79.9492090"/>
+    <nd ref="1356020426" lat="40.4451074" lon="-79.9488498"/>
+    <nd ref="1356020429" lat="40.4452110" lon="-79.9488623"/>
+    <nd ref="1356020420" lat="40.4451881" lon="-79.9491982"/>
+    <nd ref="1356020424" lat="40.4451533" lon="-79.9491944"/>
+    <nd ref="1356020432" lat="40.4451493" lon="-79.9492378"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:street" v="South Craig St"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="name" v="Lulu's Noodles"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="126258080">
+    <bounds minlat="40.4598383" minlon="-79.9242697" maxlat="40.4600940" maxlon="-79.9240828"/>
+    <nd ref="1400139733" lat="40.4600743" lon="-79.9242697"/>
+    <nd ref="1371543296" lat="40.4600940" lon="-79.9242032"/>
+    <nd ref="1400139746" lat="40.4598580" lon="-79.9240828"/>
+    <nd ref="1400139720" lat="40.4598383" lon="-79.9241494"/>
+    <nd ref="1400139733" lat="40.4600743" lon="-79.9242697"/>
+    <tag k="addr:housenumber" v="6018"/>
+    <tag k="addr:street" v="Penn Circle South"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="french"/>
+    <tag k="name" v="Paris 66"/>
+  </way>
+  <way id="167278398">
+    <bounds minlat="40.4573896" minlon="-79.9291267" maxlat="40.4576266" maxlon="-79.9288368"/>
+    <nd ref="1786872531" lat="40.4576266" lon="-79.9289329"/>
+    <nd ref="1786872523" lat="40.4575391" lon="-79.9288368"/>
+    <nd ref="1786872509" lat="40.4573896" lon="-79.9290803"/>
+    <nd ref="1786872517" lat="40.4575062" lon="-79.9291267"/>
+    <nd ref="1786872531" lat="40.4576266" lon="-79.9289329"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="5863"/>
+    <tag k="addr:postcode" v="15232"/>
+    <tag k="addr:street" v="Ellsworth Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="french"/>
+    <tag k="name" v="Brasserie 33"/>
+    <tag k="website" v="http://www.brasserie33.com/"/>
+  </way>
+  <way id="167875834">
+    <bounds minlat="40.4642679" minlon="-79.9327403" maxlat="40.4646166" maxlon="-79.9323667"/>
+    <nd ref="1792246178" lat="40.4644631" lon="-79.9325985"/>
+    <nd ref="1792246180" lat="40.4644635" lon="-79.9326407"/>
+    <nd ref="1792246202" lat="40.4645410" lon="-79.9326393"/>
+    <nd ref="1792246208" lat="40.4645656" lon="-79.9326390"/>
+    <nd ref="1792246214" lat="40.4646074" lon="-79.9326152"/>
+    <nd ref="1792246212" lat="40.4645976" lon="-79.9325854"/>
+    <nd ref="1792246217" lat="40.4646166" lon="-79.9325746"/>
+    <nd ref="1792246206" lat="40.4645481" lon="-79.9323667"/>
+    <nd ref="1792246191" lat="40.4644927" lon="-79.9323982"/>
+    <nd ref="1792246190" lat="40.4644884" lon="-79.9323850"/>
+    <nd ref="1792246171" lat="40.4644140" lon="-79.9324274"/>
+    <nd ref="1792246172" lat="40.4644233" lon="-79.9324556"/>
+    <nd ref="1792246162" lat="40.4642679" lon="-79.9325441"/>
+    <nd ref="1792246164" lat="40.4642966" lon="-79.9326313"/>
+    <nd ref="1792246163" lat="40.4642686" lon="-79.9326472"/>
+    <nd ref="1792246165" lat="40.4642993" lon="-79.9327403"/>
+    <nd ref="1792246168" lat="40.4644056" lon="-79.9326798"/>
+    <nd ref="1792246167" lat="40.4643991" lon="-79.9326600"/>
+    <nd ref="1792246174" lat="40.4644407" lon="-79.9326363"/>
+    <nd ref="1792246173" lat="40.4644337" lon="-79.9326152"/>
+    <nd ref="1792246178" lat="40.4644631" lon="-79.9325985"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="5491"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="drink:beer" v="served"/>
+    <tag k="drink:liquor" v="served"/>
+    <tag k="drink:wine" v="served"/>
+    <tag k="name" v="Verde"/>
+    <tag k="website" v="https://www.verdepgh.com/"/>
+  </way>
+  <way id="172662341">
+    <bounds minlat="40.4447710" minlon="-79.9486088" maxlat="40.4448700" maxlon="-79.9482205"/>
+    <nd ref="1835436589" lat="40.4447710" lon="-79.9486025"/>
+    <nd ref="1835444418" lat="40.4448450" lon="-79.9486088"/>
+    <nd ref="1835444420" lat="40.4448700" lon="-79.9482286"/>
+    <nd ref="1835444416" lat="40.4448028" lon="-79.9482205"/>
+    <nd ref="1835444412" lat="40.4448017" lon="-79.9482367"/>
+    <nd ref="1835412292" lat="40.4447978" lon="-79.9482364"/>
+    <nd ref="1835433311" lat="40.4447915" lon="-79.9482360"/>
+    <nd ref="1835433310" lat="40.4447853" lon="-79.9484093"/>
+    <nd ref="1835436590" lat="40.4447780" lon="-79.9484088"/>
+    <nd ref="1835436589" lat="40.4447710" lon="-79.9486025"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="413"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="S Craig St"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Union Grill"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 12:00-21:00"/>
+    <tag k="phone" v="+1-412-681-8620"/>
+    <tag k="source" v="Bing"/>
+    <tag k="website" v="http://pghdining.com/?option=com_content&amp;id=11"/>
+  </way>
+  <way id="176867971">
+    <bounds minlat="40.4510629" minlon="-79.9520836" maxlat="40.4512339" maxlon="-79.9518074"/>
+    <nd ref="1873491041" lat="40.4510890" lon="-79.9519559"/>
+    <nd ref="1873491039" lat="40.4510629" lon="-79.9520298"/>
+    <nd ref="1873491045" lat="40.4511509" lon="-79.9520836"/>
+    <nd ref="1873491049" lat="40.4512339" lon="-79.9518491"/>
+    <nd ref="1873491047" lat="40.4511657" lon="-79.9518074"/>
+    <nd ref="1873491043" lat="40.4511146" lon="-79.9519519"/>
+    <nd ref="1873491041" lat="40.4510890" lon="-79.9519559"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="N Craig St"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Tamarind"/>
+    <tag k="opening_hours" v="Tu-Fr 11:30-14:30,17:00-22:00; Sa-Su 12:00-15:00,17:00-22:30"/>
+    <tag k="phone" v="+1-412-605-0500"/>
+    <tag k="source" v="Bing"/>
+    <tag k="website" v="http://www.tamarindpa.com/"/>
+  </way>
+  <way id="202674568">
+    <bounds minlat="40.4434975" minlon="-80.0003027" maxlat="40.4436498" maxlon="-80.0000011"/>
+    <nd ref="2126388546" lat="40.4435725" lon="-80.0000011"/>
+    <nd ref="2126388543" lat="40.4435519" lon="-80.0000727"/>
+    <nd ref="2126388542" lat="40.4434975" lon="-80.0002657"/>
+    <nd ref="2126388545" lat="40.4435820" lon="-80.0003027"/>
+    <nd ref="2126388549" lat="40.4436498" lon="-80.0000360"/>
+    <nd ref="2126388546" lat="40.4435725" lon="-80.0000011"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="7th Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Proper Brick Oven &amp; Tap Room"/>
+    <tag k="phone" v="412-391-1091"/>
+  </way>
+  <way id="202721271">
+    <bounds minlat="40.4433359" minlon="-80.0023658" maxlat="40.4435046" maxlon="-80.0020655"/>
+    <nd ref="2126716343" lat="40.4433359" lon="-80.0023195"/>
+    <nd ref="2126716355" lat="40.4434373" lon="-80.0023658"/>
+    <nd ref="2126716363" lat="40.4435046" lon="-80.0021118"/>
+    <nd ref="2126716352" lat="40.4434031" lon="-80.0020655"/>
+    <nd ref="2126716343" lat="40.4433359" lon="-80.0023195"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="6th Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Giovanni's Pizza &amp; Pasta"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-01:00; Fr 09:00-02:00; Sa 10:00-02:00; Su 10:00-01:00"/>
+    <tag k="website" v="http://ilovegiovannis.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="202731609">
+    <bounds minlat="40.4408803" minlon="-80.0021358" maxlat="40.4410766" maxlon="-80.0019197"/>
+    <nd ref="2126775534" lat="40.4408803" lon="-80.0020198"/>
+    <nd ref="2126775536" lat="40.4409245" lon="-80.0021358"/>
+    <nd ref="2126775550" lat="40.4410766" lon="-80.0020357"/>
+    <nd ref="2126775545" lat="40.4410324" lon="-80.0019197"/>
+    <nd ref="2126775534" lat="40.4408803" lon="-80.0020198"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Original Oyster House"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-22:00"/>
+    <tag k="phone" v="412-566-7925"/>
+    <tag k="website" v="http://originaloysterhousepittsburgh.com/"/>
+  </way>
+  <way id="202731619">
+    <bounds minlat="40.4405888" minlon="-80.0020001" maxlat="40.4407675" maxlon="-80.0016751"/>
+    <nd ref="2126775525" lat="40.4406943" lon="-80.0020001"/>
+    <nd ref="2126775528" lat="40.4407675" lon="-80.0019520"/>
+    <nd ref="2126775527" lat="40.4407595" lon="-80.0019308"/>
+    <nd ref="2126775524" lat="40.4406620" lon="-80.0016751"/>
+    <nd ref="2126775520" lat="40.4405888" lon="-80.0017232"/>
+    <nd ref="2126775521" lat="40.4405916" lon="-80.0017306"/>
+    <nd ref="2126775525" lat="40.4406943" lon="-80.0020001"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="delivery" v="no"/>
+    <tag k="name" v="DiBella's"/>
+    <tag k="opening_hours" v="Mo-Fri 10am-9pm"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+  </way>
+  <way id="202772975">
+    <bounds minlat="40.4402850" minlon="-80.0010606" maxlat="40.4404258" maxlon="-80.0007709"/>
+    <nd ref="2127151563" lat="40.4404258" lon="-80.0010336"/>
+    <nd ref="2127151534" lat="40.4403264" lon="-80.0007709"/>
+    <nd ref="2127151529" lat="40.4402850" lon="-80.0007979"/>
+    <nd ref="2127151537" lat="40.4403844" lon="-80.0010606"/>
+    <nd ref="2127151563" lat="40.4404258" lon="-80.0010336"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Wood Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mamma Lucia"/>
+    <tag k="opening_hours" v="Mo-Fr 9:00-18:00; Sa 10:00-17:00"/>
+    <tag k="phone" v="(412) 281-0416"/>
+    <tag k="website" v="http://www.facebook.com/pages/Mamma-Lucias-Pizzeria/103020379780"/>
+  </way>
+  <way id="202772976">
+    <bounds minlat="40.4401679" minlon="-80.0027692" maxlat="40.4403502" maxlon="-80.0024796"/>
+    <nd ref="2126775507" lat="40.4403502" lon="-80.0027061"/>
+    <nd ref="2126775497" lat="40.4402639" lon="-80.0024796"/>
+    <nd ref="2127151510" lat="40.4401679" lon="-80.0025427"/>
+    <nd ref="2127151521" lat="40.4402542" lon="-80.0027692"/>
+    <nd ref="2126775507" lat="40.4403502" lon="-80.0027061"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Primanti Bros. Restaurant"/>
+    <tag k="opening_hours" v="10:00-24:00"/>
+    <tag k="phone" v="(412) 261-1599"/>
+    <tag k="website" v="https://primantibros.com/"/>
+  </way>
+  <way id="202782421">
+    <bounds minlat="40.4395478" minlon="-80.0016622" maxlat="40.4398247" maxlon="-80.0013904"/>
+    <nd ref="2127251897" lat="40.4395478" lon="-80.0015675"/>
+    <nd ref="2127251898" lat="40.4395839" lon="-80.0016622"/>
+    <nd ref="2127251912" lat="40.4398247" lon="-80.0015035"/>
+    <nd ref="2127251907" lat="40.4397817" lon="-80.0013904"/>
+    <nd ref="2127251902" lat="40.4397371" lon="-80.0014197"/>
+    <nd ref="2119445216" lat="40.4397441" lon="-80.0014382"/>
+    <nd ref="6045461506" lat="40.4396089" lon="-80.0015280"/>
+    <nd ref="2127251897" lat="40.4395478" lon="-80.0015675"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Fourth Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Tavern 245"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-2:00; Sa 11:00-15:00, 17:00-2:00"/>
+    <tag k="phone" v="(412) 281-4345"/>
+    <tag k="website" v="http://tavern245.com/"/>
+  </way>
+  <way id="202782426">
+    <bounds minlat="40.4397035" minlon="-80.0015636" maxlat="40.4398907" maxlon="-80.0011477"/>
+    <nd ref="2127251904" lat="40.4397607" lon="-80.0011477"/>
+    <nd ref="2127251901" lat="40.4397035" lon="-80.0011852"/>
+    <nd ref="2127251905" lat="40.4397756" lon="-80.0013744"/>
+    <nd ref="2127251907" lat="40.4397817" lon="-80.0013904"/>
+    <nd ref="2127251912" lat="40.4398247" lon="-80.0015035"/>
+    <nd ref="2127251915" lat="40.4398476" lon="-80.0015636"/>
+    <nd ref="2127251920" lat="40.4398907" lon="-80.0015352"/>
+    <nd ref="2127251911" lat="40.4398187" lon="-80.0013460"/>
+    <nd ref="2127251914" lat="40.4398328" lon="-80.0013368"/>
+    <nd ref="2127251913" lat="40.4398303" lon="-80.0013302"/>
+    <nd ref="2127251904" lat="40.4397607" lon="-80.0011477"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Wood Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="phone" v="412-246-2042"/>
+    <tag k="website" v="http://mexicocitypgh.com/"/>
+  </way>
+  <way id="202871673">
+    <bounds minlat="40.4385874" minlon="-80.0033908" maxlat="40.4388023" maxlon="-80.0031306"/>
+    <nd ref="2128108921" lat="40.4387519" lon="-80.0031306"/>
+    <nd ref="2128108911" lat="40.4386529" lon="-80.0031951"/>
+    <nd ref="2128108914" lat="40.4386609" lon="-80.0032163"/>
+    <nd ref="2128108916" lat="40.4386751" lon="-80.0032071"/>
+    <nd ref="2128108918" lat="40.4386971" lon="-80.0032653"/>
+    <nd ref="2128108903" lat="40.4385874" lon="-80.0033367"/>
+    <nd ref="2128108905" lat="40.4386078" lon="-80.0033908"/>
+    <nd ref="2128108910" lat="40.4386522" lon="-80.0033619"/>
+    <nd ref="2128108923" lat="40.4388023" lon="-80.0032642"/>
+    <nd ref="2128108921" lat="40.4387519" lon="-80.0031306"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Boulevard of the Allies"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="ristorante@papajs.com"/>
+    <tag k="name" v="PaPa J's"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-21:00"/>
+    <tag k="phone" v="412 429 7272"/>
+    <tag k="website" v="http://www.papajs.com/"/>
+  </way>
+  <way id="202979686">
+    <bounds minlat="40.4375707" minlon="-80.0006987" maxlat="40.4377116" maxlon="-80.0004162"/>
+    <nd ref="2129414027" lat="40.4375707" lon="-80.0004458"/>
+    <nd ref="2129414044" lat="40.4376463" lon="-80.0006462"/>
+    <nd ref="2129414048" lat="40.4376661" lon="-80.0006987"/>
+    <nd ref="2129414054" lat="40.4377116" lon="-80.0006691"/>
+    <nd ref="2129414052" lat="40.4377046" lon="-80.0006505"/>
+    <nd ref="2129414040" lat="40.4376162" lon="-80.0004162"/>
+    <nd ref="2129414027" lat="40.4375707" lon="-80.0004458"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Smithfield Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Mexico City"/>
+    <tag k="opening_hours" v="Mo-Tu 11:00-21:00; We, Sa 11:00-2:00; Tu, Fr 11:00-22:00"/>
+    <tag k="phone" v="(412) 246-2042"/>
+    <tag k="website" v="http://mexicocitypgh.com/"/>
+  </way>
+  <way id="202979694">
+    <bounds minlat="40.4373421" minlon="-80.0002865" maxlat="40.4374894" maxlon="-79.9999909"/>
+    <nd ref="2129413976" lat="40.4374420" lon="-80.0002865"/>
+    <nd ref="2129414004" lat="40.4374894" lon="-80.0002557"/>
+    <nd ref="2129413969" lat="40.4374117" lon="-80.0000499"/>
+    <nd ref="2129413963" lat="40.4373894" lon="-79.9999909"/>
+    <nd ref="2129413955" lat="40.4373421" lon="-80.0000217"/>
+    <nd ref="2129413976" lat="40.4374420" lon="-80.0002865"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Smithfield Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bea Taco Town"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-16:00; Sa-Su closed"/>
+    <tag k="phone" v="412-471-8800"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="beataqueria.com"/>
+  </way>
+  <way id="202979697">
+    <bounds minlat="40.4374732" minlon="-80.0006713" maxlat="40.4375805" maxlon="-80.0004793"/>
+    <nd ref="2129413993" lat="40.4374732" lon="-80.0005093"/>
+    <nd ref="2129414013" lat="40.4375343" lon="-80.0006713"/>
+    <nd ref="2129414030" lat="40.4375805" lon="-80.0006413"/>
+    <nd ref="2129414008" lat="40.4375194" lon="-80.0004793"/>
+    <nd ref="2129413993" lat="40.4374732" lon="-80.0005093"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Smithfield Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="R &amp; B's Pizza Place"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-1:30; Sa 11:00-1:30; Su 10:00-1:30"/>
+    <tag k="phone" v="(412) 288-8888"/>
+    <tag k="website" v="http://www.rbspizzaplace.com/"/>
+  </way>
+  <way id="203238863">
+    <bounds minlat="40.4397257" minlon="-80.0006120" maxlat="40.4398876" maxlon="-80.0004575"/>
+    <nd ref="2132270721" lat="40.4398876" lon="-80.0005214"/>
+    <nd ref="2132270719" lat="40.4398632" lon="-80.0004575"/>
+    <nd ref="2132270692" lat="40.4397257" lon="-80.0005480"/>
+    <nd ref="2132270695" lat="40.4397502" lon="-80.0006120"/>
+    <nd ref="2132270713" lat="40.4398341" lon="-80.0005566"/>
+    <nd ref="2132270721" lat="40.4398876" lon="-80.0005214"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Forbes Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Penn Avenue Fish Company"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-16:00"/>
+    <tag k="phone" v="(412) 562-1710"/>
+    <tag k="website" v="http://www.pennavefishcompany.com/"/>
+  </way>
+  <way id="203411104">
+    <bounds minlat="40.4368808" minlon="-79.9974819" maxlat="40.4371810" maxlon="-79.9972293"/>
+    <nd ref="2134218503" lat="40.4371810" lon="-79.9973058"/>
+    <nd ref="2134218496" lat="40.4371522" lon="-79.9972293"/>
+    <nd ref="2134218466" lat="40.4369883" lon="-79.9973356"/>
+    <nd ref="2134218455" lat="40.4368808" lon="-79.9974053"/>
+    <nd ref="2134218458" lat="40.4369095" lon="-79.9974819"/>
+    <nd ref="2134218469" lat="40.4370162" lon="-79.9974127"/>
+    <nd ref="2134218471" lat="40.4370255" lon="-79.9974067"/>
+    <nd ref="2134218503" lat="40.4371810" lon="-79.9973058"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="522"/>
+    <tag k="addr:postcode" v="15219"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Third Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Chinatown Inn"/>
+    <tag k="opening_hours" v="Mo-Tu 10:30-22:00; Fr-Sa 10:30-3:00; Su 14:00-22:00"/>
+    <tag k="phone" v="(412) 261-1292"/>
+    <tag k="website" v="www.chinatowninn.net"/>
+  </way>
+  <way id="203411105">
+    <bounds minlat="40.4371417" minlon="-79.9965699" maxlat="40.4373377" maxlon="-79.9963234"/>
+    <nd ref="2134218517" lat="40.4372209" lon="-79.9965699"/>
+    <nd ref="2134218525" lat="40.4373377" lon="-79.9964942"/>
+    <nd ref="2134218520" lat="40.4372769" lon="-79.9963324"/>
+    <nd ref="2134218516" lat="40.4372153" lon="-79.9963724"/>
+    <nd ref="2134218508" lat="40.4371970" lon="-79.9963234"/>
+    <nd ref="2134218492" lat="40.4371417" lon="-79.9963593"/>
+    <nd ref="2134218517" lat="40.4372209" lon="-79.9965699"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:postcode" v="15219"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Ross Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="internet_access" v="(412) 697-3100"/>
+    <tag k="name" v="Common Plea Restaurant"/>
+    <tag k="opening_hours" v="Tu-Fr 11:30-14:30, 17:00-21:00; Sa 17:00-21:00"/>
+    <tag k="website" v="commonplea-restaurant.com"/>
+  </way>
+  <way id="203460343">
+    <bounds minlat="40.4288820" minlon="-79.9833521" maxlat="40.4292159" maxlon="-79.9831974"/>
+    <nd ref="2134753705" lat="40.4288820" lon="-79.9833521"/>
+    <nd ref="2134753769" lat="40.4292159" lon="-79.9833439"/>
+    <nd ref="2134753768" lat="40.4292138" lon="-79.9831974"/>
+    <nd ref="2134753755" lat="40.4291376" lon="-79.9831993"/>
+    <nd ref="2134753710" lat="40.4288858" lon="-79.9832056"/>
+    <nd ref="2134753705" lat="40.4288820" lon="-79.9833521"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1501, 1503"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Finn McCools"/>
+    <tag k="phone" v="+1 412-251-5918"/>
+  </way>
+  <way id="203460356">
+    <bounds minlat="40.4288933" minlon="-79.9829124" maxlat="40.4290971" maxlon="-79.9827608"/>
+    <nd ref="2134753718" lat="40.4288971" lon="-79.9827657"/>
+    <nd ref="2134753716" lat="40.4288933" lon="-79.9829124"/>
+    <nd ref="2134753751" lat="40.4290971" lon="-79.9829073"/>
+    <nd ref="2134753750" lat="40.4290950" lon="-79.9827608"/>
+    <nd ref="2134753718" lat="40.4288971" lon="-79.9827657"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1513, 1515"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@localpgh.com"/>
+    <tag k="name" v="Local Bar + Kitchen"/>
+    <tag k="opening_hours" v="11:00-2:00"/>
+    <tag k="phone" v="412.431.1125"/>
+    <tag k="website" v="http://www.localpgh.com/"/>
+  </way>
+  <way id="203460358">
+    <bounds minlat="40.4289081" minlon="-79.9823561" maxlat="40.4291943" maxlon="-79.9820988"/>
+    <nd ref="2134753762" lat="40.4291943" lon="-79.9823509"/>
+    <nd ref="2134753761" lat="40.4291908" lon="-79.9822108"/>
+    <nd ref="2134753760" lat="40.4291873" lon="-79.9820988"/>
+    <nd ref="2134753730" lat="40.4289495" lon="-79.9821218"/>
+    <nd ref="2134753728" lat="40.4289149" lon="-79.9821714"/>
+    <nd ref="2134753726" lat="40.4289081" lon="-79.9823344"/>
+    <nd ref="2134753738" lat="40.4290847" lon="-79.9823325"/>
+    <nd ref="2134753740" lat="40.4290848" lon="-79.9823561"/>
+    <nd ref="2134753762" lat="40.4291943" lon="-79.9823509"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housename" v="Nakama Japanese Steakhouse"/>
+    <tag k="addr:housenumber" v="1611"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="Nakama Japanese Steakhouse"/>
+    <tag k="opening_hours" v="Mo-We 11:00-22:00; Th-Sa 11:00-23:00; Su 13:00-22:00"/>
+    <tag k="phone" v="412.381.6000"/>
+    <tag k="website" v="http://www.eatatnakama.com/"/>
+  </way>
+  <way id="203507407">
+    <bounds minlat="40.4288453" minlon="-79.9852331" maxlat="40.4290634" maxlon="-79.9851492"/>
+    <nd ref="2135209192" lat="40.4290634" lon="-79.9851570"/>
+    <nd ref="2135209156" lat="40.4288469" lon="-79.9851492"/>
+    <nd ref="2135209155" lat="40.4288453" lon="-79.9852254"/>
+    <nd ref="2135209189" lat="40.4290618" lon="-79.9852331"/>
+    <nd ref="2135209192" lat="40.4290634" lon="-79.9851570"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Pickle Barrel"/>
+    <tag k="phone" v="(412)431-1114"/>
+    <tag k="website" v="http://www.mypicklebarrel.com/"/>
+  </way>
+  <way id="203507409">
+    <bounds minlat="40.4288837" minlon="-79.9835581" maxlat="40.4290412" maxlon="-79.9834907"/>
+    <nd ref="2135209172" lat="40.4288848" lon="-79.9834984"/>
+    <nd ref="2135209171" lat="40.4288837" lon="-79.9835525"/>
+    <nd ref="2135209173" lat="40.4290398" lon="-79.9835581"/>
+    <nd ref="2135209174" lat="40.4290412" lon="-79.9834907"/>
+    <nd ref="2135209172" lat="40.4288848" lon="-79.9834984"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1417 "/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Sola"/>
+    <tag k="opening_hours" v="Mo-We 11:30-0:00; Th-Sa 11:30–3:00; Su 12:30-24:00"/>
+    <tag k="phone" v="412.481.3888"/>
+    <tag k="website" v="https://pizzasola.com/"/>
+  </way>
+  <way id="203511313">
+    <bounds minlat="40.4288273" minlon="-79.9861020" maxlat="40.4289436" maxlon="-79.9860265"/>
+    <nd ref="2135250474" lat="40.4288288" lon="-79.9860265"/>
+    <nd ref="2135250473" lat="40.4288273" lon="-79.9860979"/>
+    <nd ref="2135250481" lat="40.4289421" lon="-79.9861020"/>
+    <nd ref="2135250482" lat="40.4289436" lon="-79.9860305"/>
+    <nd ref="2135250474" lat="40.4288288" lon="-79.9860265"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kassabs"/>
+    <tag k="opening_hours" v="Mo-Sa 10:30-22:00"/>
+    <tag k="phone" v="+1 412-381-1820"/>
+    <tag k="website" v="http://www.facebook.com/pages/Kassabs-Restaurant/313871401963811?rf=121874417822646"/>
+  </way>
+  <way id="203557512">
+    <bounds minlat="40.4286950" minlon="-79.9822998" maxlat="40.4287659" maxlon="-79.9821552"/>
+    <nd ref="2135720701" lat="40.4286950" lon="-79.9821576"/>
+    <nd ref="2135720702" lat="40.4286980" lon="-79.9822998"/>
+    <nd ref="2135720723" lat="40.4287659" lon="-79.9822974"/>
+    <nd ref="2135720722" lat="40.4287630" lon="-79.9821552"/>
+    <nd ref="2135720701" lat="40.4286950" lon="-79.9821576"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Blue Grotto Pizza"/>
+    <tag k="website" v="http://www.bluegrottopizza.com/"/>
+  </way>
+  <way id="203702630">
+    <bounds minlat="40.4285435" minlon="-79.9866548" maxlat="40.4286747" maxlon="-79.9865696"/>
+    <nd ref="2137037588" lat="40.4286747" lon="-79.9865744"/>
+    <nd ref="2137037570" lat="40.4285453" lon="-79.9865696"/>
+    <nd ref="2137037569" lat="40.4285435" lon="-79.9866500"/>
+    <nd ref="2137037575" lat="40.4285765" lon="-79.9866512"/>
+    <nd ref="2137037586" lat="40.4286730" lon="-79.9866548"/>
+    <nd ref="2137037588" lat="40.4286747" lon="-79.9865744"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Yo Rita"/>
+    <tag k="opening_hours" v="Mo-Fr 16:00"/>
+    <tag k="phone" v="412-904-3557"/>
+    <tag k="website" v="http://www.yoritasouthside.com/"/>
+  </way>
+  <way id="203750710">
+    <bounds minlat="40.4284529" minlon="-79.9810863" maxlat="40.4286803" maxlon="-79.9809973"/>
+    <nd ref="2137478638" lat="40.4286803" lon="-79.9810654"/>
+    <nd ref="2137478630" lat="40.4286766" lon="-79.9809973"/>
+    <nd ref="2137478601" lat="40.4284858" lon="-79.9810151"/>
+    <nd ref="2137478594" lat="40.4284529" lon="-79.9810181"/>
+    <nd ref="2137478595" lat="40.4284565" lon="-79.9810863"/>
+    <nd ref="2137478611" lat="40.4285082" lon="-79.9810815"/>
+    <nd ref="2137478618" lat="40.4285922" lon="-79.9810737"/>
+    <nd ref="2137478638" lat="40.4286803" lon="-79.9810654"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1728"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="fixme" v="name"/>
+    <tag k="opening_hours" v="Mo-Th 10:00-12:00; Fr 10:00-3:00; Sa 11:00-3:00; Su 11:00-12:00"/>
+    <tag k="phone" v="(412) 431-1450"/>
+    <tag k="website" v="gennarospizzapasta.com"/>
+  </way>
+  <way id="203799432">
+    <bounds minlat="40.4281709" minlon="-79.9781613" maxlat="40.4285080" maxlon="-79.9780416"/>
+    <nd ref="2137959260" lat="40.4281709" lon="-79.9780740"/>
+    <nd ref="2137959262" lat="40.4281758" lon="-79.9781613"/>
+    <nd ref="2137959305" lat="40.4285080" lon="-79.9781290"/>
+    <nd ref="2137959303" lat="40.4285031" lon="-79.9780416"/>
+    <nd ref="2137959260" lat="40.4281709" lon="-79.9780740"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1924 "/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="fax" v="412.488.6628"/>
+    <tag k="name" v="Pittsburgh Steak Company"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-22:00; Fr, Sa 11:00-23:00; Su 15:00-21:00"/>
+    <tag k="phone" v="412.381.5505"/>
+    <tag k="website" v="www.pghsteak.com"/>
+  </way>
+  <way id="203799433">
+    <bounds minlat="40.4282397" minlon="-79.9793512" maxlat="40.4285751" maxlon="-79.9792407"/>
+    <nd ref="2137959338" lat="40.4285751" lon="-79.9793190"/>
+    <nd ref="2137959336" lat="40.4285707" lon="-79.9792407"/>
+    <nd ref="2137959268" lat="40.4282397" lon="-79.9792729"/>
+    <nd ref="2137959269" lat="40.4282441" lon="-79.9793512"/>
+    <nd ref="2137959288" lat="40.4283615" lon="-79.9793397"/>
+    <nd ref="2137959338" lat="40.4285751" lon="-79.9793190"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1832 "/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Primanti Brothers"/>
+    <tag k="website" v="https://primantibros.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="203908057">
+    <bounds minlat="40.4281516" minlon="-79.9768640" maxlat="40.4284349" maxlon="-79.9767469"/>
+    <nd ref="2139122354" lat="40.4284349" lon="-79.9768368"/>
+    <nd ref="2139122352" lat="40.4284298" lon="-79.9767469"/>
+    <nd ref="2139122312" lat="40.4281516" lon="-79.9767741"/>
+    <nd ref="2139122314" lat="40.4281568" lon="-79.9768640"/>
+    <nd ref="2139122318" lat="40.4282098" lon="-79.9768588"/>
+    <nd ref="2139122354" lat="40.4284349" lon="-79.9768368"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2018"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="fax" v="412.251.0229"/>
+    <tag k="name" v="Lins Asian Fusion"/>
+    <tag k="phone" v="412.251.0228"/>
+    <tag k="website" v="http://www.linsasianfusion.com/"/>
+  </way>
+  <way id="203908059">
+    <bounds minlat="40.4282968" minlon="-79.9775471" maxlat="40.4284742" maxlon="-79.9774405"/>
+    <nd ref="2139122372" lat="40.4284742" lon="-79.9775302"/>
+    <nd ref="2139122370" lat="40.4284691" lon="-79.9774405"/>
+    <nd ref="2139122337" lat="40.4282968" lon="-79.9774574"/>
+    <nd ref="2139122339" lat="40.4283019" lon="-79.9775471"/>
+    <nd ref="2139122372" lat="40.4284742" lon="-79.9775302"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Southside Steaks"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-23:00; Fr 11:00-15:00; Sa 12:00-3:00; Su 12:00-23:00"/>
+    <tag k="phone" v="(412) 390-1844"/>
+    <tag k="website" v="http://www.southsidesteaks.com"/>
+  </way>
+  <way id="203910681">
+    <bounds minlat="40.4282096" minlon="-79.9761456" maxlat="40.4283924" maxlon="-79.9760502"/>
+    <nd ref="2139146317" lat="40.4283924" lon="-79.9761281"/>
+    <nd ref="2139146316" lat="40.4283880" lon="-79.9760502"/>
+    <nd ref="2139146285" lat="40.4282096" lon="-79.9760677"/>
+    <nd ref="2139146288" lat="40.4282140" lon="-79.9761456"/>
+    <nd ref="2139146317" lat="40.4283924" lon="-79.9761281"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mullen's On Carson"/>
+    <tag k="phone" v="412-481-2110"/>
+    <tag k="website" v="http://www.mullensbarandgrill.com"/>
+  </way>
+  <way id="203910687">
+    <bounds minlat="40.4280102" minlon="-79.9753739" maxlat="40.4283477" maxlon="-79.9752627"/>
+    <nd ref="2139146270" lat="40.4280147" lon="-79.9753739"/>
+    <nd ref="2139146306" lat="40.4283477" lon="-79.9753413"/>
+    <nd ref="2139146305" lat="40.4283433" lon="-79.9752627"/>
+    <nd ref="2139146269" lat="40.4280102" lon="-79.9752953"/>
+    <nd ref="2139146270" lat="40.4280147" lon="-79.9753739"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2122"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="Little Tokyo Bistro"/>
+    <tag k="phone" v="412.488.9986"/>
+    <tag k="website" v="http://www.littletokyopittsburgh.com/"/>
+  </way>
+  <way id="204017023">
+    <bounds minlat="40.4288033" minlon="-79.9795122" maxlat="40.4291344" maxlon="-79.9794048"/>
+    <nd ref="2140274125" lat="40.4288074" lon="-79.9795122"/>
+    <nd ref="2140274316" lat="40.4291344" lon="-79.9794816"/>
+    <nd ref="2140274314" lat="40.4291303" lon="-79.9794048"/>
+    <nd ref="2140274122" lat="40.4288033" lon="-79.9794353"/>
+    <nd ref="2140274125" lat="40.4288074" lon="-79.9795122"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1825"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Levelz sports lounge"/>
+    <tag k="website" v="https://www.facebook.com/levelzsportslounge"/>
+  </way>
+  <way id="204087588">
+    <bounds minlat="40.4286499" minlon="-79.9769321" maxlat="40.4288877" maxlon="-79.9768274"/>
+    <nd ref="2141044702" lat="40.4286546" lon="-79.9769321"/>
+    <nd ref="2141044713" lat="40.4287636" lon="-79.9769214"/>
+    <nd ref="2141044732" lat="40.4288877" lon="-79.9769092"/>
+    <nd ref="2141044731" lat="40.4288831" lon="-79.9768274"/>
+    <nd ref="2141044720" lat="40.4288132" lon="-79.9768342"/>
+    <nd ref="2141044701" lat="40.4286499" lon="-79.9768502"/>
+    <nd ref="2141044702" lat="40.4286546" lon="-79.9769321"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2017"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="greek"/>
+    <tag k="email" v="1889Cafe@gmail.com"/>
+    <tag k="name" v="The 1889 Cafe"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-23:00; Sa 9:00-23:00; Su 9:00-21:00"/>
+    <tag k="phone" v="+1 412-431-9290"/>
+    <tag k="website" v="http://www.facebook.com/pages/The-1889-Cafe/194353017265705"/>
+  </way>
+  <way id="204090536">
+    <bounds minlat="40.4279335" minlon="-79.9735240" maxlat="40.4282352" maxlon="-79.9733198"/>
+    <nd ref="2141076967" lat="40.4281380" lon="-79.9734183"/>
+    <nd ref="2141076977" lat="40.4282352" lon="-79.9734089"/>
+    <nd ref="2141076976" lat="40.4282301" lon="-79.9733198"/>
+    <nd ref="2141076942" lat="40.4279492" lon="-79.9733471"/>
+    <nd ref="2141076944" lat="40.4279542" lon="-79.9734362"/>
+    <nd ref="2141076935" lat="40.4279335" lon="-79.9734382"/>
+    <nd ref="2141076938" lat="40.4279383" lon="-79.9735240"/>
+    <nd ref="2141076969" lat="40.4281428" lon="-79.9735041"/>
+    <nd ref="2141076967" lat="40.4281380" lon="-79.9734183"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2228"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@mallorcarestaurant.com"/>
+    <tag k="name" v="Mallorca"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-22:30; Fr-Sa 11:30-23:30; Su 12:00-22:0"/>
+    <tag k="phone" v="412-488-1818"/>
+    <tag k="website" v="http://www.mallorcarestaurant.com/"/>
+  </way>
+  <way id="204090540">
+    <bounds minlat="40.4279270" minlon="-79.9740417" maxlat="40.4282690" maxlon="-79.9739268"/>
+    <nd ref="2141076983" lat="40.4282690" lon="-79.9740089"/>
+    <nd ref="2141076982" lat="40.4282643" lon="-79.9739268"/>
+    <nd ref="2141076933" lat="40.4279270" lon="-79.9739596"/>
+    <nd ref="2141076934" lat="40.4279316" lon="-79.9740417"/>
+    <nd ref="2141076947" lat="40.4279878" lon="-79.9740362"/>
+    <nd ref="2141076983" lat="40.4282690" lon="-79.9740089"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2212"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Silvi's Southwestern Kitchen"/>
+    <tag k="opening_hours" v="Mo-We 11:00-21:00; Th 11:00-12:00; Fr-Sa 11:00-15:00"/>
+    <tag k="website" v="http://www.silvissouthsidekitchen.com/"/>
+  </way>
+  <way id="204094721">
+    <bounds minlat="40.4278635" minlon="-79.9723626" maxlat="40.4281687" maxlon="-79.9722462"/>
+    <nd ref="2141117655" lat="40.4281687" lon="-79.9723335"/>
+    <nd ref="2141117654" lat="40.4281637" lon="-79.9722462"/>
+    <nd ref="2141117586" lat="40.4278635" lon="-79.9722753"/>
+    <nd ref="2141117587" lat="40.4278684" lon="-79.9723626"/>
+    <nd ref="2141117655" lat="40.4281687" lon="-79.9723335"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2314"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cupka's Cafe"/>
+    <tag k="phone" v="(412) 431-9691"/>
+    <tag k="website" v="http://www.cupkascafe2.com/"/>
+  </way>
+  <way id="204104038">
+    <bounds minlat="40.4284039" minlon="-79.9714523" maxlat="40.4286658" maxlon="-79.9711685"/>
+    <nd ref="2141210236" lat="40.4286196" lon="-79.9712626"/>
+    <nd ref="2141210235" lat="40.4286143" lon="-79.9711685"/>
+    <nd ref="2141210227" lat="40.4284960" lon="-79.9711800"/>
+    <nd ref="2141210228" lat="40.4285051" lon="-79.9713414"/>
+    <nd ref="2141210218" lat="40.4284039" lon="-79.9713512"/>
+    <nd ref="2141210222" lat="40.4284096" lon="-79.9714523"/>
+    <nd ref="2141210237" lat="40.4286274" lon="-79.9714311"/>
+    <nd ref="2141210241" lat="40.4286658" lon="-79.9714274"/>
+    <nd ref="2141210240" lat="40.4286563" lon="-79.9712590"/>
+    <nd ref="2141210236" lat="40.4286196" lon="-79.9712626"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2339"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Double Wide Grill"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-02:00"/>
+    <tag k="phone" v="412-390-1111"/>
+    <tag k="website" v="https://doublewidegrill.com/"/>
+  </way>
+  <way id="204104039">
+    <bounds minlat="40.4283359" minlon="-79.9715396" maxlat="40.4286319" maxlon="-79.9714311"/>
+    <nd ref="2141210211" lat="40.4283404" lon="-79.9715396"/>
+    <nd ref="2141210225" lat="40.4284507" lon="-79.9715289"/>
+    <nd ref="2141210238" lat="40.4286319" lon="-79.9715113"/>
+    <nd ref="2141210237" lat="40.4286274" lon="-79.9714311"/>
+    <nd ref="2141210222" lat="40.4284096" lon="-79.9714523"/>
+    <nd ref="2141210210" lat="40.4283359" lon="-79.9714594"/>
+    <nd ref="2141210211" lat="40.4283404" lon="-79.9715396"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="2341"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Green Front Inn"/>
+  </way>
+  <way id="204124609">
+    <bounds minlat="40.4271420" minlon="-79.9688101" maxlat="40.4274120" maxlon="-79.9686169"/>
+    <nd ref="2141383031" lat="40.4274120" lon="-79.9686904"/>
+    <nd ref="2141383028" lat="40.4273916" lon="-79.9686169"/>
+    <nd ref="2141382985" lat="40.4271420" lon="-79.9687366"/>
+    <nd ref="2141382988" lat="40.4271624" lon="-79.9688101"/>
+    <nd ref="2141383031" lat="40.4274120" lon="-79.9686904"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Excuses Bar and Grill"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-2:00; Su 11:00-2:00"/>
+    <tag k="website" v="http://www.excusespghbarandgrill.com/"/>
+  </way>
+  <way id="257420135">
+    <bounds minlat="40.4868733" minlon="-79.8919744" maxlat="40.4871962" maxlon="-79.8916046"/>
+    <nd ref="2629497447" lat="40.4871962" lon="-79.8918287"/>
+    <nd ref="2629497449" lat="40.4871558" lon="-79.8918478"/>
+    <nd ref="2629497450" lat="40.4871636" lon="-79.8918761"/>
+    <nd ref="2629497451" lat="40.4869557" lon="-79.8919744"/>
+    <nd ref="2629497452" lat="40.4869456" lon="-79.8919373"/>
+    <nd ref="2629497453" lat="40.4869322" lon="-79.8919436"/>
+    <nd ref="2629497454" lat="40.4868733" lon="-79.8917283"/>
+    <nd ref="2629497455" lat="40.4871350" lon="-79.8916046"/>
+    <nd ref="2629497447" lat="40.4871962" lon="-79.8918287"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="849"/>
+    <tag k="addr:postcode" v="15238"/>
+    <tag k="addr:street" v="Freeport Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="commercial"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Eat 'n' Park"/>
+    <tag k="restaurant" v="yes"/>
+  </way>
+  <way id="258205360">
+    <bounds minlat="40.4630757" minlon="-79.9774861" maxlat="40.4632497" maxlon="-79.9772301"/>
+    <nd ref="2635993379" lat="40.4631472" lon="-79.9774861"/>
+    <nd ref="2635993388" lat="40.4631892" lon="-79.9774556"/>
+    <nd ref="2635993387" lat="40.4631659" lon="-79.9774016"/>
+    <nd ref="2635993389" lat="40.4632497" lon="-79.9773398"/>
+    <nd ref="2635993378" lat="40.4632010" lon="-79.9772301"/>
+    <nd ref="2635993380" lat="40.4630757" lon="-79.9773330"/>
+    <nd ref="2635993379" lat="40.4631472" lon="-79.9774861"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:street" v="Waterfront Drive"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Redfin Blues"/>
+  </way>
+  <way id="338194375">
+    <bounds minlat="40.4897264" minlon="-80.0183085" maxlat="40.4898400" maxlon="-80.0179443"/>
+    <nd ref="3452672486" lat="40.4898400" lon="-80.0179578"/>
+    <nd ref="3452672490" lat="40.4897645" lon="-80.0179443"/>
+    <nd ref="3452672491" lat="40.4897264" lon="-80.0182949"/>
+    <nd ref="3452672487" lat="40.4897994" lon="-80.0183085"/>
+    <nd ref="3452672486" lat="40.4898400" lon="-80.0179578"/>
+    <tag k="addr:housenumber" v="3906"/>
+    <tag k="addr:postcode" v="15214"/>
+    <tag k="addr:street" v="Perrysville Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Mandy's Pizza &amp; More"/>
+  </way>
+  <way id="343058407">
+    <bounds minlat="40.4521398" minlon="-79.9343742" maxlat="40.4522463" maxlon="-79.9341887"/>
+    <nd ref="3499802007" lat="40.4522463" lon="-79.9342203"/>
+    <nd ref="3499802008" lat="40.4521971" lon="-79.9343742"/>
+    <nd ref="3499802009" lat="40.4521398" lon="-79.9343426"/>
+    <nd ref="3499802010" lat="40.4521891" lon="-79.9341887"/>
+    <nd ref="3499802007" lat="40.4522463" lon="-79.9342203"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="Taiwanese,_Bubble_Tea"/>
+    <tag k="name" v="I Tea Cafe"/>
+  </way>
+  <way id="360103647">
+    <bounds minlat="40.4849083" minlon="-80.0420227" maxlat="40.4851860" maxlon="-80.0417565"/>
+    <nd ref="3621958568" lat="40.4851860" lon="-80.0419140"/>
+    <nd ref="3647043429" lat="40.4851323" lon="-80.0418223"/>
+    <nd ref="3647043428" lat="40.4851154" lon="-80.0418286"/>
+    <nd ref="3647043427" lat="40.4851122" lon="-80.0418155"/>
+    <nd ref="3647043426" lat="40.4850987" lon="-80.0418210"/>
+    <nd ref="3647043425" lat="40.4850874" lon="-80.0417774"/>
+    <nd ref="3647043424" lat="40.4850501" lon="-80.0417936"/>
+    <nd ref="3647043423" lat="40.4850393" lon="-80.0417565"/>
+    <nd ref="3647043421" lat="40.4849083" lon="-80.0418167"/>
+    <nd ref="3647043422" lat="40.4849668" lon="-80.0420227"/>
+    <nd ref="3772211698" lat="40.4849758" lon="-80.0420182"/>
+    <nd ref="3621958568" lat="40.4851860" lon="-80.0419140"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Miller's Seafood House"/>
+  </way>
+  <way id="363387910">
+    <bounds minlat="40.4458776" minlon="-79.9934430" maxlat="40.4462825" maxlon="-79.9929535"/>
+    <nd ref="5187497577" lat="40.4462825" lon="-79.9929840"/>
+    <nd ref="3675562780" lat="40.4462581" lon="-79.9929535"/>
+    <nd ref="6182140874" lat="40.4462400" lon="-79.9929756"/>
+    <nd ref="6182140875" lat="40.4462301" lon="-79.9929619"/>
+    <nd ref="6182140876" lat="40.4462266" lon="-79.9929597"/>
+    <nd ref="6182140877" lat="40.4462214" lon="-79.9929599"/>
+    <nd ref="6182140878" lat="40.4462177" lon="-79.9929577"/>
+    <nd ref="3675562777" lat="40.4462147" lon="-79.9929567"/>
+    <nd ref="6182140873" lat="40.4461536" lon="-79.9929865"/>
+    <nd ref="3675562770" lat="40.4460779" lon="-79.9930242"/>
+    <nd ref="3675562768" lat="40.4460299" lon="-79.9930522"/>
+    <nd ref="3675562767" lat="40.4459908" lon="-79.9930784"/>
+    <nd ref="6182141191" lat="40.4459812" lon="-79.9930637"/>
+    <nd ref="6182141190" lat="40.4460066" lon="-79.9930305"/>
+    <nd ref="6182141189" lat="40.4459886" lon="-79.9930079"/>
+    <nd ref="6182141188" lat="40.4459647" lon="-79.9930427"/>
+    <nd ref="6182141187" lat="40.4459591" lon="-79.9930359"/>
+    <nd ref="6182141186" lat="40.4459283" lon="-79.9930758"/>
+    <nd ref="5187497576" lat="40.4459595" lon="-79.9931137"/>
+    <nd ref="3675562765" lat="40.4459388" lon="-79.9931401"/>
+    <nd ref="5187497575" lat="40.4459123" lon="-79.9931761"/>
+    <nd ref="6182141185" lat="40.4458776" lon="-79.9932338"/>
+    <nd ref="6182140884" lat="40.4459645" lon="-79.9933242"/>
+    <nd ref="6182140883" lat="40.4459246" lon="-79.9933929"/>
+    <nd ref="6182140882" lat="40.4459680" lon="-79.9934430"/>
+    <nd ref="6182140881" lat="40.4460473" lon="-79.9933156"/>
+    <nd ref="6182140880" lat="40.4461079" lon="-79.9932166"/>
+    <nd ref="5187497571" lat="40.4461371" lon="-79.9931685"/>
+    <nd ref="5187497566" lat="40.4461542" lon="-79.9932073"/>
+    <nd ref="5187497564" lat="40.4461687" lon="-79.9931920"/>
+    <nd ref="6182140879" lat="40.4461855" lon="-79.9931713"/>
+    <nd ref="5187497565" lat="40.4461893" lon="-79.9931710"/>
+    <nd ref="5187497562" lat="40.4462083" lon="-79.9931447"/>
+    <nd ref="5187497563" lat="40.4462248" lon="-79.9931189"/>
+    <nd ref="5187497560" lat="40.4462486" lon="-79.9930733"/>
+    <nd ref="5187497561" lat="40.4462612" lon="-79.9930452"/>
+    <nd ref="5187497558" lat="40.4462729" lon="-79.9930173"/>
+    <nd ref="5187497559" lat="40.4462793" lon="-79.9929969"/>
+    <nd ref="5187497577" lat="40.4462825" lon="-79.9929840"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1126"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Smallman Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="commercial"/>
+    <tag k="description" v="AC Hotel by Marriott Pittsburgh Downtown hotel"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Eleven"/>
+    <tag k="payment:amex" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="1-412-281-9300"/>
+    <tag k="rooms" v="133"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="stars" v="3"/>
+    <tag k="website" v="https://marriott.com/PITAR"/>
+  </way>
+  <way id="380458507">
+    <bounds minlat="40.4707458" minlon="-79.9601026" maxlat="40.4708714" maxlon="-79.9598960"/>
+    <nd ref="3837895782" lat="40.4708714" lon="-79.9600614"/>
+    <nd ref="3837895772" lat="40.4708073" lon="-79.9598960"/>
+    <nd ref="3837895755" lat="40.4707458" lon="-79.9599372"/>
+    <nd ref="3837895774" lat="40.4708099" lon="-79.9601026"/>
+    <nd ref="3837895782" lat="40.4708714" lon="-79.9600614"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="The Vandal"/>
+  </way>
+  <way id="380458514">
+    <bounds minlat="40.4692891" minlon="-79.9613038" maxlat="40.4694156" maxlon="-79.9611562"/>
+    <nd ref="3837895583" lat="40.4693674" lon="-79.9613038"/>
+    <nd ref="3837895570" lat="40.4692891" lon="-79.9611876"/>
+    <nd ref="3837895576" lat="40.4693155" lon="-79.9611623"/>
+    <nd ref="1707487977" lat="40.4693301" lon="-79.9611839"/>
+    <nd ref="3837895582" lat="40.4693539" lon="-79.9611562"/>
+    <nd ref="3837895590" lat="40.4694156" lon="-79.9612477"/>
+    <nd ref="3865719166" lat="40.4693916" lon="-79.9612756"/>
+    <nd ref="3837895583" lat="40.4693674" lon="-79.9613038"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Deli on Butler"/>
+  </way>
+  <way id="440637151">
+    <bounds minlat="40.4656590" minlon="-79.9535709" maxlat="40.4658591" maxlon="-79.9534419"/>
+    <nd ref="4384113571" lat="40.4658453" lon="-79.9535709"/>
+    <nd ref="4384113570" lat="40.4657050" lon="-79.9535272"/>
+    <nd ref="4384113572" lat="40.4656590" lon="-79.9535119"/>
+    <nd ref="4384113573" lat="40.4656712" lon="-79.9534419"/>
+    <nd ref="4384113574" lat="40.4658591" lon="-79.9534988"/>
+    <nd ref="4384113571" lat="40.4658453" lon="-79.9535709"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:beer" v="yes"/>
+    <tag k="drink:tea" v="yes"/>
+    <tag k="drink:wine" v="yes"/>
+    <tag k="name" v="Taste of India"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-14:30, 05:00-22:00; Fr 11:00-14:30, 05:00-22:30; Sa 05:00-22:30; Su 05:00-22:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="start_date" v="1991"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://tasteofindiapittsburgh.com/"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="448316321">
+    <bounds minlat="40.4171147" minlon="-80.0303020" maxlat="40.4174847" maxlon="-80.0300758"/>
+    <nd ref="4453390957" lat="40.4171245" lon="-80.0303020"/>
+    <nd ref="4453390958" lat="40.4171147" lon="-80.0300867"/>
+    <nd ref="4453390959" lat="40.4171775" lon="-80.0300818"/>
+    <nd ref="4453390960" lat="40.4171781" lon="-80.0300945"/>
+    <nd ref="4453390961" lat="40.4174164" lon="-80.0300758"/>
+    <nd ref="4453390962" lat="40.4174176" lon="-80.0301011"/>
+    <nd ref="4453390963" lat="40.4174805" lon="-80.0300962"/>
+    <nd ref="4453390964" lat="40.4174847" lon="-80.0301890"/>
+    <nd ref="4453390965" lat="40.4174568" lon="-80.0301912"/>
+    <nd ref="4453390966" lat="40.4174599" lon="-80.0302600"/>
+    <nd ref="4453390967" lat="40.4173974" lon="-80.0302649"/>
+    <nd ref="4453390968" lat="40.4173981" lon="-80.0302806"/>
+    <nd ref="4453390957" lat="40.4171245" lon="-80.0303020"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1250"/>
+    <tag k="addr:postcode" v="15216"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Banksville Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand:wikidata" v="Q5331211"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Eat'n Park"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+1-412-561-7894"/>
+    <tag k="takeaway" v="yes"/>
+  </way>
+  <way id="448320664">
+    <bounds minlat="40.4436998" minlon="-79.9955939" maxlat="40.4439197" maxlon="-79.9954284"/>
+    <nd ref="4453443192" lat="40.4438970" lon="-79.9955939"/>
+    <nd ref="6227466528" lat="40.4438727" lon="-79.9955828"/>
+    <nd ref="4453443193" lat="40.4436998" lon="-79.9955036"/>
+    <nd ref="4453443194" lat="40.4437142" lon="-79.9954453"/>
+    <nd ref="4453443195" lat="40.4437303" lon="-79.9954284"/>
+    <nd ref="4453443196" lat="40.4439197" lon="-79.9955109"/>
+    <nd ref="4453443192" lat="40.4438970" lon="-79.9955939"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Condado Tacos"/>
+  </way>
+  <way id="462424683">
+    <bounds minlat="40.3885633" minlon="-79.9966864" maxlat="40.3887140" maxlon="-79.9964945"/>
+    <nd ref="4578251078" lat="40.3886813" lon="-79.9966864"/>
+    <nd ref="4578251075" lat="40.3887140" lon="-79.9965340"/>
+    <nd ref="4578251076" lat="40.3886073" lon="-79.9964945"/>
+    <nd ref="2504521900" lat="40.3886036" lon="-79.9965115"/>
+    <nd ref="4578251074" lat="40.3885924" lon="-79.9965074"/>
+    <nd ref="4578251077" lat="40.3885633" lon="-79.9966428"/>
+    <nd ref="4578251078" lat="40.3886813" lon="-79.9966864"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Frank &amp; Shirley's"/>
+    <tag k="phone" v="+1 412 882 3550"/>
+  </way>
+  <way id="463691349">
+    <bounds minlat="40.3790970" minlon="-80.0020379" maxlat="40.3795253" maxlon="-80.0014276"/>
+    <nd ref="4589384177" lat="40.3792638" lon="-80.0014276"/>
+    <nd ref="4589384173" lat="40.3791443" lon="-80.0015955"/>
+    <nd ref="4589384172" lat="40.3791837" lon="-80.0016437"/>
+    <nd ref="4589384174" lat="40.3790970" lon="-80.0017656"/>
+    <nd ref="4589384175" lat="40.3793192" lon="-80.0020379"/>
+    <nd ref="4589384176" lat="40.3795253" lon="-80.0017481"/>
+    <nd ref="5222039268" lat="40.3794273" lon="-80.0016280"/>
+    <nd ref="5222039267" lat="40.3793047" lon="-80.0014777"/>
+    <nd ref="4589384177" lat="40.3792638" lon="-80.0014276"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="The Royal Palace"/>
+    <tag k="phone" v="+1 412 882 8000"/>
+  </way>
+  <way id="470097331">
+    <bounds minlat="40.4513736" minlon="-80.0062147" maxlat="40.4516600" maxlon="-80.0058425"/>
+    <nd ref="4643363470" lat="40.4515918" lon="-80.0062138"/>
+    <nd ref="5247081485" lat="40.4513844" lon="-80.0061498"/>
+    <nd ref="5247081486" lat="40.4513803" lon="-80.0061469"/>
+    <nd ref="5247081487" lat="40.4513776" lon="-80.0061438"/>
+    <nd ref="5247081488" lat="40.4513752" lon="-80.0061402"/>
+    <nd ref="5247081489" lat="40.4513738" lon="-80.0061353"/>
+    <nd ref="5247081490" lat="40.4513736" lon="-80.0061295"/>
+    <nd ref="4643363471" lat="40.4513748" lon="-80.0061186"/>
+    <nd ref="5247081478" lat="40.4514276" lon="-80.0058538"/>
+    <nd ref="5247081484" lat="40.4514286" lon="-80.0058506"/>
+    <nd ref="5247081483" lat="40.4514304" lon="-80.0058478"/>
+    <nd ref="5247081482" lat="40.4514325" lon="-80.0058452"/>
+    <nd ref="5247081481" lat="40.4514351" lon="-80.0058435"/>
+    <nd ref="5247081480" lat="40.4514378" lon="-80.0058426"/>
+    <nd ref="5247081479" lat="40.4514412" lon="-80.0058425"/>
+    <nd ref="4643363472" lat="40.4514459" lon="-80.0058436"/>
+    <nd ref="4643363473" lat="40.4516520" lon="-80.0059105"/>
+    <nd ref="5247081477" lat="40.4516549" lon="-80.0059122"/>
+    <nd ref="5247081475" lat="40.4516573" lon="-80.0059147"/>
+    <nd ref="5247081476" lat="40.4516588" lon="-80.0059172"/>
+    <nd ref="5247081474" lat="40.4516598" lon="-80.0059208"/>
+    <nd ref="5247081473" lat="40.4516600" lon="-80.0059238"/>
+    <nd ref="5247081472" lat="40.4516598" lon="-80.0059274"/>
+    <nd ref="5330239795" lat="40.4516097" lon="-80.0061942"/>
+    <nd ref="5247081466" lat="40.4516083" lon="-80.0062016"/>
+    <nd ref="5247081467" lat="40.4516061" lon="-80.0062083"/>
+    <nd ref="5247081468" lat="40.4516041" lon="-80.0062119"/>
+    <nd ref="5247081469" lat="40.4516018" lon="-80.0062135"/>
+    <nd ref="5247081470" lat="40.4515983" lon="-80.0062147"/>
+    <nd ref="5247081471" lat="40.4515950" lon="-80.0062146"/>
+    <nd ref="4643363470" lat="40.4515918" lon="-80.0062138"/>
+    <tag k="FIXME" v="verify"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Federal Galley"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="493320268">
+    <bounds minlat="40.4656680" minlon="-79.9493982" maxlat="40.4657996" maxlon="-79.9492228"/>
+    <nd ref="4852447869" lat="40.4657760" lon="-79.9492228"/>
+    <nd ref="4852447866" lat="40.4657996" lon="-79.9493718"/>
+    <nd ref="4852447870" lat="40.4656879" lon="-79.9493982"/>
+    <nd ref="4852447871" lat="40.4656680" lon="-79.9492524"/>
+    <nd ref="4852447869" lat="40.4657760" lon="-79.9492228"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="polish;vegan"/>
+    <tag k="name" v="Apteka"/>
+  </way>
+  <way id="500524175">
+    <bounds minlat="40.4419068" minlon="-80.0063955" maxlat="40.4421819" maxlon="-80.0060713"/>
+    <nd ref="4915563291" lat="40.4421254" lon="-80.0063955"/>
+    <nd ref="4915563297" lat="40.4420388" lon="-80.0063547"/>
+    <nd ref="4915563292" lat="40.4420434" lon="-80.0063378"/>
+    <nd ref="4915563298" lat="40.4419901" lon="-80.0063121"/>
+    <nd ref="4915563293" lat="40.4420150" lon="-80.0062213"/>
+    <nd ref="4915563294" lat="40.4419068" lon="-80.0061700"/>
+    <nd ref="4962537700" lat="40.4419133" lon="-80.0061461"/>
+    <nd ref="4915563295" lat="40.4419336" lon="-80.0060713"/>
+    <nd ref="4915563296" lat="40.4421819" lon="-80.0061880"/>
+    <nd ref="4915563291" lat="40.4421254" lon="-80.0063955"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="indoor" v="room"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="3 Rivers Restaurant"/>
+    <tag k="room" v="restaurant"/>
+  </way>
+  <way id="500524415">
+    <bounds minlat="40.4418697" minlon="-80.0063326" maxlat="40.4420150" maxlon="-80.0061700"/>
+    <nd ref="4915563294" lat="40.4419068" lon="-80.0061700"/>
+    <nd ref="4962537701" lat="40.4419005" lon="-80.0061934"/>
+    <nd ref="4915563848" lat="40.4418697" lon="-80.0063074"/>
+    <nd ref="4915614082" lat="40.4419236" lon="-80.0063326"/>
+    <nd ref="4915563850" lat="40.4419355" lon="-80.0062862"/>
+    <nd ref="4915563298" lat="40.4419901" lon="-80.0063121"/>
+    <nd ref="4915563293" lat="40.4420150" lon="-80.0062213"/>
+    <nd ref="4915563294" lat="40.4419068" lon="-80.0061700"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="indoor" v="room"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="3 Rivers Lounge"/>
+    <tag k="room" v="restaurant"/>
+  </way>
+  <way id="506297566">
+    <bounds minlat="40.4362930" minlon="-79.9232947" maxlat="40.4364995" maxlon="-79.9229930"/>
+    <nd ref="4960676760" lat="40.4364995" lon="-79.9230073"/>
+    <nd ref="4960676757" lat="40.4363055" lon="-79.9229930"/>
+    <nd ref="4960676756" lat="40.4363052" lon="-79.9230088"/>
+    <nd ref="4960676755" lat="40.4362936" lon="-79.9232611"/>
+    <nd ref="4960676754" lat="40.4362930" lon="-79.9232863"/>
+    <nd ref="4960676753" lat="40.4364068" lon="-79.9232947"/>
+    <nd ref="4960676752" lat="40.4364074" lon="-79.9232795"/>
+    <nd ref="4960676759" lat="40.4364877" lon="-79.9232854"/>
+    <nd ref="4960676760" lat="40.4364995" lon="-79.9230073"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Eat 'n Park"/>
+  </way>
+  <way id="523503581">
+    <bounds minlat="40.4263652" minlon="-79.9388305" maxlat="40.4265143" maxlon="-79.9387079"/>
+    <nd ref="5096437073" lat="40.4263652" lon="-79.9388153"/>
+    <nd ref="5096437070" lat="40.4265075" lon="-79.9388305"/>
+    <nd ref="5096437071" lat="40.4265143" lon="-79.9387231"/>
+    <nd ref="5096437072" lat="40.4263719" lon="-79.9387079"/>
+    <nd ref="5096437073" lat="40.4263652" lon="-79.9388153"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="commercial"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Rialto Pizza"/>
+  </way>
+  <way id="523512763">
+    <bounds minlat="40.4110270" minlon="-79.9449576" maxlat="40.4112353" maxlon="-79.9447109"/>
+    <nd ref="5096509285" lat="40.4111975" lon="-79.9449576"/>
+    <nd ref="5096509284" lat="40.4110934" lon="-79.9449308"/>
+    <nd ref="5096509283" lat="40.4110270" lon="-79.9449027"/>
+    <nd ref="5096509282" lat="40.4110770" lon="-79.9447109"/>
+    <nd ref="5096509281" lat="40.4112353" lon="-79.9447913"/>
+    <nd ref="5096509285" lat="40.4111975" lon="-79.9449576"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="commercial"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Jozsa Corner Hungarian Restaurant"/>
+  </way>
+  <way id="525760562">
+    <bounds minlat="40.4380009" minlon="-79.9543196" maxlat="40.4381653" maxlon="-79.9540529"/>
+    <nd ref="5114183787" lat="40.4380009" lon="-79.9542397"/>
+    <nd ref="5114183786" lat="40.4380673" lon="-79.9543196"/>
+    <nd ref="5114183785" lat="40.4380981" lon="-79.9542758"/>
+    <nd ref="5114183784" lat="40.4381043" lon="-79.9542832"/>
+    <nd ref="2933695101" lat="40.4381653" lon="-79.9541963"/>
+    <nd ref="5116098571" lat="40.4381273" lon="-79.9541506"/>
+    <nd ref="5116098573" lat="40.4381627" lon="-79.9541002"/>
+    <nd ref="5114183790" lat="40.4381248" lon="-79.9540529"/>
+    <nd ref="5114183787" lat="40.4380009" lon="-79.9542397"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="370"/>
+    <tag k="addr:postcode" v="15213-4026"/>
+    <tag k="addr:street" v="Atwood St."/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:email" v="oakland@madmex.com"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="description" v="Cal-mex food, craft beers, and 22oz &quot;Big Azz&quot; margaritas."/>
+    <tag k="name" v="Mad Mex"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="412.681.5656"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://www.madmex.com/"/>
+  </way>
+  <way id="533654794">
+    <bounds minlat="40.4468892" minlon="-79.8942352" maxlat="40.4470078" maxlon="-79.8940563"/>
+    <nd ref="5176966701" lat="40.4468892" lon="-79.8941108"/>
+    <nd ref="5176966700" lat="40.4469304" lon="-79.8942352"/>
+    <nd ref="5176966699" lat="40.4469821" lon="-79.8942059"/>
+    <nd ref="5176966698" lat="40.4469633" lon="-79.8941490"/>
+    <nd ref="5176966697" lat="40.4470078" lon="-79.8941238"/>
+    <nd ref="5176966696" lat="40.4469854" lon="-79.8940563"/>
+    <nd ref="5176966701" lat="40.4468892" lon="-79.8941108"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Peppi's"/>
+  </way>
+  <way id="534120905">
+    <bounds minlat="40.4379333" minlon="-80.0549657" maxlat="40.4382041" maxlon="-80.0545219"/>
+    <nd ref="5180644687" lat="40.4379333" lon="-80.0549452"/>
+    <nd ref="5180644686" lat="40.4380484" lon="-80.0549657"/>
+    <nd ref="5180644685" lat="40.4380670" lon="-80.0547852"/>
+    <nd ref="5180644684" lat="40.4381149" lon="-80.0547939"/>
+    <nd ref="5180644683" lat="40.4381254" lon="-80.0546897"/>
+    <nd ref="5180644682" lat="40.4381897" lon="-80.0547009"/>
+    <nd ref="5180644681" lat="40.4382041" lon="-80.0545621"/>
+    <nd ref="5180644680" lat="40.4379706" lon="-80.0545219"/>
+    <nd ref="5180644679" lat="40.4379558" lon="-80.0546688"/>
+    <nd ref="5180644678" lat="40.4379612" lon="-80.0546698"/>
+    <nd ref="5180644687" lat="40.4379333" lon="-80.0549452"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="535064161">
+    <bounds minlat="40.4536055" minlon="-79.9815374" maxlat="40.4537723" maxlon="-79.9812876"/>
+    <nd ref="5187498118" lat="40.4536100" lon="-79.9813885"/>
+    <nd ref="6073799931" lat="40.4537349" lon="-79.9815374"/>
+    <nd ref="5187498115" lat="40.4537507" lon="-79.9815157"/>
+    <nd ref="5187498116" lat="40.4537723" lon="-79.9814860"/>
+    <nd ref="6073799930" lat="40.4537661" lon="-79.9814169"/>
+    <nd ref="5187498113" lat="40.4536690" lon="-79.9813049"/>
+    <nd ref="6073799938" lat="40.4536635" lon="-79.9813128"/>
+    <nd ref="6073799941" lat="40.4536444" lon="-79.9812876"/>
+    <nd ref="6073799940" lat="40.4536055" lon="-79.9813427"/>
+    <nd ref="6073799939" lat="40.4536247" lon="-79.9813686"/>
+    <nd ref="5187498118" lat="40.4536100" lon="-79.9813885"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kelly O's Diner in the Strip"/>
+  </way>
+  <way id="535064181">
+    <bounds minlat="40.4548102" minlon="-79.9789703" maxlat="40.4550560" maxlon="-79.9785942"/>
+    <nd ref="5187498263" lat="40.4548102" lon="-79.9787809"/>
+    <nd ref="5187498264" lat="40.4549730" lon="-79.9789703"/>
+    <nd ref="5187498261" lat="40.4550560" lon="-79.9788472"/>
+    <nd ref="6073630720" lat="40.4549970" lon="-79.9787748"/>
+    <nd ref="6073630719" lat="40.4550375" lon="-79.9787140"/>
+    <nd ref="5187498262" lat="40.4549377" lon="-79.9785942"/>
+    <nd ref="5187498263" lat="40.4548102" lon="-79.9787809"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="DiAnoia's Eatery"/>
+  </way>
+  <way id="535064191">
+    <bounds minlat="40.4583100" minlon="-79.9740105" maxlat="40.4586059" maxlon="-79.9735747"/>
+    <nd ref="5187496785" lat="40.4583100" lon="-79.9737029"/>
+    <nd ref="6067169179" lat="40.4583389" lon="-79.9737364"/>
+    <nd ref="6067169156" lat="40.4584533" lon="-79.9738689"/>
+    <nd ref="6067169157" lat="40.4584103" lon="-79.9739311"/>
+    <nd ref="6067169178" lat="40.4584634" lon="-79.9739915"/>
+    <nd ref="5187496786" lat="40.4584801" lon="-79.9740105"/>
+    <nd ref="5187496783" lat="40.4586059" lon="-79.9738241"/>
+    <nd ref="5187496791" lat="40.4583950" lon="-79.9735747"/>
+    <nd ref="5187496785" lat="40.4583100" lon="-79.9737029"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Salem Halal Grill"/>
+  </way>
+  <way id="537718710">
+    <bounds minlat="40.3772867" minlon="-80.0039585" maxlat="40.3775060" maxlon="-80.0035354"/>
+    <nd ref="5206355929" lat="40.3772867" lon="-80.0037536"/>
+    <nd ref="5206355928" lat="40.3773704" lon="-80.0038645"/>
+    <nd ref="5206355927" lat="40.3773868" lon="-80.0038434"/>
+    <nd ref="5206355926" lat="40.3774736" lon="-80.0039585"/>
+    <nd ref="5206355925" lat="40.3775060" lon="-80.0039167"/>
+    <nd ref="5206355924" lat="40.3774621" lon="-80.0038586"/>
+    <nd ref="5206355923" lat="40.3775000" lon="-80.0038097"/>
+    <nd ref="5206355922" lat="40.3774069" lon="-80.0036862"/>
+    <nd ref="5206355921" lat="40.3774679" lon="-80.0036076"/>
+    <nd ref="5206355820" lat="40.3774134" lon="-80.0035354"/>
+    <nd ref="5206355819" lat="40.3773554" lon="-80.0036102"/>
+    <nd ref="5206355818" lat="40.3773763" lon="-80.0036380"/>
+    <nd ref="5206355929" lat="40.3772867" lon="-80.0037536"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Silver Palace"/>
+  </way>
+  <way id="537718715">
+    <bounds minlat="40.3923073" minlon="-79.9977017" maxlat="40.3925132" maxlon="-79.9974703"/>
+    <nd ref="5206355963" lat="40.3923073" lon="-79.9976762"/>
+    <nd ref="5206355962" lat="40.3923744" lon="-79.9977017"/>
+    <nd ref="5206355961" lat="40.3923971" lon="-79.9975995"/>
+    <nd ref="5206355960" lat="40.3924293" lon="-79.9976117"/>
+    <nd ref="5206355959" lat="40.3924468" lon="-79.9975327"/>
+    <nd ref="5206355958" lat="40.3925034" lon="-79.9975542"/>
+    <nd ref="5206355957" lat="40.3925132" lon="-79.9975099"/>
+    <nd ref="5206355956" lat="40.3924519" lon="-79.9974866"/>
+    <nd ref="5206355955" lat="40.3924475" lon="-79.9975062"/>
+    <nd ref="5206355954" lat="40.3923530" lon="-79.9974703"/>
+    <nd ref="5206355963" lat="40.3923073" lon="-79.9976762"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="retail"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza (412)"/>
+  </way>
+  <way id="612697570">
+    <bounds minlat="40.4425374" minlon="-79.9527947" maxlat="40.4426273" maxlon="-79.9526769"/>
+    <nd ref="5799173695" lat="40.4425803" lon="-79.9527932"/>
+    <nd ref="5799173696" lat="40.4425926" lon="-79.9527749"/>
+    <nd ref="5799173697" lat="40.4426096" lon="-79.9527947"/>
+    <nd ref="5799173698" lat="40.4426229" lon="-79.9527751"/>
+    <nd ref="5799173699" lat="40.4426074" lon="-79.9527571"/>
+    <nd ref="5799173700" lat="40.4426273" lon="-79.9527277"/>
+    <nd ref="5799173701" lat="40.4425837" lon="-79.9526769"/>
+    <nd ref="5799173702" lat="40.4425781" lon="-79.9526852"/>
+    <nd ref="5799173703" lat="40.4425712" lon="-79.9526772"/>
+    <nd ref="5799173704" lat="40.4425659" lon="-79.9526850"/>
+    <nd ref="5799173705" lat="40.4425720" lon="-79.9526920"/>
+    <nd ref="5799173706" lat="40.4425374" lon="-79.9527432"/>
+    <nd ref="5799173695" lat="40.4425803" lon="-79.9527932"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mesa"/>
+  </way>
+  <way id="642061150">
+    <bounds minlat="40.4394647" minlon="-80.0015674" maxlat="40.4396147" maxlon="-80.0012656"/>
+    <nd ref="6045461506" lat="40.4396089" lon="-80.0015280"/>
+    <nd ref="6045461507" lat="40.4395529" lon="-80.0013779"/>
+    <nd ref="6045461508" lat="40.4396147" lon="-80.0013381"/>
+    <nd ref="6045461509" lat="40.4395877" lon="-80.0012656"/>
+    <nd ref="2119445200" lat="40.4394647" lon="-80.0013449"/>
+    <nd ref="2119445207" lat="40.4395477" lon="-80.0015674"/>
+    <nd ref="6045461506" lat="40.4396089" lon="-80.0015280"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Wood Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Subway"/>
+    <tag k="opening_hours" v="Mo-Fri 6am-9pm"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+  </way>
+  <way id="645536123">
+    <bounds minlat="40.4560028" minlon="-79.9773555" maxlat="40.4563658" maxlon="-79.9769807"/>
+    <nd ref="6067944237" lat="40.4563658" lon="-79.9772053"/>
+    <nd ref="6067944242" lat="40.4562640" lon="-79.9773555"/>
+    <nd ref="6067944243" lat="40.4560028" lon="-79.9770379"/>
+    <nd ref="6067944241" lat="40.4560433" lon="-79.9769807"/>
+    <nd ref="6067944240" lat="40.4562143" lon="-79.9771833"/>
+    <nd ref="6067944239" lat="40.4562718" lon="-79.9770954"/>
+    <nd ref="6067944237" lat="40.4563658" lon="-79.9772053"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Preeti's Pitt"/>
+  </way>
+  <way id="645536131">
+    <bounds minlat="40.4554291" minlon="-79.9781202" maxlat="40.4556732" maxlon="-79.9778151"/>
+    <nd ref="6067944274" lat="40.4556285" lon="-79.9781202"/>
+    <nd ref="6067944275" lat="40.4556732" lon="-79.9780510"/>
+    <nd ref="6067944276" lat="40.4554756" lon="-79.9778151"/>
+    <nd ref="6067944277" lat="40.4554291" lon="-79.9778835"/>
+    <nd ref="6067944274" lat="40.4556285" lon="-79.9781202"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Choppin Block"/>
+  </way>
+  <way id="645536132">
+    <bounds minlat="40.4553703" minlon="-79.9782225" maxlat="40.4556450" maxlon="-79.9778790"/>
+    <nd ref="6067944274" lat="40.4556285" lon="-79.9781202"/>
+    <nd ref="6067944278" lat="40.4556450" lon="-79.9781388"/>
+    <nd ref="6067944279" lat="40.4555950" lon="-79.9782225"/>
+    <nd ref="6067944280" lat="40.4553703" lon="-79.9779581"/>
+    <nd ref="6067944281" lat="40.4554245" lon="-79.9778790"/>
+    <nd ref="6067944277" lat="40.4554291" lon="-79.9778835"/>
+    <nd ref="6067944274" lat="40.4556285" lon="-79.9781202"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Savoy"/>
+  </way>
+  <way id="646470037">
+    <bounds minlat="40.4514338" minlon="-79.9839065" maxlat="40.4516764" maxlon="-79.9836028"/>
+    <nd ref="6074063158" lat="40.4514787" lon="-79.9836028"/>
+    <nd ref="6074063161" lat="40.4514338" lon="-79.9836677"/>
+    <nd ref="6074063162" lat="40.4516367" lon="-79.9839065"/>
+    <nd ref="6074063163" lat="40.4516764" lon="-79.9838468"/>
+    <nd ref="6074063159" lat="40.4516432" lon="-79.9838047"/>
+    <nd ref="6074063158" lat="40.4514787" lon="-79.9836028"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Deluca's Diner"/>
+  </way>
+  <way id="646470040">
+    <bounds minlat="40.4513451" minlon="-79.9840177" maxlat="40.4515772" maxlon="-79.9837305"/>
+    <nd ref="6074063164" lat="40.4513907" lon="-79.9837305"/>
+    <nd ref="6074063168" lat="40.4513451" lon="-79.9837956"/>
+    <nd ref="6074063169" lat="40.4515305" lon="-79.9840177"/>
+    <nd ref="6074063170" lat="40.4515772" lon="-79.9839528"/>
+    <nd ref="6074063164" lat="40.4513907" lon="-79.9837305"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cafe Raymond"/>
+  </way>
+  <way id="646504145">
+    <bounds minlat="40.4501290" minlon="-79.9858239" maxlat="40.4503551" maxlon="-79.9855452"/>
+    <nd ref="6074311212" lat="40.4501568" lon="-79.9855452"/>
+    <nd ref="6074311215" lat="40.4501290" lon="-79.9855891"/>
+    <nd ref="6074311219" lat="40.4503267" lon="-79.9858217"/>
+    <nd ref="6074311216" lat="40.4503285" lon="-79.9858239"/>
+    <nd ref="6074311217" lat="40.4503551" lon="-79.9857812"/>
+    <nd ref="6074311213" lat="40.4503405" lon="-79.9857644"/>
+    <nd ref="6074311212" lat="40.4501568" lon="-79.9855452"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Peppi's"/>
+  </way>
+  <way id="646891706">
+    <bounds minlat="40.4504666" minlon="-79.9846878" maxlat="40.4505227" maxlon="-79.9846156"/>
+    <nd ref="5187497650" lat="40.4505227" lon="-79.9846659"/>
+    <nd ref="6076527351" lat="40.4505079" lon="-79.9846878"/>
+    <nd ref="6076527352" lat="40.4504666" lon="-79.9846385"/>
+    <nd ref="6076527353" lat="40.4504805" lon="-79.9846156"/>
+    <nd ref="5187497650" lat="40.4505227" lon="-79.9846659"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Moonlight Express"/>
+  </way>
+  <way id="646891709">
+    <bounds minlat="40.4504658" minlon="-79.9844790" maxlat="40.4507941" maxlon="-79.9840469"/>
+    <nd ref="6076527356" lat="40.4506507" lon="-79.9844790"/>
+    <nd ref="6076527360" lat="40.4507941" lon="-79.9842674"/>
+    <nd ref="6076527361" lat="40.4506131" lon="-79.9840469"/>
+    <nd ref="6076527362" lat="40.4504658" lon="-79.9842610"/>
+    <nd ref="6076527357" lat="40.4505260" lon="-79.9843337"/>
+    <nd ref="6076527356" lat="40.4506507" lon="-79.9844790"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Roland's Seafood Grill"/>
+  </way>
+  <way id="646891711">
+    <bounds minlat="40.4507341" minlon="-79.9841440" maxlat="40.4510175" maxlon="-79.9837812"/>
+    <nd ref="6076527364" lat="40.4508820" lon="-79.9841440"/>
+    <nd ref="6076527371" lat="40.4510175" lon="-79.9839491"/>
+    <nd ref="6076527372" lat="40.4508921" lon="-79.9837985"/>
+    <nd ref="6076527373" lat="40.4508854" lon="-79.9838082"/>
+    <nd ref="6076527374" lat="40.4508630" lon="-79.9837812"/>
+    <nd ref="6076527375" lat="40.4507341" lon="-79.9839665"/>
+    <nd ref="6076527364" lat="40.4508820" lon="-79.9841440"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bella Notte"/>
+  </way>
+  <way id="647003935">
+    <bounds minlat="40.4521817" minlon="-79.9819657" maxlat="40.4524705" maxlon="-79.9816001"/>
+    <nd ref="6077289109" lat="40.4523827" lon="-79.9819657"/>
+    <nd ref="6077289111" lat="40.4524705" lon="-79.9818412"/>
+    <nd ref="6077289112" lat="40.4522681" lon="-79.9816001"/>
+    <nd ref="6077289110" lat="40.4521817" lon="-79.9817261"/>
+    <nd ref="6077289109" lat="40.4523827" lon="-79.9819657"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Penn Avenue Fish Co"/>
+  </way>
+  <way id="652085884">
+    <bounds minlat="40.4481752" minlon="-79.9896211" maxlat="40.4485240" maxlon="-79.9891768"/>
+    <nd ref="6113970555" lat="40.4483818" lon="-79.9896211"/>
+    <nd ref="6113970556" lat="40.4485240" lon="-79.9893960"/>
+    <nd ref="6113970569" lat="40.4485015" lon="-79.9893706"/>
+    <nd ref="6113971685" lat="40.4484779" lon="-79.9893453"/>
+    <nd ref="6113970561" lat="40.4483347" lon="-79.9891920"/>
+    <nd ref="6113970557" lat="40.4483206" lon="-79.9891768"/>
+    <nd ref="2867995091" lat="40.4481752" lon="-79.9893997"/>
+    <nd ref="6113970555" lat="40.4483818" lon="-79.9896211"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Lidia’s"/>
+  </way>
+  <relation id="3638697">
+    <bounds minlat="40.4444896" minlon="-79.9489796" maxlat="40.4446882" maxlon="-79.9487988"/>
+    <member type="way" ref="272917028" role="outer">
+      <nd lat="40.4444896" lon="-79.9489096"/>
+      <nd lat="40.4445119" lon="-79.9487988"/>
+      <nd lat="40.4446882" lon="-79.9488200"/>
+      <nd lat="40.4446484" lon="-79.9489796"/>
+      <nd lat="40.4444896" lon="-79.9489096"/>
+    </member>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:street" v="South Craig Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="The Bagel Factory"/>
+    <tag k="phone" v="(412) 681-1101"/>
+    <tag k="shop" v="food"/>
+    <tag k="smoking" v="no"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+
+</osm>

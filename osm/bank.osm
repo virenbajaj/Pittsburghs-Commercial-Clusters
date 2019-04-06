@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.6 486819c8">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-04-06T02:27:02Z" areas="2019-04-06T01:14:02Z"/>
+
+  <node id="394969777" lat="40.4590585" lon="-79.9275605">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="5932"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Center Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="PNC Bank"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa 09:00-15:00"/>
+    <tag k="operator" v="PNC"/>
+  </node>
+  <node id="424032944" lat="40.4393343" lon="-79.9971696">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="National City Bank"/>
+    <tag k="operator" v="PNC Financial Services"/>
+  </node>
+  <node id="1313234659" lat="40.4171033" lon="-79.9761477">
+    <tag k="addr:housenumber" v="2132"/>
+    <tag k="addr:postcode" v="15210"/>
+    <tag k="addr:street" v="Arlington Ave"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Parkvale Bank"/>
+    <tag k="source" v="http://www.snl.com/irweblinkx/branchdetails.aspx?iid=101961&amp;bankfacility=12039&amp;Zip=15210&amp;Street=&amp;City=&amp;State="/>
+  </node>
+  <node id="1376974043" lat="40.4516097" lon="-79.9320005">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Fifth Third Bank"/>
+  </node>
+  <node id="1400114767" lat="40.4593500" lon="-79.9264173">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="5932"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Center Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="PNC Bank - Eastside"/>
+  </node>
+  <node id="1564218657" lat="40.4532921" lon="-80.0549305">
+    <tag k="addr:housenumber" v="2827"/>
+    <tag k="addr:postcode" v="15204"/>
+    <tag k="addr:street" v="Chartiers Ave."/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="PNC Bank"/>
+  </node>
+  <node id="1671524376" lat="40.4397058" lon="-79.9598145">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Eureka Bank"/>
+  </node>
+  <node id="1837780864" lat="40.4467044" lon="-79.9491703">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Citizens Bank"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00; Sa 09:00-14:00"/>
+    <tag k="operator" v="Citizens Bank"/>
+    <tag k="phone" v="+1-412-621-3345"/>
+  </node>
+  <node id="1873504031" lat="40.4499337" lon="-79.9509851">
+    <tag k="amenity" v="bank"/>
+    <tag k="fax" v="+1-412-325-2281"/>
+    <tag k="name" v="Northwest Savings Bank (Oakland branch)"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-16:30; Fr 09:00-18:00; Sa 09:00-13:00"/>
+    <tag k="operator" v="Northwest Savings Bank"/>
+    <tag k="phone" v="+1-412-682-0700"/>
+    <tag k="website" v="http://www.snl.com/IRWeblinkX/branchdetails.aspx?iid=1137118&amp;bankfacility=5715"/>
+  </node>
+  <node id="2127251895" lat="40.4399970" lon="-79.9989299">
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Smithfield Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="National City Bank"/>
+    <tag k="operator" v="PNC"/>
+    <tag k="website" v="https://www.pnc.co"/>
+  </node>
+  <node id="2133394186" lat="40.4388895" lon="-79.9981732">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Allegheny Valley Bank of Pittsburgh"/>
+    <tag k="opening_hours" v="Mo-Fr 8:30-17:00"/>
+    <tag k="phone" v="(412) 338-9036"/>
+    <tag k="website" v="https://www.avbpgh.com/"/>
+  </node>
+  <node id="2134617774" lat="40.4403352" lon="-79.9976914">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Citizens Bank."/>
+    <tag k="website" v="https://www.citizensbank.com/"/>
+  </node>
+  <node id="2296934966" lat="40.4271060" lon="-80.0564715">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="PNC"/>
+  </node>
+  <node id="2388002397" lat="40.4420507" lon="-79.9578177">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="3718"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:street" v="Fifth Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Citizens Bank"/>
+    <tag k="brand:wikidata" v="Q25209674"/>
+    <tag k="brand:wikipedia" v="en:Citizens Bank (South Bend, Indiana)"/>
+    <tag k="name" v="Citizens Bank"/>
+    <tag k="phone" v="412-683-1111"/>
+  </node>
+  <node id="2388002644" lat="40.4419825" lon="-79.9578877">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="3714"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:street" v="Fifth Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="Dollar Bank"/>
+    <tag k="phone" v="412-621-3178"/>
+  </node>
+  <node id="2710170969" lat="40.4403932" lon="-79.9584206">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="First National Bank"/>
+  </node>
+  <node id="4041696838" lat="40.3992648" lon="-80.0439739">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="PNC Bank"/>
+  </node>
+  <node id="4591599395" lat="40.4515963" lon="-80.0199267">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="KeyBank"/>
+  </node>
+  <node id="4960676595" lat="40.4349102" lon="-79.9229930">
+    <tag k="addr:housenumber" v="1940"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="First National Bank"/>
+  </node>
+  <node id="4960676822" lat="40.4371344" lon="-79.9230896">
+    <tag k="addr:housenumber" v="1730"/>
+    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="First Niagara"/>
+    <tag k="name" v="First Niagara"/>
+  </node>
+  <node id="5337836678" lat="40.4471681" lon="-80.0041565">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="PNC Bank"/>
+  </node>
+  <node id="5553611265" lat="40.4612213" lon="-79.9478765">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4761"/>
+    <tag k="addr:postcode" v="15224"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="PNC Bank"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-16:00; PH off"/>
+  </node>
+  <node id="5553630801" lat="40.4216693" lon="-79.9928183">
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:postcode" v="15210"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Warrington Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Dollar Bank"/>
+  </node>
+  <node id="6050058363" lat="40.4615342" lon="-79.9491318">
+    <tag k="addr:housenumber" v="4724"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="branch" v="Bloomfield"/>
+    <tag k="name" v="First National Bank"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-16:00; Fr 09:00-17:30"/>
+    <tag k="opening_hours:atm" v="24/7"/>
+    <tag k="phone" v="+1-412-688-7210"/>
+    <tag k="website" v="https://locations.fnb-online.com/pa/bloomfield"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6073983274" lat="40.4516049" lon="-79.9834452">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="PNC Bank"/>
+  </node>
+  <way id="34264357">
+    <bounds minlat="40.4464338" minlon="-79.9488099" maxlat="40.4468518" maxlon="-79.9484923"/>
+    <nd ref="392973724" lat="40.4468322" lon="-79.9488099"/>
+    <nd ref="392973725" lat="40.4468518" lon="-79.9485438"/>
+    <nd ref="392973726" lat="40.4464534" lon="-79.9484923"/>
+    <nd ref="392973727" lat="40.4464338" lon="-79.9487670"/>
+    <nd ref="392973724" lat="40.4468322" lon="-79.9488099"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="4600"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="5th Ave"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="PNC Bank"/>
+    <tag k="operator" v="PNC Bank"/>
+  </way>
+  <way id="34315573">
+    <bounds minlat="40.4592029" minlon="-79.9296971" maxlat="40.4593258" maxlon="-79.9294555"/>
+    <nd ref="393527099" lat="40.4592646" lon="-79.9296971"/>
+    <nd ref="3806168582" lat="40.4592843" lon="-79.9296294"/>
+    <nd ref="393527100" lat="40.4593258" lon="-79.9294865"/>
+    <nd ref="393527101" lat="40.4592641" lon="-79.9294555"/>
+    <nd ref="3806168581" lat="40.4592228" lon="-79.9295978"/>
+    <nd ref="393527102" lat="40.4592029" lon="-79.9296661"/>
+    <nd ref="393527099" lat="40.4592646" lon="-79.9296971"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="5838"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Baum Boulevard"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="National City Bank"/>
+    <tag k="operator" v="National City"/>
+  </way>
+  <way id="109670443">
+    <bounds minlat="40.4604506" minlon="-79.9237000" maxlat="40.4608331" maxlon="-79.9232308"/>
+    <nd ref="1254804471" lat="40.4604631" lon="-79.9237000"/>
+    <nd ref="1254804478" lat="40.4608331" lon="-79.9234706"/>
+    <nd ref="1254804491" lat="40.4607471" lon="-79.9232308"/>
+    <nd ref="1254804470" lat="40.4605452" lon="-79.9233559"/>
+    <nd ref="1254804482" lat="40.4605584" lon="-79.9233926"/>
+    <nd ref="1254804498" lat="40.4605277" lon="-79.9234116"/>
+    <nd ref="2841178859" lat="40.4605387" lon="-79.9234423"/>
+    <nd ref="1254804490" lat="40.4605083" lon="-79.9234611"/>
+    <nd ref="1254804493" lat="40.4605199" lon="-79.9234934"/>
+    <nd ref="1254804473" lat="40.4604962" lon="-79.9235081"/>
+    <nd ref="1254804484" lat="40.4605089" lon="-79.9235436"/>
+    <nd ref="1254804499" lat="40.4604874" lon="-79.9235570"/>
+    <nd ref="1254804479" lat="40.4604995" lon="-79.9235909"/>
+    <nd ref="1254804492" lat="40.4604692" lon="-79.9236097"/>
+    <nd ref="1254804472" lat="40.4604821" lon="-79.9236455"/>
+    <nd ref="1254804483" lat="40.4604506" lon="-79.9236650"/>
+    <nd ref="1254804471" lat="40.4604631" lon="-79.9237000"/>
+    <tag k="addr:housenumber" v="6112"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:street" v="Penn Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Citizens Bank"/>
+    <tag k="website" v="https://www.citizensbank.com/"/>
+  </way>
+  <way id="126256648">
+    <bounds minlat="40.4602358" minlon="-79.9266966" maxlat="40.4604145" maxlon="-79.9264290"/>
+    <nd ref="1400114785" lat="40.4603524" lon="-79.9266966"/>
+    <nd ref="1400114752" lat="40.4602358" lon="-79.9266363"/>
+    <nd ref="1400114789" lat="40.4602979" lon="-79.9264290"/>
+    <nd ref="1400114754" lat="40.4604145" lon="-79.9264893"/>
+    <nd ref="1400114785" lat="40.4603524" lon="-79.9266966"/>
+    <tag k="addr:housenumber" v="5934"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:street" v="Baum Boulevard"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="PNC Bank - Eastside Drive-up"/>
+  </way>
+  <way id="158623535">
+    <bounds minlat="40.4539773" minlon="-79.9442771" maxlat="40.4542087" maxlon="-79.9438529"/>
+    <nd ref="1707860573" lat="40.4542087" lon="-79.9439577"/>
+    <nd ref="1707860571" lat="40.4541680" lon="-79.9439373"/>
+    <nd ref="1707860572" lat="40.4541840" lon="-79.9438824"/>
+    <nd ref="1707860575" lat="40.4541250" lon="-79.9438529"/>
+    <nd ref="1707860574" lat="40.4540397" lon="-79.9441466"/>
+    <nd ref="1707860570" lat="40.4540007" lon="-79.9441270"/>
+    <nd ref="1707860576" lat="40.4539773" lon="-79.9442076"/>
+    <nd ref="1707860569" lat="40.4541160" lon="-79.9442771"/>
+    <nd ref="1707860573" lat="40.4542087" lon="-79.9439577"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="5000"/>
+    <tag k="addr:postcode" v="15213"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Centre Ave"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="Fidelity Bank (Shadyside branch)"/>
+    <tag k="operator" v="Fidelity Bank"/>
+    <tag k="website" v="http://fidelitybank-pa.com/AboutFidelity/OurLocations/Shadyside.aspx"/>
+  </way>
+  <way id="202809233">
+    <bounds minlat="40.4386076" minlon="-80.0002264" maxlat="40.4388358" maxlon="-79.9998444"/>
+    <nd ref="2127483863" lat="40.4386975" lon="-80.0002264"/>
+    <nd ref="2127483874" lat="40.4388282" lon="-80.0001403"/>
+    <nd ref="2127483872" lat="40.4388062" lon="-80.0000826"/>
+    <nd ref="2127483873" lat="40.4388253" lon="-80.0000700"/>
+    <nd ref="2127483875" lat="40.4388358" lon="-80.0000434"/>
+    <nd ref="2127483870" lat="40.4387821" lon="-79.9999026"/>
+    <nd ref="2127483869" lat="40.4387763" lon="-79.9999064"/>
+    <nd ref="2127483868" lat="40.4387589" lon="-79.9999016"/>
+    <nd ref="2127483866" lat="40.4387415" lon="-79.9999131"/>
+    <nd ref="2127483864" lat="40.4387153" lon="-79.9998444"/>
+    <nd ref="2127483861" lat="40.4386259" lon="-79.9999033"/>
+    <nd ref="2127483862" lat="40.4386489" lon="-79.9999636"/>
+    <nd ref="2127483860" lat="40.4386076" lon="-79.9999908"/>
+    <nd ref="2127483863" lat="40.4386975" lon="-80.0002264"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Fourth Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dollar Bank"/>
+    <tag k="website" v="www.dollarbank.com"/>
+    <tag k="wikipedia" v="en:Dollar Bank#Fourth Avenue.2C Pittsburgh"/>
+  </way>
+  <way id="203238844">
+    <bounds minlat="40.4392842" minlon="-80.0011837" maxlat="40.4397000" maxlon="-80.0007057"/>
+    <nd ref="2132270691" lat="40.4397000" lon="-80.0009782"/>
+    <nd ref="2132270681" lat="40.4395960" lon="-80.0007057"/>
+    <nd ref="2132270647" lat="40.4392842" lon="-80.0009112"/>
+    <nd ref="2132270659" lat="40.4393882" lon="-80.0011837"/>
+    <nd ref="2132270691" lat="40.4397000" lon="-80.0009782"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housename" v="Bank Tower"/>
+    <tag k="addr:housenumber" v="307"/>
+    <tag k="addr:postcode" v="15222"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Fourth Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="First National Bank"/>
+    <tag k="website" v="https://www.fnb-online.com"/>
+  </way>
+  <way id="203702615">
+    <bounds minlat="40.4284466" minlon="-79.9869525" maxlat="40.4286712" maxlon="-79.9867290"/>
+    <nd ref="2137037584" lat="40.4286712" lon="-79.9867371"/>
+    <nd ref="2137037564" lat="40.4285370" lon="-79.9867321"/>
+    <nd ref="2137037555" lat="40.4284653" lon="-79.9867295"/>
+    <nd ref="2137037552" lat="40.4284512" lon="-79.9867290"/>
+    <nd ref="2137037551" lat="40.4284466" lon="-79.9869443"/>
+    <nd ref="2137037582" lat="40.4286666" lon="-79.9869525"/>
+    <nd ref="2137037584" lat="40.4286712" lon="-79.9867371"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1114"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="First National Bank"/>
+    <tag k="opening_hours" v="Mo-Th 8:30-16:00; Fr 8:30–17:00"/>
+    <tag k="phone" v="412-432-5705"/>
+    <tag k="website" v="https://www.fnb-online.com/"/>
+  </way>
+  <way id="203750699">
+    <bounds minlat="40.4284862" minlon="-79.9816357" maxlat="40.4287100" maxlon="-79.9814514"/>
+    <nd ref="2137478610" lat="40.4285041" lon="-79.9815485"/>
+    <nd ref="2137478602" lat="40.4284862" lon="-79.9815502"/>
+    <nd ref="2137478603" lat="40.4284908" lon="-79.9816357"/>
+    <nd ref="2137478644" lat="40.4287100" lon="-79.9816153"/>
+    <nd ref="2137478642" lat="40.4287053" lon="-79.9815297"/>
+    <nd ref="2137478641" lat="40.4287011" lon="-79.9814514"/>
+    <nd ref="2137478616" lat="40.4285829" lon="-79.9814625"/>
+    <nd ref="2137478608" lat="40.4284998" lon="-79.9814702"/>
+    <nd ref="2137478610" lat="40.4285041" lon="-79.9815485"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1712"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dollar Bank"/>
+    <tag k="website" v="www.dollarbank.com"/>
+  </way>
+  <way id="203750708">
+    <bounds minlat="40.4284002" minlon="-79.9808775" maxlat="40.4286648" maxlon="-79.9806678"/>
+    <nd ref="2137478622" lat="40.4286648" lon="-79.9807788"/>
+    <nd ref="2104807178" lat="40.4286588" lon="-79.9806678"/>
+    <nd ref="2137478592" lat="40.4284002" lon="-79.9806919"/>
+    <nd ref="2137478593" lat="40.4284102" lon="-79.9808775"/>
+    <nd ref="2137478598" lat="40.4284781" lon="-79.9808712"/>
+    <nd ref="2137478597" lat="40.4284774" lon="-79.9808588"/>
+    <nd ref="2137478606" lat="40.4284962" lon="-79.9808571"/>
+    <nd ref="2137478604" lat="40.4284928" lon="-79.9807948"/>
+    <nd ref="2137478622" lat="40.4286648" lon="-79.9807788"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1736"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="PNC Bank"/>
+  </way>
+  <way id="203799438">
+    <bounds minlat="40.4284155" minlon="-79.9800412" maxlat="40.4286156" maxlon="-79.9799384"/>
+    <nd ref="2137959348" lat="40.4286156" lon="-79.9800222"/>
+    <nd ref="2137959345" lat="40.4286108" lon="-79.9799384"/>
+    <nd ref="2137959296" lat="40.4284155" lon="-79.9799574"/>
+    <nd ref="2137959297" lat="40.4284202" lon="-79.9800412"/>
+    <nd ref="2137959348" lat="40.4286156" lon="-79.9800222"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housename" v="United American Savings Bank"/>
+    <tag k="addr:housenumber" v="1812"/>
+    <tag k="addr:postcode" v="15203"/>
+    <tag k="addr:street" v="East Carson Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="United American Savings Bank"/>
+  </way>
+  <way id="220270174">
+    <bounds minlat="40.4518315" minlon="-79.9321973" maxlat="40.4520358" maxlon="-79.9318448"/>
+    <nd ref="2293989539" lat="40.4520358" lon="-79.9319195"/>
+    <nd ref="2293989537" lat="40.4518916" lon="-79.9318448"/>
+    <nd ref="2293989540" lat="40.4518315" lon="-79.9320452"/>
+    <nd ref="2293989543" lat="40.4518833" lon="-79.9320721"/>
+    <nd ref="2293989541" lat="40.4518601" lon="-79.9321494"/>
+    <nd ref="2293989544" lat="40.4519526" lon="-79.9321973"/>
+    <nd ref="2293989539" lat="40.4520358" lon="-79.9319195"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="PNC Bank"/>
+  </way>
+  <way id="314885371">
+    <bounds minlat="40.4366277" minlon="-79.9228085" maxlat="40.4368629" maxlon="-79.9225532"/>
+    <nd ref="3209355256" lat="40.4368629" lon="-79.9226879"/>
+    <nd ref="4960676818" lat="40.4368532" lon="-79.9226209"/>
+    <nd ref="3209355257" lat="40.4368208" lon="-79.9225803"/>
+    <nd ref="3209355258" lat="40.4367679" lon="-79.9225536"/>
+    <nd ref="4960676819" lat="40.4367169" lon="-79.9225532"/>
+    <nd ref="3209355259" lat="40.4366603" lon="-79.9225839"/>
+    <nd ref="3209355260" lat="40.4366277" lon="-79.9226379"/>
+    <nd ref="3209362361" lat="40.4366284" lon="-79.9227037"/>
+    <nd ref="3209362362" lat="40.4366535" lon="-79.9227620"/>
+    <nd ref="3209362363" lat="40.4366948" lon="-79.9227946"/>
+    <nd ref="3209362364" lat="40.4367466" lon="-79.9228085"/>
+    <nd ref="3209362365" lat="40.4368008" lon="-79.9227911"/>
+    <nd ref="4960676817" lat="40.4368481" lon="-79.9227463"/>
+    <nd ref="3209355256" lat="40.4368629" lon="-79.9226879"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="1801"/>
+    <tag k="addr:postcode" v="15217"/>
+    <tag k="addr:street" v="Murray Ave."/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="Citizens Bank"/>
+    <tag k="phone" v="412.521.5542"/>
+    <tag k="source:area" v="bing"/>
+    <tag k="source:building:levels" v="local knowledge"/>
+  </way>
+  <way id="316332147">
+    <bounds minlat="40.4344635" minlon="-79.9227501" maxlat="40.4346172" maxlon="-79.9226178"/>
+    <nd ref="3224433507" lat="40.4346172" lon="-79.9227302"/>
+    <nd ref="3224433508" lat="40.4344728" lon="-79.9227501"/>
+    <nd ref="3224433509" lat="40.4344635" lon="-79.9226178"/>
+    <nd ref="4960676591" lat="40.4344703" lon="-79.9226193"/>
+    <nd ref="4960676590" lat="40.4345534" lon="-79.9226403"/>
+    <nd ref="3224433510" lat="40.4346105" lon="-79.9226544"/>
+    <nd ref="3224433507" lat="40.4346172" lon="-79.9227302"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="First Niagara"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="360096982">
+    <bounds minlat="40.4897994" minlon="-80.0183361" maxlat="40.4899528" maxlon="-80.0179578"/>
+    <nd ref="3452672488" lat="40.4898633" lon="-80.0183213"/>
+    <nd ref="3646981240" lat="40.4899254" lon="-80.0183361"/>
+    <nd ref="3646981241" lat="40.4899528" lon="-80.0180912"/>
+    <nd ref="3646981239" lat="40.4898914" lon="-80.0180786"/>
+    <nd ref="3452672485" lat="40.4899039" lon="-80.0179706"/>
+    <nd ref="3452672486" lat="40.4898400" lon="-80.0179578"/>
+    <nd ref="3452672487" lat="40.4897994" lon="-80.0183085"/>
+    <nd ref="3452672488" lat="40.4898633" lon="-80.0183213"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="no"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="First National Bank"/>
+  </way>
+  <way id="373477656">
+    <bounds minlat="40.4765498" minlon="-80.0316475" maxlat="40.4767589" maxlon="-80.0313521"/>
+    <nd ref="3769366811" lat="40.4767589" lon="-80.0316475"/>
+    <nd ref="3769366802" lat="40.4765550" lon="-80.0316297"/>
+    <nd ref="3769366801" lat="40.4765498" lon="-80.0313693"/>
+    <nd ref="3769366804" lat="40.4765633" lon="-80.0313688"/>
+    <nd ref="3769366803" lat="40.4765630" lon="-80.0313559"/>
+    <nd ref="3769366805" lat="40.4766707" lon="-80.0313521"/>
+    <nd ref="3652358577" lat="40.4766725" lon="-80.0314373"/>
+    <nd ref="3769366806" lat="40.4766970" lon="-80.0314364"/>
+    <nd ref="3769366807" lat="40.4766994" lon="-80.0315554"/>
+    <nd ref="3769366808" lat="40.4767467" lon="-80.0315537"/>
+    <nd ref="3769366809" lat="40.4767477" lon="-80.0316044"/>
+    <nd ref="3769366810" lat="40.4767580" lon="-80.0316040"/>
+    <nd ref="3769366811" lat="40.4767589" lon="-80.0316475"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="WesBanco"/>
+  </way>
+  <way id="380458501">
+    <bounds minlat="40.4697155" minlon="-79.9607759" maxlat="40.4699417" maxlon="-79.9604496"/>
+    <nd ref="3837895647" lat="40.4698044" lon="-79.9607759"/>
+    <nd ref="3865719169" lat="40.4698494" lon="-79.9607468"/>
+    <nd ref="3865719170" lat="40.4698729" lon="-79.9607315"/>
+    <nd ref="3837895661" lat="40.4699417" lon="-79.9606870"/>
+    <nd ref="3837895653" lat="40.4698528" lon="-79.9604496"/>
+    <nd ref="3837895643" lat="40.4697155" lon="-79.9605384"/>
+    <nd ref="3837895647" lat="40.4698044" lon="-79.9607759"/>
+    <tag k="addr:housenumber" v="4112"/>
+    <tag k="addr:street" v="Butler Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Citizens Bank"/>
+  </way>
+  <way id="440116455">
+    <bounds minlat="40.4629258" minlon="-79.9245908" maxlat="40.4631694" maxlon="-79.9241912"/>
+    <nd ref="4378180486" lat="40.4630680" lon="-79.9241912"/>
+    <nd ref="4378180467" lat="40.4629258" lon="-79.9242531"/>
+    <nd ref="4378180468" lat="40.4629323" lon="-79.9242717"/>
+    <nd ref="4378180483" lat="40.4630438" lon="-79.9245908"/>
+    <nd ref="4378185100" lat="40.4631694" lon="-79.9245150"/>
+    <nd ref="4378185092" lat="40.4630919" lon="-79.9242932"/>
+    <nd ref="4378185095" lat="40.4631016" lon="-79.9242874"/>
+    <nd ref="4378180486" lat="40.4630680" lon="-79.9241912"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:postcode" v="15206"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="North Highland Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="fax" v="+1-412-363-4740"/>
+    <tag k="name" v="First Niagara"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-16:00"/>
+    <tag k="phone" v="+1-412-665-4040"/>
+    <tag k="website" v="http://www.firstniagara.com/"/>
+  </way>
+  <way id="444684463">
+    <bounds minlat="40.4217556" minlon="-79.9286822" maxlat="40.4219042" maxlon="-79.9285117"/>
+    <nd ref="4421509855" lat="40.4217556" lon="-79.9286466"/>
+    <nd ref="4421509852" lat="40.4218820" lon="-79.9286822"/>
+    <nd ref="4421509853" lat="40.4219042" lon="-79.9285473"/>
+    <nd ref="4421509854" lat="40.4217777" lon="-79.9285117"/>
+    <nd ref="4421509855" lat="40.4217556" lon="-79.9286466"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="PNC Bank"/>
+  </way>
+  <way id="505955742">
+    <bounds minlat="40.4376087" minlon="-79.9225213" maxlat="40.4379546" maxlon="-79.9223046"/>
+    <nd ref="4957731257" lat="40.4379546" lon="-79.9225207"/>
+    <nd ref="4957731298" lat="40.4379544" lon="-79.9223046"/>
+    <nd ref="4957731256" lat="40.4378673" lon="-79.9223048"/>
+    <nd ref="4957731255" lat="40.4378673" lon="-79.9223363"/>
+    <nd ref="4957731254" lat="40.4376087" lon="-79.9223369"/>
+    <nd ref="4957731253" lat="40.4376089" lon="-79.9224929"/>
+    <nd ref="4957731252" lat="40.4376948" lon="-79.9224927"/>
+    <nd ref="4957731251" lat="40.4376948" lon="-79.9225213"/>
+    <nd ref="4957731257" lat="40.4379546" lon="-79.9225207"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="PNC Bank"/>
+  </way>
+  <way id="505955746">
+    <bounds minlat="40.4381773" minlon="-79.9220988" maxlat="40.4384326" maxlon="-79.9219954"/>
+    <nd ref="4957731272" lat="40.4381773" lon="-79.9219986"/>
+    <nd ref="4957731280" lat="40.4383554" lon="-79.9219964"/>
+    <nd ref="4957731279" lat="40.4384319" lon="-79.9219954"/>
+    <nd ref="4957731278" lat="40.4384326" lon="-79.9220956"/>
+    <nd ref="4957731277" lat="40.4381781" lon="-79.9220988"/>
+    <nd ref="4957731272" lat="40.4381773" lon="-79.9219986"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Huntington Bank"/>
+  </way>
+  <way id="505955758">
+    <bounds minlat="40.4381697" minlon="-79.9212247" maxlat="40.4383522" maxlon="-79.9210469"/>
+    <nd ref="4957731320" lat="40.4383364" lon="-79.9210469"/>
+    <nd ref="4957731303" lat="40.4383364" lon="-79.9210532"/>
+    <nd ref="4957731319" lat="40.4383363" lon="-79.9210990"/>
+    <nd ref="4957731318" lat="40.4383522" lon="-79.9210991"/>
+    <nd ref="4957731317" lat="40.4383520" lon="-79.9212159"/>
+    <nd ref="4957731316" lat="40.4383349" lon="-79.9212159"/>
+    <nd ref="4957732327" lat="40.4383349" lon="-79.9212247"/>
+    <nd ref="4957732326" lat="40.4381697" lon="-79.9212242"/>
+    <nd ref="4957731304" lat="40.4381698" lon="-79.9210469"/>
+    <nd ref="4957731320" lat="40.4383364" lon="-79.9210469"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="First Commonwealth"/>
+  </way>
+  <way id="513478413">
+    <bounds minlat="40.4537855" minlon="-79.9996791" maxlat="40.4540630" maxlon="-79.9992607"/>
+    <nd ref="5019226994" lat="40.4540437" lon="-79.9996496"/>
+    <nd ref="5019226995" lat="40.4540630" lon="-79.9995396"/>
+    <nd ref="5019226996" lat="40.4539671" lon="-79.9995074"/>
+    <nd ref="5019226997" lat="40.4539998" lon="-79.9993143"/>
+    <nd ref="5019226998" lat="40.4538375" lon="-79.9992607"/>
+    <nd ref="5019226999" lat="40.4537855" lon="-79.9995611"/>
+    <nd ref="5019227000" lat="40.4538222" lon="-79.9995745"/>
+    <nd ref="5019227001" lat="40.4538089" lon="-79.9996550"/>
+    <nd ref="5019227002" lat="40.4538845" lon="-79.9996791"/>
+    <nd ref="5019227003" lat="40.4538998" lon="-79.9996013"/>
+    <nd ref="5019226994" lat="40.4540437" lon="-79.9996496"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Citizens Bank"/>
+  </way>
+  <way id="513478414">
+    <bounds minlat="40.4538775" minlon="-79.9990989" maxlat="40.4540955" maxlon="-79.9988410"/>
+    <nd ref="5019227004" lat="40.4538949" lon="-79.9990534"/>
+    <nd ref="5019227005" lat="40.4538775" lon="-79.9990230"/>
+    <nd ref="5019227006" lat="40.4539136" lon="-79.9988410"/>
+    <nd ref="5019227007" lat="40.4540536" lon="-79.9988827"/>
+    <nd ref="5019227008" lat="40.4540320" lon="-79.9990117"/>
+    <nd ref="5019227009" lat="40.4540955" lon="-79.9990306"/>
+    <nd ref="5019227010" lat="40.4540839" lon="-79.9990951"/>
+    <nd ref="5019227011" lat="40.4540233" lon="-79.9990762"/>
+    <nd ref="5019227012" lat="40.4540204" lon="-79.9990989"/>
+    <nd ref="5019227004" lat="40.4538949" lon="-79.9990534"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Huntington Bank"/>
+  </way>
+  <way id="528927183">
+    <bounds minlat="40.4546119" minlon="-79.9997006" maxlat="40.4548746" maxlon="-79.9995185"/>
+    <nd ref="5138940577" lat="40.4547667" lon="-79.9996762"/>
+    <nd ref="5138940581" lat="40.4548542" lon="-79.9997006"/>
+    <nd ref="5138940582" lat="40.4548746" lon="-79.9995978"/>
+    <nd ref="5138940583" lat="40.4546312" lon="-79.9995185"/>
+    <nd ref="5138940578" lat="40.4546119" lon="-79.9996230"/>
+    <nd ref="5138940577" lat="40.4547667" lon="-79.9996762"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="WesBanco"/>
+  </way>
+  <way id="535064128">
+    <bounds minlat="40.4520961" minlon="-79.9814326" maxlat="40.4524182" maxlon="-79.9809982"/>
+    <nd ref="5187497871" lat="40.4520961" lon="-79.9812918"/>
+    <nd ref="6080268131" lat="40.4521361" lon="-79.9813380"/>
+    <nd ref="5187497868" lat="40.4522181" lon="-79.9814326"/>
+    <nd ref="6080286234" lat="40.4524088" lon="-79.9811548"/>
+    <nd ref="5187497869" lat="40.4524182" lon="-79.9811411"/>
+    <nd ref="6080286238" lat="40.4523368" lon="-79.9810455"/>
+    <nd ref="6080286248" lat="40.4523234" lon="-79.9810298"/>
+    <nd ref="6080286226" lat="40.4523105" lon="-79.9810146"/>
+    <nd ref="5187497867" lat="40.4522965" lon="-79.9809982"/>
+    <nd ref="6080268120" lat="40.4522735" lon="-79.9810289"/>
+    <nd ref="6080268119" lat="40.4522619" lon="-79.9810163"/>
+    <nd ref="6080268118" lat="40.4522417" lon="-79.9810469"/>
+    <nd ref="6080268117" lat="40.4522527" lon="-79.9810607"/>
+    <nd ref="6080268116" lat="40.4521470" lon="-79.9812176"/>
+    <nd ref="6080268115" lat="40.4521348" lon="-79.9812030"/>
+    <nd ref="6080268114" lat="40.4521162" lon="-79.9812308"/>
+    <nd ref="6080286227" lat="40.4521163" lon="-79.9812309"/>
+    <nd ref="6080268113" lat="40.4521276" lon="-79.9812465"/>
+    <nd ref="6080286241" lat="40.4521150" lon="-79.9812646"/>
+    <nd ref="5187497871" lat="40.4520961" lon="-79.9812918"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Iron Workers Federal Credit Union"/>
+  </way>
+  <way id="535064247">
+    <bounds minlat="40.4513076" minlon="-79.9833222" maxlat="40.4515769" maxlon="-79.9829824"/>
+    <nd ref="5187497364" lat="40.4513076" lon="-79.9831596"/>
+    <nd ref="6076721417" lat="40.4513786" lon="-79.9832434"/>
+    <nd ref="5187497365" lat="40.4514436" lon="-79.9833222"/>
+    <nd ref="5187497362" lat="40.4515769" lon="-79.9831329"/>
+    <nd ref="5187497363" lat="40.4514618" lon="-79.9829980"/>
+    <nd ref="6076721421" lat="40.4514535" lon="-79.9830109"/>
+    <nd ref="6076721422" lat="40.4514300" lon="-79.9829824"/>
+    <nd ref="5187497360" lat="40.4513431" lon="-79.9831101"/>
+    <nd ref="5187497364" lat="40.4513076" lon="-79.9831596"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="WesBanco Bank"/>
+  </way>
+  <way id="545522496">
+    <bounds minlat="40.4595828" minlon="-79.9460342" maxlat="40.4598416" maxlon="-79.9456587"/>
+    <nd ref="5272320670" lat="40.4595828" lon="-79.9457449"/>
+    <nd ref="5272320669" lat="40.4596261" lon="-79.9458212"/>
+    <nd ref="5272320668" lat="40.4596155" lon="-79.9458232"/>
+    <nd ref="5272320667" lat="40.4597295" lon="-79.9460342"/>
+    <nd ref="5272320666" lat="40.4597637" lon="-79.9460003"/>
+    <nd ref="5272320665" lat="40.4597770" lon="-79.9460231"/>
+    <nd ref="5272320664" lat="40.4598173" lon="-79.9459856"/>
+    <nd ref="5272320663" lat="40.4598028" lon="-79.9459595"/>
+    <nd ref="5272320662" lat="40.4598416" lon="-79.9459212"/>
+    <nd ref="5272320661" lat="40.4597381" lon="-79.9457197"/>
+    <nd ref="5272320660" lat="40.4597189" lon="-79.9457360"/>
+    <nd ref="5272320659" lat="40.4596746" lon="-79.9456587"/>
+    <nd ref="5272320670" lat="40.4595828" lon="-79.9457449"/>
+    <tag k="addr:city" v="Pittsburgh"/>
+    <tag k="addr:housenumber" v="4900"/>
+    <tag k="addr:postcode" v="15224"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="commercial"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="First Commonwealth Bank"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-17:00; Fr 09:00-18:00; Sa 09:00-13:00; PH off"/>
+    <tag k="phone" v="+1-412-690-2358"/>
+    <tag k="website" v="https://fcbanking.com"/>
+  </way>
+  <way id="547060155">
+    <bounds minlat="40.4621180" minlon="-79.9497782" maxlat="40.4624759" maxlon="-79.9494066"/>
+    <nd ref="5285997186" lat="40.4621180" lon="-79.9496601"/>
+    <nd ref="5285997185" lat="40.4621811" lon="-79.9497782"/>
+    <nd ref="5285997184" lat="40.4624759" lon="-79.9495706"/>
+    <nd ref="5285997183" lat="40.4623864" lon="-79.9494066"/>
+    <nd ref="5285997186" lat="40.4621180" lon="-79.9496601"/>
+    <tag k="addr:housenumber" v="4701"/>
+    <tag k="addr:street" v="Liberty Avenue"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Citizens Bank"/>
+    <tag k="opening_hours" v="Mo-Th 08:30-16:30; Fr 08:30-18:00; Sa 09:00-13:00"/>
+    <tag k="phone" v="+1-412-682-3902"/>
+    <tag k="website" v="https://locations.citizensbank.com/pa/pittsburgh/4701-liberty-ave.html"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+
+</osm>

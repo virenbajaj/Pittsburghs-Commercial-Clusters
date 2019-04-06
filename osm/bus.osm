@@ -1,0 +1,1883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.6 486819c8">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-04-06T02:24:01Z" areas="2019-04-06T01:59:02Z"/>
+
+  <node id="104448976" lat="40.4405956" lon="-80.0268941">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fingal St at Rutledge St"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="105710558" lat="40.4440360" lon="-79.9919503">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Penn Station B"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="5124"/>
+  </node>
+  <node id="281348352" lat="40.4592143" lon="-79.9669567">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Herron Station"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="wikidata" v="Q48529190"/>
+    <tag k="wikipedia" v="en:Herron (PAT station)"/>
+  </node>
+  <node id="312632777" lat="40.4397722" lon="-79.9593971">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="note" v="Routes 44U 501 61A 61B 61C 67A 67C 67E 67F 67J 61D"/>
+    <tag k="operator" v="Port Authority Pittsburgh"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="392939671" lat="40.4569802" lon="-79.9346479">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="392940481" lat="40.4582603" lon="-79.9337724">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="392940505" lat="40.4574766" lon="-79.9342874">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="392974007" lat="40.4478969" lon="-79.9494708">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="392974201" lat="40.4472502" lon="-79.9492477">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="393000891" lat="40.4573953" lon="-79.9339088">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="393398614" lat="40.4571508" lon="-79.9338927">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="394971287" lat="40.4589083" lon="-79.9287879">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Center Avenue"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="520905079" lat="40.4845078" lon="-79.9479734">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="91A In-bound Butler at 56th"/>
+  </node>
+  <node id="520905086" lat="40.4842671" lon="-79.9482128">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="91A Out-bound Butler at 56th"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="584657205" lat="40.4483568" lon="-79.9341104">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue opposite Aiken Avenue"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3255"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="684907684" lat="40.4552551" lon="-79.9927640">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="East Ohio St at Heinz St"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="687084720" lat="40.4594864" lon="-79.9227219">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="East Liberty Station"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="bing;http://www.portauthority.org/PAAC/apps/maps/P1.pdf"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="687142253" lat="40.3924476" lon="-79.9983741">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="South Bank"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1152032787" lat="40.4631537" lon="-79.9519858">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Ella Street"/>
+    <tag k="network" v="58; 86"/>
+    <tag k="operator" v="PAT"/>
+    <tag k="passenger_information_display" v="no"/>
+  </node>
+  <node id="1152032788" lat="40.4631456" lon="-79.9516639">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Ella Street"/>
+    <tag k="network" v="54; 86"/>
+    <tag k="operator" v="PAT"/>
+  </node>
+  <node id="1152032790" lat="40.4633047" lon="-79.9517444">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ella Street at Liberty Avenue"/>
+    <tag k="network" v="87"/>
+    <tag k="operator" v="PAT"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1356087410" lat="40.4445838" lon="-79.9547157">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Bigelow Boulevard"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="34"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1376901907" lat="40.4484925" lon="-79.9341266">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Aiken Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3145"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1565739600" lat="40.4527879" lon="-80.0529912">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Sheraden Station"/>
+  </node>
+  <node id="1585004422" lat="40.4282786" lon="-79.9710269">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="Carson Street at 24th"/>
+    <tag k="name" v="Carson Street at 24th"/>
+  </node>
+  <node id="1598833926" lat="40.4414206" lon="-80.0056517">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at Wyndham Grand"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="4126"/>
+  </node>
+  <node id="1778609167" lat="40.4473487" lon="-79.9425102">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Morewood Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="1177"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1778609170" lat="40.4561049" lon="-79.9332942">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1779808739" lat="40.4502300" lon="-79.9298132">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1779808746" lat="40.4590281" lon="-79.9317360">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1780450942" lat="40.4528040" lon="-79.9208145">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1780450943" lat="40.4529708" lon="-79.9205854">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1781108738" lat="40.4549364" lon="-79.9415015">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1781108739" lat="40.4558058" lon="-79.9386827">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1783546388" lat="40.4490158" lon="-79.9325018">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Bellefonte Street"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3144"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1783546393" lat="40.4499204" lon="-79.9295676">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Negley Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3143"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1783546395" lat="40.4506002" lon="-79.9274154">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="FIFTH AVE AT MARYLAND AVE"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1783546397" lat="40.4566659" lon="-79.9337714">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1784102246" lat="40.4540719" lon="-79.9445094">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1784102247" lat="40.4543712" lon="-79.9435004">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1784102248" lat="40.4592050" lon="-79.9307033">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1784102249" lat="40.4594027" lon="-79.9304753">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1784102250" lat="40.4597773" lon="-79.9292283">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1784102251" lat="40.4602003" lon="-79.9278118">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1784102252" lat="40.4605975" lon="-79.9265217">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1785427182" lat="40.4513925" lon="-79.9408690">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1785427183" lat="40.4519542" lon="-79.9388482">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1785427184" lat="40.4519610" lon="-79.9391605">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1785427185" lat="40.4528659" lon="-79.9366019">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1785427186" lat="40.4537460" lon="-79.9347629">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1785427187" lat="40.4538179" lon="-79.9343682">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1786772014" lat="40.4527311" lon="-79.9497785">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1786772015" lat="40.4527907" lon="-79.9496409">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1812433922" lat="40.4531829" lon="-79.9474279">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1812433927" lat="40.4533870" lon="-79.9472252">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1812433930" lat="40.4533992" lon="-79.9474991">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1815342336" lat="40.4513807" lon="-79.9533924">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1815342341" lat="40.4515984" lon="-79.9532185">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1815342345" lat="40.4517583" lon="-79.9521271">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="1815342348" lat="40.4521335" lon="-79.9509536">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1815342352" lat="40.4524813" lon="-79.9497825">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1824542801" lat="40.4457668" lon="-79.9487572">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1829751659" lat="40.4510700" lon="-79.9258880">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue opposite College Street"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3143"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1831061807" lat="40.4533532" lon="-79.9316723">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1831061808" lat="40.4546324" lon="-79.9324208">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1831061809" lat="40.4548725" lon="-79.9324021">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1832109159" lat="40.4476190" lon="-79.9388496">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue opposite Amberson Avenue"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="1178"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1835579476" lat="40.4520537" lon="-79.9516474">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="1835929650" lat="40.4512237" lon="-79.9410404">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1835929651" lat="40.4516348" lon="-79.9410582">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1835929661" lat="40.4526336" lon="-79.9368092">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1838673345" lat="40.4561004" lon="-79.9381861">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1838801466" lat="40.4542496" lon="-79.9443186">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1838801467" lat="40.4551302" lon="-79.9413825">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1838801468" lat="40.4554247" lon="-79.9404586">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1839957800" lat="40.4436015" lon="-79.9954257">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at William Penn Pl"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County;Beaver County Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v=";1342"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1839957801" lat="40.4436066" lon="-79.9957338">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave past 10th St"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1892471692" lat="40.4508013" lon="-79.9431305">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1970968856" lat="40.3996348" lon="-80.0442487">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="1970968857" lat="40.3997084" lon="-80.0443828">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2295158520" lat="40.4448856" lon="-79.9942235">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Megabus Pittsburgh"/>
+    <tag k="operator" v="Megabus"/>
+  </node>
+  <node id="2296932022" lat="40.4280779" lon="-80.0538430">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="31"/>
+  </node>
+  <node id="2430015584" lat="40.4432313" lon="-79.9968184">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at Smithfield St"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County;Beaver County Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v=";1338"/>
+  </node>
+  <node id="2430015588" lat="40.4427918" lon="-79.9982071">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave opp 9th St"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2430015589" lat="40.4427929" lon="-79.9966123">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2430015590" lat="40.4538733" lon="-79.9980478">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2541477351" lat="40.4440670" lon="-79.9259187">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2553700812" lat="40.4619633" lon="-79.9315264">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2625613286" lat="40.4872039" lon="-79.8853592">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Freeport Rd at Dollar Bank"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="17355"/>
+  </node>
+  <node id="2625614493" lat="40.4878156" lon="-79.8885274">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Waterworks Mall at Walmart"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="17655"/>
+  </node>
+  <node id="2634336032" lat="40.4527441" lon="-79.9494722">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Center and Neville"/>
+  </node>
+  <node id="2672381466" lat="40.4842938" lon="-79.9478730">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="operator" v="PAT of Allegheny County"/>
+  </node>
+  <node id="2672381542" lat="40.4850964" lon="-79.9463461">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2672381551" lat="40.4852945" lon="-79.9462277">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2675302031" lat="40.4768740" lon="-79.9325986">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2676344771" lat="40.4614227" lon="-79.9246134">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2698855703" lat="40.4439918" lon="-79.9392206">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="2698855704" lat="40.4439834" lon="-79.9385988">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="2698855706" lat="40.4427253" lon="-79.9377594">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="2766543187" lat="40.4324683" lon="-79.9274552">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2837397847" lat="40.4230871" lon="-79.9285921">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3209378793" lat="40.4379892" lon="-79.9231982">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="3209378794" lat="40.4381198" lon="-79.9237159">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="mapillary"/>
+  </node>
+  <node id="3209378795" lat="40.4384526" lon="-79.9229327">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="mapillary"/>
+  </node>
+  <node id="3224418048" lat="40.4447526" lon="-79.9436293">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="bing;local knowledge"/>
+  </node>
+  <node id="3237448164" lat="40.4555350" lon="-79.9396203">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="bing;local knowledge"/>
+  </node>
+  <node id="3369561303" lat="40.4250149" lon="-79.9525462">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3547592104" lat="40.4529733" lon="-79.8990729">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Homewood"/>
+    <tag k="source" v="bing;http://www.portauthority.org/PAAC/apps/maps/P1.pdf"/>
+    <tag k="wikipedia" v="en:Homewood (PAT station)"/>
+  </node>
+  <node id="3639923516" lat="40.4349438" lon="-79.9561682">
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="shelter_type" v="public_transport"/>
+    <tag k="source" v="survey;bing"/>
+  </node>
+  <node id="3652076304" lat="40.4332966" lon="-79.9146717">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="shelter_type" v="public_transport"/>
+  </node>
+  <node id="3652076305" lat="40.4309279" lon="-79.9590798">
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="shelter_type" v="public_transport"/>
+    <tag k="source" v="survey;bing"/>
+  </node>
+  <node id="3652076321" lat="40.4444364" lon="-79.9424859">
+    <tag k="bench" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="bing;survey"/>
+  </node>
+  <node id="3653092496" lat="40.4927890" lon="-80.0216535">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3653092497" lat="40.4929099" lon="-80.0220014">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3659604299" lat="40.4540873" lon="-80.0144113">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3681697956" lat="40.4421361" lon="-79.9997079">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="3681741033" lat="40.4875929" lon="-80.0409417">
+    <tag k="fixme" v="Position is approximate"/>
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3688752127" lat="40.4366487" lon="-79.9988340">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="shelter_type" v="public_transport"/>
+    <tag k="source" v="bing"/>
+  </node>
+  <node id="3706977371" lat="40.4506760" lon="-80.0135684">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3758311427" lat="40.4765999" lon="-80.0318153">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3760723274" lat="40.4668587" lon="-80.0248984">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3769754622" lat="40.4796958" lon="-80.0312271">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3771066351" lat="40.4794044" lon="-80.0434458">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ohio River Blvd opp. McKees Rocks Bridge"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="1307"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3772223149" lat="40.4844929" lon="-80.0360027">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3773919369" lat="40.4505247" lon="-80.0134955">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3773919370" lat="40.4637664" lon="-80.0225428">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3773919400" lat="40.4684202" lon="-80.0253002">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3775783186" lat="40.4637007" lon="-80.0226891">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3778368628" lat="40.4569937" lon="-80.0157587">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3778368631" lat="40.4593803" lon="-80.0167311">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3781491072" lat="40.4584020" lon="-80.0160189">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3781491073" lat="40.4752161" lon="-80.0394403">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3781492660" lat="40.4842799" lon="-80.0357089">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3799361006" lat="40.4603398" lon="-80.0182827">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416634" lat="40.4548828" lon="-80.0149545">
+    <tag k="fixme" v="Position is approximate"/>
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416635" lat="40.4558345" lon="-80.0151544">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416636" lat="40.4561860" lon="-80.0155026">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416637" lat="40.4571084" lon="-80.0155798">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416638" lat="40.4580357" lon="-80.0160525">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416639" lat="40.4596873" lon="-80.0169175">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416640" lat="40.4614994" lon="-80.0190232">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416641" lat="40.4615121" lon="-80.0188591">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416642" lat="40.4626440" lon="-80.0202136">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416643" lat="40.4630803" lon="-80.0205269">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416644" lat="40.4645030" lon="-80.0237656">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416645" lat="40.4645882" lon="-80.0236507">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416646" lat="40.4655884" lon="-80.0246535">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416647" lat="40.4671524" lon="-80.0251447">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416648" lat="40.4683932" lon="-80.0251345">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416649" lat="40.4699615" lon="-80.0255402">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416650" lat="40.4699983" lon="-80.0257293">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416651" lat="40.4707476" lon="-80.0259725">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416652" lat="40.4712132" lon="-80.0259549">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416653" lat="40.4717210" lon="-80.0271179">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416654" lat="40.4718345" lon="-80.0270019">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416655" lat="40.4735646" lon="-80.0286154">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810416656" lat="40.4738019" lon="-80.0290030">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3810425457" lat="40.4753108" lon="-80.0301589">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425458" lat="40.4753516" lon="-80.0305214">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425459" lat="40.4764150" lon="-80.0316027">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425461" lat="40.4781932" lon="-80.0311480">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425462" lat="40.4783876" lon="-80.0312360">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425463" lat="40.4797135" lon="-80.0310351">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425464" lat="40.4808128" lon="-80.0322603">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425465" lat="40.4810257" lon="-80.0328990">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425466" lat="40.4811245" lon="-80.0327947">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425467" lat="40.4817846" lon="-80.0342014">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425468" lat="40.4820878" lon="-80.0344718">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425470" lat="40.4830926" lon="-80.0355289">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425471" lat="40.4829753" lon="-80.0353083">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425472" lat="40.4862098" lon="-80.0365600">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425473" lat="40.4870314" lon="-80.0372469">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425474" lat="40.4870438" lon="-80.0380252">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425475" lat="40.4873560" lon="-80.0390422">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3810425477" lat="40.4876365" lon="-80.0405467">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3812002447" lat="40.4530127" lon="-80.0027700">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="East Ohio St opp Union Ave"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="3861305013" lat="40.4962680" lon="-80.0198760">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3861320087" lat="40.4959877" lon="-80.0073685">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3861320088" lat="40.4960369" lon="-80.0080855">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3861320089" lat="40.4964712" lon="-80.0091898">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3861320090" lat="40.4967280" lon="-80.0115713">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3861320091" lat="40.4968298" lon="-80.0115679">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3865719357" lat="40.4705257" lon="-79.9603346">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3865719483" lat="40.4713638" lon="-79.9597645">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3886814073" lat="40.4518803" lon="-80.0166540">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3886814078" lat="40.4520310" lon="-80.0164564">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3886814081" lat="40.4524238" lon="-80.0143400">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="3910908217" lat="40.4788795" lon="-80.0432832">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ohio River Blvd at McKees Rocks Bridge"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="1308"/>
+  </node>
+  <node id="4068378813" lat="40.4539740" lon="-80.0140473">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="4068378821" lat="40.4598369" lon="-80.0171010">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4149829691" lat="40.4417530" lon="-80.0020891">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at Market St"/>
+    <tag k="operator" v="Port Authority of Allegheny County;Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v=";3406"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4197495513" lat="40.4814653" lon="-80.0349079">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4214116549" lat="40.4556011" lon="-79.9947931">
+    <tag k="fixme" v="Position is approximate"/>
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4214125707" lat="40.4587751" lon="-80.0235484">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4232985367" lat="40.4838762" lon="-80.0133397">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="source" v="USGS imagery;Pittsburgh Parks Riverview Park Map PDF"/>
+  </node>
+  <node id="4232985369" lat="40.4799193" lon="-80.0122045">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="USGS imagery;Pittsburgh Parks Riverview Park Map PDF"/>
+  </node>
+  <node id="4301448579" lat="40.4619879" lon="-79.9618922">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301448580" lat="40.4634731" lon="-79.9533396">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301448582" lat="40.4621222" lon="-79.9497778">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Pearl Street"/>
+    <tag k="network" v="54; 86"/>
+    <tag k="operator" v="PAT"/>
+  </node>
+  <node id="4301448583" lat="40.4600134" lon="-79.9461442">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at South Millvale Avenue"/>
+    <tag k="network" v="54;86"/>
+    <tag k="operator" v="PAT"/>
+    <tag k="passenger_information_display" v="no"/>
+    <tag k="ref" v="1155"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="4301448584" lat="40.4588219" lon="-79.9469564">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301448585" lat="40.4559059" lon="-79.9475198">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301448586" lat="40.4544466" lon="-79.9475719">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301448587" lat="40.4445436" lon="-79.9487613">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301448588" lat="40.4463500" lon="-79.9517678">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bellefield Avenue at 5th Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="1173"/>
+  </node>
+  <node id="4301449469" lat="40.4634757" lon="-79.9539609">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301449470" lat="40.4511569" lon="-79.9823449">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301449471" lat="40.4621442" lon="-79.9500364">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Pearl Street"/>
+    <tag k="network" v="54; 86"/>
+    <tag k="operator" v="PAT"/>
+  </node>
+  <node id="4301449472" lat="40.4611429" lon="-79.9482543">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Edmond Street"/>
+    <tag k="network" v="54;86"/>
+    <tag k="operator" v="PAT"/>
+    <tag k="ref" v="1154"/>
+  </node>
+  <node id="4301449473" lat="40.4595362" lon="-79.9462704">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Millvale Avenue at Mitre Way"/>
+    <tag k="network" v="54"/>
+    <tag k="operator" v="PAT"/>
+    <tag k="passenger_information_display" v="no"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="4301449474" lat="40.4561149" lon="-79.9477183">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301449475" lat="40.4544743" lon="-79.9478069">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301449476" lat="40.4457305" lon="-79.9488971">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301449477" lat="40.4441875" lon="-79.9499203">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301449478" lat="40.4423769" lon="-79.9578246">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Desoto Street"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="5128"/>
+  </node>
+  <node id="4301449479" lat="40.4394680" lon="-79.9617397">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Chesterfield Road"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="38"/>
+  </node>
+  <node id="4301449480" lat="40.4377441" lon="-79.9640729">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Craft Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="2561"/>
+  </node>
+  <node id="4301449481" lat="40.4372175" lon="-79.9628747">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4301449489" lat="40.4419029" lon="-79.9584663">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue opposite Atwood Street"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="5128"/>
+  </node>
+  <node id="4301449490" lat="40.4379746" lon="-79.9638158">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue opposite Craft Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="2639"/>
+  </node>
+  <node id="4301449491" lat="40.4375407" lon="-79.9637435">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Craft Avenue past Fifth (Dialysis Center)"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="39"/>
+  </node>
+  <node id="4301449492" lat="40.4363817" lon="-79.9622956">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4306208120" lat="40.4463015" lon="-79.9520160">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Bellefield Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3254"/>
+  </node>
+  <node id="4306208237" lat="40.4467112" lon="-79.9517335">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Bellefield Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="1171"/>
+  </node>
+  <node id="4378180394" lat="40.4625875" lon="-79.9243899">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Highland Avenue at Broad Street"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="17602"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="4378685541" lat="40.4458125" lon="-79.9530376">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Avenue at Tennyson Avenue"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="33"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="4384113713" lat="40.4660600" lon="-79.9523621">
+    <tag k="bench" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="4388717493" lat="40.4627190" lon="-79.9669831">
+    <tag k="bench" v="no"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="4436161159" lat="40.4560849" lon="-80.0159076">
+    <tag k="fixme" v="Position is approximate"/>
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4461750396" lat="40.4621391" lon="-80.0309765">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="4487904816" lat="40.4325311" lon="-79.9232196">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="bing"/>
+  </node>
+  <node id="4487904817" lat="40.4592311" lon="-79.9201280">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Shady Avenue"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4493613504" lat="40.4448186" lon="-79.9911087">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Penn Station D"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="bing"/>
+  </node>
+  <node id="4551135981" lat="40.4377066" lon="-79.9729342">
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="bing"/>
+  </node>
+  <node id="4575674114" lat="40.4515361" lon="-80.0185272">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4575674171" lat="40.4522902" lon="-80.0144668">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4591608524" lat="40.3827106" lon="-79.9964809">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="4600771786" lat="40.4759419" lon="-80.0121778">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4600771787" lat="40.4806793" lon="-80.0133204">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4600771788" lat="40.4827194" lon="-80.0134760">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4600771989" lat="40.4849512" lon="-80.0156566">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4608877854" lat="40.4318264" lon="-80.0035587">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="E Carson St at Station Square"/>
+    <tag k="note" v="40 Mt Washington, 43 Bailey"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="bing"/>
+  </node>
+  <node id="4615706921" lat="40.4317488" lon="-80.0037195">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="South Busway at Station Square"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="4617383472" lat="40.4118706" lon="-80.0085373">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Pioneer"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="http://www.portauthority.org/rt/Y46.pdf"/>
+    <tag k="source:shelter" v="bing"/>
+  </node>
+  <node id="4617393683" lat="40.4118620" lon="-80.0090257">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="source" v="bing;http://www.portauthority.org/rt/40.pdf"/>
+  </node>
+  <node id="4913631178" lat="40.4510477" lon="-80.0219035">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4924927845" lat="40.4873258" lon="-80.0448498">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4924927846" lat="40.4873747" lon="-80.0449222">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4928862394" lat="40.4516641" lon="-80.0185052">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="4960676554" lat="40.4338108" lon="-79.9230319">
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="4961818979" lat="40.4444864" lon="-79.9460721">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="5105282270" lat="40.4197112" lon="-80.0114463">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Boggs Avenue at Soffel St"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5105282286" lat="40.4211661" lon="-80.0062642">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="South Hills Junction"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5105402842" lat="40.4297612" lon="-80.0080928">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Virginia Ave at Shop n Save"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5105402844" lat="40.4155352" lon="-80.0113571">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Warrington Ave at Boggs Ave"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5166276672" lat="40.4533224" lon="-80.0015006">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="East Ohio St at Cedar Ave"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5166276675" lat="40.4433457" lon="-79.9963789">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave opp Smithfield St"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County;Beaver County Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v=";1341"/>
+  </node>
+  <node id="5166276677" lat="40.4428936" lon="-80.0001169">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="7th St past Penn Ave"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="12626"/>
+  </node>
+  <node id="5166276679" lat="40.4444465" lon="-80.0007212">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="7th St at Ft Duquesne Blvd"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5166276683" lat="40.4425114" lon="-79.9995594">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at 7th Street"/>
+    <tag k="operator" v="Port Authority of Allegheny County;Beaver County Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v=";1335"/>
+  </node>
+  <node id="5166276686" lat="40.4412855" lon="-80.0049852">
+    <tag k="alt_name" v="Liberty Ave at Gateway #4"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at Stanwix St"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5171316618" lat="40.4439189" lon="-79.9985449">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="9th St at Penn Ave"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5171318177" lat="40.4645691" lon="-79.9797979">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="31st Street Bridge Ramp at 31st St Bridge"/>
+    <tag k="network" v="PAT"/>
+    <tag k="note" v="Served by routes 1 &amp; 2"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5171318185" lat="40.4651462" lon="-79.9796434">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="31st Street Bridge Ramp at Rialto St"/>
+    <tag k="network" v="PAT"/>
+    <tag k="note" v="Served by routes 1 &amp; 2"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5171799972" lat="40.4870457" lon="-79.8864276">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Freeport Rd at Waterworks Mall Entrance"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="9329"/>
+  </node>
+  <node id="5171799983" lat="40.4880868" lon="-79.8897325">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Waterworks Mall opp Walmart"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="18827"/>
+  </node>
+  <node id="5171799989" lat="40.4887679" lon="-79.8918945">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Waterworks Mall at Marshalls"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="3202; 9357"/>
+  </node>
+  <node id="5171799999" lat="40.4872156" lon="-79.8956077">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Freeport Rd opp St Margaret Dr"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5171800005" lat="40.4884134" lon="-79.8995579">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Freeport Rd at Virginia Ave"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="3205"/>
+  </node>
+  <node id="5171800010" lat="40.4887606" lon="-79.9008341">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Freeport Rd at Brilliant Ave"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="3307; 3206"/>
+  </node>
+  <node id="5173461623" lat="40.4742857" lon="-79.9083463">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Washington Blvd opp Highland Dr"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="14568"/>
+  </node>
+  <node id="5173461625" lat="40.4740177" lon="-79.9081747">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Washington Blvd at Highland Dr"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5173461626" lat="40.4588242" lon="-79.9079249">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Washington Blvd at Frankstown Ave"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="14572"/>
+  </node>
+  <node id="5173461627" lat="40.4585758" lon="-79.9081082">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fifth Ave at Frankstown Ave"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="18377"/>
+  </node>
+  <node id="5173461631" lat="40.4601384" lon="-79.9215581">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Penn Ave at East Busway"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5173461708" lat="40.4427069" lon="-79.9988363">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at Tito Way"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="15266"/>
+  </node>
+  <node id="5173461936" lat="40.4434963" lon="-79.9927358">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Penn Station A"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="20287"/>
+  </node>
+  <node id="5173461942" lat="40.4441926" lon="-79.9918017">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Penn Station C"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="1407"/>
+  </node>
+  <node id="5173461991" lat="40.4418291" lon="-80.0025266">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at 5th Ave"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="5175252823" lat="40.4427850" lon="-79.9944243">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant St at Post Office"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5175252830" lat="40.4413724" lon="-79.9953678">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant St at US Steel Building A"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5175252832" lat="40.4416745" lon="-79.9951606">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant St at US Steel Building B"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5175252833" lat="40.4418029" lon="-79.9975700">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Smithfield St at 6th Ave"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5175252864" lat="40.4442909" lon="-79.9932676">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave at 11th St (Greyhound)"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5175252867" lat="40.4446073" lon="-79.9926674">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Ave past 11th St (Amtrak)"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5176255536" lat="40.4433064" lon="-79.9943231">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant St at Liberty Ave (Federal Building)"/>
+    <tag k="operator" v="Port Authority of Allegheny County;Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v=";3424"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5201362025" lat="40.4515626" lon="-80.0009875">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="route_ref" v="8"/>
+    <tag k="route_ref_1" v="11"/>
+    <tag k="route_ref_2" v="15"/>
+    <tag k="route_ref_3" v="17"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5269142773" lat="40.4515677" lon="-80.0012224">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5269158753" lat="40.4528835" lon="-80.0014322">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Alleghney County"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5269174405" lat="40.4531820" lon="-80.0019040">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="network" v="PAT"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5335943968" lat="40.4542500" lon="-80.0126342">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5335943969" lat="40.4546446" lon="-80.0105527">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5335943970" lat="40.4549732" lon="-80.0088192">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5336811722" lat="40.4553076" lon="-80.0068938">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5337484841" lat="40.4543914" lon="-80.0064148">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5337484842" lat="40.4546551" lon="-80.0062279">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5394752826" lat="40.4421766" lon="-80.0012370">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="LIBERTY AVE AT 6TH ST NS"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="P70027"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5394752827" lat="40.4477666" lon="-79.9368862">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="FIFTH AVE AT WILKINS AVE FS"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="5394752828" lat="40.4488380" lon="-79.9325788">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="FIFTH AVE OPP BELLEFONTE ST"/>
+    <tag k="operator" v="Port Authority of Allegheny County"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="5394752829" lat="40.4497375" lon="-79.9297195">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="FIFTH AVE AT NEGLEY AVE"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5394752830" lat="40.4504432" lon="-79.9274638">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="FIFTH AVE OPP MARYLAND AVE"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="5417585589" lat="40.4463128" lon="-80.0174327">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5451079501" lat="40.4478576" lon="-80.0199351">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5455256649" lat="40.4438729" lon="-80.0029163">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="6th st /ft duquesne blvd"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5471059095" lat="40.4425764" lon="-80.0030228">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="4353"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5471059100" lat="40.4426106" lon="-80.0041760">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="19514"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5472017957" lat="40.4427047" lon="-80.0044421">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="1502"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5472091332" lat="40.4414827" lon="-80.0056629">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="4126"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5562804256" lat="40.4381114" lon="-79.9275560">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5562804257" lat="40.4379194" lon="-79.9306070">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="no"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5562804258" lat="40.4379733" lon="-79.9279506">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="no"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5562804259" lat="40.4377952" lon="-79.9308281">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="no"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="5562804260" lat="40.4426128" lon="-79.9374600">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="no"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="6012656937" lat="40.4398907" lon="-80.0171563">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6040093561" lat="40.4605982" lon="-79.9468832">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Mathilda Street"/>
+    <tag k="network" v="54;86"/>
+  </node>
+  <node id="6044649227" lat="40.4594317" lon="-79.9450752">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Gross Street"/>
+    <tag k="network" v="64;86"/>
+    <tag k="operator" v="PAT"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="9127"/>
+  </node>
+  <node id="6044699159" lat="40.4611756" lon="-79.9479478">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Liberty Avenue at Edmond Street"/>
+    <tag k="network" v="54;86"/>
+    <tag k="operator" v="PAT"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="1192"/>
+  </node>
+  <node id="6057855172" lat="40.4644462" lon="-79.9521590">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Howley Street at Gangwish Street"/>
+    <tag k="network" v="87"/>
+    <tag k="operator" v="PAT"/>
+  </node>
+  <node id="6066956211" lat="40.4589591" lon="-79.9727367">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6076540201" lat="40.4490940" lon="-79.9853801">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6113377569" lat="40.4600890" lon="-79.9693331">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6113377570" lat="40.4590148" lon="-79.9708896">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6113377571" lat="40.4581480" lon="-79.9721572">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6113377572" lat="40.4573959" lon="-79.9732405">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6113676589" lat="40.4551811" lon="-79.9764620">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6113729363" lat="40.4532491" lon="-79.9792458">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6113817706" lat="40.4513163" lon="-79.9820379">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6219360990" lat="40.4467048" lon="-79.9892905">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="6254736665" lat="40.4395904" lon="-80.0047451">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Blvd of the Allies at Stanwix Street"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3452"/>
+  </node>
+  <node id="6254736666" lat="40.4374686" lon="-79.9990937">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Blvd of the Allies at Cherry Way"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3444"/>
+  </node>
+  <node id="6254736667" lat="40.4381892" lon="-79.9977687">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant St at 4th Ave"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3440"/>
+  </node>
+  <node id="6254736668" lat="40.4395348" lon="-79.9968433">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant St at 5th Ave"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3436"/>
+  </node>
+  <node id="6254736669" lat="40.4402591" lon="-79.9963613">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant Street at Oliver Ave"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3432"/>
+  </node>
+  <node id="6254736670" lat="40.4415892" lon="-79.9954825">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grant St at Strawberry Way"/>
+    <tag k="operator" v="Beaver County Transit Authority"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="3428"/>
+  </node>
+  <node id="6276854289" lat="40.4218494" lon="-79.9298456">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Greenfield Bus Stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <way id="533017959">
+    <bounds minlat="40.4876227" minlon="-79.8940541" maxlat="40.4877102" maxlon="-79.8939857"/>
+    <nd ref="2625597022" lat="40.4876312" lon="-79.8940541"/>
+    <nd ref="5171799997" lat="40.4876227" lon="-79.8940230"/>
+    <nd ref="5171799996" lat="40.4877017" lon="-79.8939857"/>
+    <nd ref="5171799995" lat="40.4877102" lon="-79.8940168"/>
+    <nd ref="2625597022" lat="40.4876312" lon="-79.8940541"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Waterworks Mall at Giant Eagle"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </way>
+  <way id="533221618">
+    <bounds minlat="40.4564527" minlon="-79.9327530" maxlat="40.4567131" maxlon="-79.9323155"/>
+    <nd ref="5173461679" lat="40.4564759" lon="-79.9327530"/>
+    <nd ref="5173461678" lat="40.4564527" lon="-79.9327301"/>
+    <nd ref="5173461677" lat="40.4565609" lon="-79.9325410"/>
+    <nd ref="5173461676" lat="40.4566899" lon="-79.9323155"/>
+    <nd ref="5173461675" lat="40.4567131" lon="-79.9323384"/>
+    <nd ref="3892923071" lat="40.4565851" lon="-79.9325621"/>
+    <nd ref="5173461679" lat="40.4564759" lon="-79.9327530"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Negley Station A &amp; B"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </way>
+  <way id="533221619">
+    <bounds minlat="40.4565190" minlon="-79.9329890" maxlat="40.4567522" maxlon="-79.9326000"/>
+    <nd ref="5173461683" lat="40.4565420" lon="-79.9329890"/>
+    <nd ref="5173461682" lat="40.4565190" lon="-79.9329675"/>
+    <nd ref="3892923069" lat="40.4566928" lon="-79.9326641"/>
+    <nd ref="5173461681" lat="40.4567307" lon="-79.9326000"/>
+    <nd ref="5173461680" lat="40.4567522" lon="-79.9326235"/>
+    <nd ref="5173461683" lat="40.4565420" lon="-79.9329890"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Negley Station C &amp; D"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </way>
+
+</osm>

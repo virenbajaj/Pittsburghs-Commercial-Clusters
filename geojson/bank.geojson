@@ -1,0 +1,2147 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/34264357",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4600",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "5th Ave",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "PNC Bank",
+    "operator": "PNC Bank",
+    "id": "way/34264357"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9488099,
+          40.4468322
+        ],
+        [
+          -79.948767,
+          40.4464338
+        ],
+        [
+          -79.9484923,
+          40.4464534
+        ],
+        [
+          -79.9485438,
+          40.4468518
+        ],
+        [
+          -79.9488099,
+          40.4468322
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/34315573",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "5838",
+    "addr:postcode": "15206",
+    "addr:state": "PA",
+    "addr:street": "Baum Boulevard",
+    "amenity": "bank",
+    "building": "yes",
+    "name": "National City Bank",
+    "operator": "National City",
+    "id": "way/34315573"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9296971,
+          40.4592646
+        ],
+        [
+          -79.9296661,
+          40.4592029
+        ],
+        [
+          -79.9295978,
+          40.4592228
+        ],
+        [
+          -79.9294555,
+          40.4592641
+        ],
+        [
+          -79.9294865,
+          40.4593258
+        ],
+        [
+          -79.9296294,
+          40.4592843
+        ],
+        [
+          -79.9296971,
+          40.4592646
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/109670443",
+  "properties": {
+    "addr:housenumber": "6112",
+    "addr:postcode": "15206",
+    "addr:street": "Penn Avenue",
+    "amenity": "bank",
+    "building": "yes",
+    "name": "Citizens Bank",
+    "website": "https://www.citizensbank.com/",
+    "id": "way/109670443"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9237,
+          40.4604631
+        ],
+        [
+          -79.923665,
+          40.4604506
+        ],
+        [
+          -79.9236455,
+          40.4604821
+        ],
+        [
+          -79.9236097,
+          40.4604692
+        ],
+        [
+          -79.9235909,
+          40.4604995
+        ],
+        [
+          -79.923557,
+          40.4604874
+        ],
+        [
+          -79.9235436,
+          40.4605089
+        ],
+        [
+          -79.9235081,
+          40.4604962
+        ],
+        [
+          -79.9234934,
+          40.4605199
+        ],
+        [
+          -79.9234611,
+          40.4605083
+        ],
+        [
+          -79.9234423,
+          40.4605387
+        ],
+        [
+          -79.9234116,
+          40.4605277
+        ],
+        [
+          -79.9233926,
+          40.4605584
+        ],
+        [
+          -79.9233559,
+          40.4605452
+        ],
+        [
+          -79.9232308,
+          40.4607471
+        ],
+        [
+          -79.9234706,
+          40.4608331
+        ],
+        [
+          -79.9237,
+          40.4604631
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/126256648",
+  "properties": {
+    "addr:housenumber": "5934",
+    "addr:postcode": "15206",
+    "addr:street": "Baum Boulevard",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "PNC Bank - Eastside Drive-up",
+    "id": "way/126256648"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9266966,
+          40.4603524
+        ],
+        [
+          -79.9266363,
+          40.4602358
+        ],
+        [
+          -79.926429,
+          40.4602979
+        ],
+        [
+          -79.9264893,
+          40.4604145
+        ],
+        [
+          -79.9266966,
+          40.4603524
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/158623535",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "5000",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Centre Ave",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "drive_through": "yes",
+    "name": "Fidelity Bank (Shadyside branch)",
+    "operator": "Fidelity Bank",
+    "website": "http://fidelitybank-pa.com/AboutFidelity/OurLocations/Shadyside.aspx",
+    "id": "way/158623535"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9439577,
+          40.4542087
+        ],
+        [
+          -79.9442771,
+          40.454116
+        ],
+        [
+          -79.9442076,
+          40.4539773
+        ],
+        [
+          -79.944127,
+          40.4540007
+        ],
+        [
+          -79.9441466,
+          40.4540397
+        ],
+        [
+          -79.9438529,
+          40.454125
+        ],
+        [
+          -79.9438824,
+          40.454184
+        ],
+        [
+          -79.9439373,
+          40.454168
+        ],
+        [
+          -79.9439577,
+          40.4542087
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202809233",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "340",
+    "addr:postcode": "15222",
+    "addr:state": "PA",
+    "addr:street": "Fourth Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "Dollar Bank",
+    "website": "www.dollarbank.com",
+    "wikipedia": "en:Dollar Bank#Fourth Avenue.2C Pittsburgh",
+    "id": "way/202809233"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0002264,
+          40.4386975
+        ],
+        [
+          -79.9999908,
+          40.4386076
+        ],
+        [
+          -79.9999636,
+          40.4386489
+        ],
+        [
+          -79.9999033,
+          40.4386259
+        ],
+        [
+          -79.9998444,
+          40.4387153
+        ],
+        [
+          -79.9999131,
+          40.4387415
+        ],
+        [
+          -79.9999016,
+          40.4387589
+        ],
+        [
+          -79.9999064,
+          40.4387763
+        ],
+        [
+          -79.9999026,
+          40.4387821
+        ],
+        [
+          -80.0000434,
+          40.4388358
+        ],
+        [
+          -80.00007,
+          40.4388253
+        ],
+        [
+          -80.0000826,
+          40.4388062
+        ],
+        [
+          -80.0001403,
+          40.4388282
+        ],
+        [
+          -80.0002264,
+          40.4386975
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/203238844",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housename": "Bank Tower",
+    "addr:housenumber": "307",
+    "addr:postcode": "15222",
+    "addr:state": "PA",
+    "addr:street": "Fourth Avenue",
+    "amenity": "bank",
+    "building": "yes",
+    "name": "First National Bank",
+    "website": "https://www.fnb-online.com",
+    "id": "way/203238844"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0009782,
+          40.4397
+        ],
+        [
+          -80.0011837,
+          40.4393882
+        ],
+        [
+          -80.0009112,
+          40.4392842
+        ],
+        [
+          -80.0007057,
+          40.439596
+        ],
+        [
+          -80.0009782,
+          40.4397
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/203702615",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "1114",
+    "addr:postcode": "15203",
+    "addr:state": "PA",
+    "addr:street": "East Carson Street",
+    "amenity": "bank",
+    "building": "yes",
+    "name": "First National Bank",
+    "opening_hours": "Mo-Th 8:30-16:00; Fr 8:30–17:00",
+    "phone": "412-432-5705",
+    "website": "https://www.fnb-online.com/",
+    "id": "way/203702615"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9867371,
+          40.4286712
+        ],
+        [
+          -79.9869525,
+          40.4286666
+        ],
+        [
+          -79.9869443,
+          40.4284466
+        ],
+        [
+          -79.986729,
+          40.4284512
+        ],
+        [
+          -79.9867295,
+          40.4284653
+        ],
+        [
+          -79.9867321,
+          40.428537
+        ],
+        [
+          -79.9867371,
+          40.4286712
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/203750699",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "1712",
+    "addr:postcode": "15203",
+    "addr:state": "PA",
+    "addr:street": "East Carson Street",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "Dollar Bank",
+    "website": "www.dollarbank.com",
+    "id": "way/203750699"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9815485,
+          40.4285041
+        ],
+        [
+          -79.9814702,
+          40.4284998
+        ],
+        [
+          -79.9814625,
+          40.4285829
+        ],
+        [
+          -79.9814514,
+          40.4287011
+        ],
+        [
+          -79.9815297,
+          40.4287053
+        ],
+        [
+          -79.9816153,
+          40.42871
+        ],
+        [
+          -79.9816357,
+          40.4284908
+        ],
+        [
+          -79.9815502,
+          40.4284862
+        ],
+        [
+          -79.9815485,
+          40.4285041
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/203750708",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "1736",
+    "addr:postcode": "15203",
+    "addr:state": "PA",
+    "addr:street": "East Carson Street",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "PNC Bank",
+    "id": "way/203750708"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9807788,
+          40.4286648
+        ],
+        [
+          -79.9807948,
+          40.4284928
+        ],
+        [
+          -79.9808571,
+          40.4284962
+        ],
+        [
+          -79.9808588,
+          40.4284774
+        ],
+        [
+          -79.9808712,
+          40.4284781
+        ],
+        [
+          -79.9808775,
+          40.4284102
+        ],
+        [
+          -79.9806919,
+          40.4284002
+        ],
+        [
+          -79.9806678,
+          40.4286588
+        ],
+        [
+          -79.9807788,
+          40.4286648
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/203799438",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housename": "United American Savings Bank",
+    "addr:housenumber": "1812",
+    "addr:postcode": "15203",
+    "addr:street": "East Carson Street",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "United American Savings Bank",
+    "id": "way/203799438"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9800222,
+          40.4286156
+        ],
+        [
+          -79.9800412,
+          40.4284202
+        ],
+        [
+          -79.9799574,
+          40.4284155
+        ],
+        [
+          -79.9799384,
+          40.4286108
+        ],
+        [
+          -79.9800222,
+          40.4286156
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220270174",
+  "properties": {
+    "amenity": "bank",
+    "building": "commercial",
+    "name": "PNC Bank",
+    "id": "way/220270174"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9319195,
+          40.4520358
+        ],
+        [
+          -79.9321973,
+          40.4519526
+        ],
+        [
+          -79.9321494,
+          40.4518601
+        ],
+        [
+          -79.9320721,
+          40.4518833
+        ],
+        [
+          -79.9320452,
+          40.4518315
+        ],
+        [
+          -79.9318448,
+          40.4518916
+        ],
+        [
+          -79.9319195,
+          40.4520358
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314885371",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "1801",
+    "addr:postcode": "15217",
+    "addr:street": "Murray Ave.",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "commercial",
+    "building:levels": "2",
+    "drive_through": "yes",
+    "name": "Citizens Bank",
+    "phone": "412.521.5542",
+    "source:area": "bing",
+    "source:building:levels": "local knowledge",
+    "id": "way/314885371"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9226879,
+          40.4368629
+        ],
+        [
+          -79.9227463,
+          40.4368481
+        ],
+        [
+          -79.9227911,
+          40.4368008
+        ],
+        [
+          -79.9228085,
+          40.4367466
+        ],
+        [
+          -79.9227946,
+          40.4366948
+        ],
+        [
+          -79.922762,
+          40.4366535
+        ],
+        [
+          -79.9227037,
+          40.4366284
+        ],
+        [
+          -79.9226379,
+          40.4366277
+        ],
+        [
+          -79.9225839,
+          40.4366603
+        ],
+        [
+          -79.9225532,
+          40.4367169
+        ],
+        [
+          -79.9225536,
+          40.4367679
+        ],
+        [
+          -79.9225803,
+          40.4368208
+        ],
+        [
+          -79.9226209,
+          40.4368532
+        ],
+        [
+          -79.9226879,
+          40.4368629
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/316332147",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "commercial",
+    "building:levels": "1",
+    "name": "First Niagara",
+    "source": "bing",
+    "id": "way/316332147"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9227302,
+          40.4346172
+        ],
+        [
+          -79.9227501,
+          40.4344728
+        ],
+        [
+          -79.9226178,
+          40.4344635
+        ],
+        [
+          -79.9226193,
+          40.4344703
+        ],
+        [
+          -79.9226403,
+          40.4345534
+        ],
+        [
+          -79.9226544,
+          40.4346105
+        ],
+        [
+          -79.9227302,
+          40.4346172
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/360096982",
+  "properties": {
+    "amenity": "bank",
+    "atm": "no",
+    "building": "yes",
+    "name": "First National Bank",
+    "id": "way/360096982"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0183213,
+          40.4898633
+        ],
+        [
+          -80.0183085,
+          40.4897994
+        ],
+        [
+          -80.0179578,
+          40.48984
+        ],
+        [
+          -80.0179706,
+          40.4899039
+        ],
+        [
+          -80.0180786,
+          40.4898914
+        ],
+        [
+          -80.0180912,
+          40.4899528
+        ],
+        [
+          -80.0183361,
+          40.4899254
+        ],
+        [
+          -80.0183213,
+          40.4898633
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/373477656",
+  "properties": {
+    "amenity": "bank",
+    "building": "commercial",
+    "name": "WesBanco",
+    "id": "way/373477656"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0316475,
+          40.4767589
+        ],
+        [
+          -80.0316297,
+          40.476555
+        ],
+        [
+          -80.0313693,
+          40.4765498
+        ],
+        [
+          -80.0313688,
+          40.4765633
+        ],
+        [
+          -80.0313559,
+          40.476563
+        ],
+        [
+          -80.0313521,
+          40.4766707
+        ],
+        [
+          -80.0314373,
+          40.4766725
+        ],
+        [
+          -80.0314364,
+          40.476697
+        ],
+        [
+          -80.0315554,
+          40.4766994
+        ],
+        [
+          -80.0315537,
+          40.4767467
+        ],
+        [
+          -80.0316044,
+          40.4767477
+        ],
+        [
+          -80.031604,
+          40.476758
+        ],
+        [
+          -80.0316475,
+          40.4767589
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458501",
+  "properties": {
+    "addr:housenumber": "4112",
+    "addr:street": "Butler Street",
+    "amenity": "bank",
+    "building": "commercial",
+    "building:levels": "1",
+    "name": "Citizens Bank",
+    "id": "way/380458501"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9607759,
+          40.4698044
+        ],
+        [
+          -79.9605384,
+          40.4697155
+        ],
+        [
+          -79.9604496,
+          40.4698528
+        ],
+        [
+          -79.960687,
+          40.4699417
+        ],
+        [
+          -79.9607315,
+          40.4698729
+        ],
+        [
+          -79.9607468,
+          40.4698494
+        ],
+        [
+          -79.9607759,
+          40.4698044
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/440116455",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "217",
+    "addr:postcode": "15206",
+    "addr:state": "PA",
+    "addr:street": "North Highland Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "fax": "+1-412-363-4740",
+    "name": "First Niagara",
+    "opening_hours": "Mo-Fr 09:00-16:00",
+    "phone": "+1-412-665-4040",
+    "website": "http://www.firstniagara.com/",
+    "id": "way/440116455"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9241912,
+          40.463068
+        ],
+        [
+          -79.9242874,
+          40.4631016
+        ],
+        [
+          -79.9242932,
+          40.4630919
+        ],
+        [
+          -79.924515,
+          40.4631694
+        ],
+        [
+          -79.9245908,
+          40.4630438
+        ],
+        [
+          -79.9242717,
+          40.4629323
+        ],
+        [
+          -79.9242531,
+          40.4629258
+        ],
+        [
+          -79.9241912,
+          40.463068
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/444684463",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "PNC Bank",
+    "id": "way/444684463"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9286466,
+          40.4217556
+        ],
+        [
+          -79.9285117,
+          40.4217777
+        ],
+        [
+          -79.9285473,
+          40.4219042
+        ],
+        [
+          -79.9286822,
+          40.421882
+        ],
+        [
+          -79.9286466,
+          40.4217556
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/505955742",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "commercial",
+    "name": "PNC Bank",
+    "id": "way/505955742"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9225207,
+          40.4379546
+        ],
+        [
+          -79.9225213,
+          40.4376948
+        ],
+        [
+          -79.9224927,
+          40.4376948
+        ],
+        [
+          -79.9224929,
+          40.4376089
+        ],
+        [
+          -79.9223369,
+          40.4376087
+        ],
+        [
+          -79.9223363,
+          40.4378673
+        ],
+        [
+          -79.9223048,
+          40.4378673
+        ],
+        [
+          -79.9223046,
+          40.4379544
+        ],
+        [
+          -79.9225207,
+          40.4379546
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/505955746",
+  "properties": {
+    "amenity": "bank",
+    "building": "commercial",
+    "name": "Huntington Bank",
+    "id": "way/505955746"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9219986,
+          40.4381773
+        ],
+        [
+          -79.9219964,
+          40.4383554
+        ],
+        [
+          -79.9219954,
+          40.4384319
+        ],
+        [
+          -79.9220956,
+          40.4384326
+        ],
+        [
+          -79.9220988,
+          40.4381781
+        ],
+        [
+          -79.9219986,
+          40.4381773
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/505955758",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "commercial",
+    "name": "First Commonwealth",
+    "id": "way/505955758"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9210469,
+          40.4383364
+        ],
+        [
+          -79.9210532,
+          40.4383364
+        ],
+        [
+          -79.921099,
+          40.4383363
+        ],
+        [
+          -79.9210991,
+          40.4383522
+        ],
+        [
+          -79.9212159,
+          40.438352
+        ],
+        [
+          -79.9212159,
+          40.4383349
+        ],
+        [
+          -79.9212247,
+          40.4383349
+        ],
+        [
+          -79.9212242,
+          40.4381697
+        ],
+        [
+          -79.9210469,
+          40.4381698
+        ],
+        [
+          -79.9210469,
+          40.4383364
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/513478413",
+  "properties": {
+    "amenity": "bank",
+    "building": "yes",
+    "name": "Citizens Bank",
+    "id": "way/513478413"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9996496,
+          40.4540437
+        ],
+        [
+          -79.9996013,
+          40.4538998
+        ],
+        [
+          -79.9996791,
+          40.4538845
+        ],
+        [
+          -79.999655,
+          40.4538089
+        ],
+        [
+          -79.9995745,
+          40.4538222
+        ],
+        [
+          -79.9995611,
+          40.4537855
+        ],
+        [
+          -79.9992607,
+          40.4538375
+        ],
+        [
+          -79.9993143,
+          40.4539998
+        ],
+        [
+          -79.9995074,
+          40.4539671
+        ],
+        [
+          -79.9995396,
+          40.454063
+        ],
+        [
+          -79.9996496,
+          40.4540437
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/513478414",
+  "properties": {
+    "amenity": "bank",
+    "building": "yes",
+    "name": "Huntington Bank",
+    "id": "way/513478414"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9990534,
+          40.4538949
+        ],
+        [
+          -79.999023,
+          40.4538775
+        ],
+        [
+          -79.998841,
+          40.4539136
+        ],
+        [
+          -79.9988827,
+          40.4540536
+        ],
+        [
+          -79.9990117,
+          40.454032
+        ],
+        [
+          -79.9990306,
+          40.4540955
+        ],
+        [
+          -79.9990951,
+          40.4540839
+        ],
+        [
+          -79.9990762,
+          40.4540233
+        ],
+        [
+          -79.9990989,
+          40.4540204
+        ],
+        [
+          -79.9990534,
+          40.4538949
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/528927183",
+  "properties": {
+    "amenity": "bank",
+    "building": "yes",
+    "name": "WesBanco",
+    "id": "way/528927183"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9996762,
+          40.4547667
+        ],
+        [
+          -79.999623,
+          40.4546119
+        ],
+        [
+          -79.9995185,
+          40.4546312
+        ],
+        [
+          -79.9995978,
+          40.4548746
+        ],
+        [
+          -79.9997006,
+          40.4548542
+        ],
+        [
+          -79.9996762,
+          40.4547667
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/535064128",
+  "properties": {
+    "amenity": "bank",
+    "building": "yes",
+    "name": "Iron Workers Federal Credit Union",
+    "id": "way/535064128"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9812918,
+          40.4520961
+        ],
+        [
+          -79.9812646,
+          40.452115
+        ],
+        [
+          -79.9812465,
+          40.4521276
+        ],
+        [
+          -79.9812309,
+          40.4521163
+        ],
+        [
+          -79.9812308,
+          40.4521162
+        ],
+        [
+          -79.981203,
+          40.4521348
+        ],
+        [
+          -79.9812176,
+          40.452147
+        ],
+        [
+          -79.9810607,
+          40.4522527
+        ],
+        [
+          -79.9810469,
+          40.4522417
+        ],
+        [
+          -79.9810163,
+          40.4522619
+        ],
+        [
+          -79.9810289,
+          40.4522735
+        ],
+        [
+          -79.9809982,
+          40.4522965
+        ],
+        [
+          -79.9810146,
+          40.4523105
+        ],
+        [
+          -79.9810298,
+          40.4523234
+        ],
+        [
+          -79.9810455,
+          40.4523368
+        ],
+        [
+          -79.9811411,
+          40.4524182
+        ],
+        [
+          -79.9811548,
+          40.4524088
+        ],
+        [
+          -79.9814326,
+          40.4522181
+        ],
+        [
+          -79.981338,
+          40.4521361
+        ],
+        [
+          -79.9812918,
+          40.4520961
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/535064247",
+  "properties": {
+    "amenity": "bank",
+    "building": "yes",
+    "name": "WesBanco Bank",
+    "id": "way/535064247"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9831596,
+          40.4513076
+        ],
+        [
+          -79.9831101,
+          40.4513431
+        ],
+        [
+          -79.9829824,
+          40.45143
+        ],
+        [
+          -79.9830109,
+          40.4514535
+        ],
+        [
+          -79.982998,
+          40.4514618
+        ],
+        [
+          -79.9831329,
+          40.4515769
+        ],
+        [
+          -79.9833222,
+          40.4514436
+        ],
+        [
+          -79.9832434,
+          40.4513786
+        ],
+        [
+          -79.9831596,
+          40.4513076
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/545522496",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "4900",
+    "addr:postcode": "15224",
+    "addr:state": "PA",
+    "addr:street": "Liberty Avenue",
+    "amenity": "bank",
+    "building": "commercial",
+    "drive_through": "yes",
+    "name": "First Commonwealth Bank",
+    "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-18:00; Sa 09:00-13:00; PH off",
+    "phone": "+1-412-690-2358",
+    "website": "https://fcbanking.com",
+    "id": "way/545522496"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9457449,
+          40.4595828
+        ],
+        [
+          -79.9456587,
+          40.4596746
+        ],
+        [
+          -79.945736,
+          40.4597189
+        ],
+        [
+          -79.9457197,
+          40.4597381
+        ],
+        [
+          -79.9459212,
+          40.4598416
+        ],
+        [
+          -79.9459595,
+          40.4598028
+        ],
+        [
+          -79.9459856,
+          40.4598173
+        ],
+        [
+          -79.9460231,
+          40.459777
+        ],
+        [
+          -79.9460003,
+          40.4597637
+        ],
+        [
+          -79.9460342,
+          40.4597295
+        ],
+        [
+          -79.9458232,
+          40.4596155
+        ],
+        [
+          -79.9458212,
+          40.4596261
+        ],
+        [
+          -79.9457449,
+          40.4595828
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/547060155",
+  "properties": {
+    "addr:housenumber": "4701",
+    "addr:street": "Liberty Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "Citizens Bank",
+    "opening_hours": "Mo-Th 08:30-16:30; Fr 08:30-18:00; Sa 09:00-13:00",
+    "phone": "+1-412-682-3902",
+    "website": "https://locations.citizensbank.com/pa/pittsburgh/4701-liberty-ave.html",
+    "wheelchair": "yes",
+    "id": "way/547060155"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9496601,
+          40.462118
+        ],
+        [
+          -79.9494066,
+          40.4623864
+        ],
+        [
+          -79.9495706,
+          40.4624759
+        ],
+        [
+          -79.9497782,
+          40.4621811
+        ],
+        [
+          -79.9496601,
+          40.462118
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/394969777",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "5932",
+    "addr:postcode": "15206",
+    "addr:state": "PA",
+    "addr:street": "Center Avenue",
+    "amenity": "bank",
+    "name": "PNC Bank",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-15:00",
+    "operator": "PNC",
+    "id": "node/394969777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9275605,
+      40.4590585
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/424032944",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "National City Bank",
+    "operator": "PNC Financial Services",
+    "id": "node/424032944"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9971696,
+      40.4393343
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1313234659",
+  "properties": {
+    "addr:housenumber": "2132",
+    "addr:postcode": "15210",
+    "addr:street": "Arlington Ave",
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "Parkvale Bank",
+    "source": "http://www.snl.com/irweblinkx/branchdetails.aspx?iid=101961&bankfacility=12039&Zip=15210&Street=&City=&State=",
+    "id": "node/1313234659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9761477,
+      40.4171033
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1376974043",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "Fifth Third Bank",
+    "id": "node/1376974043"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9320005,
+      40.4516097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1400114767",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "5932",
+    "addr:postcode": "15206",
+    "addr:state": "PA",
+    "addr:street": "Center Avenue",
+    "amenity": "bank",
+    "name": "PNC Bank - Eastside",
+    "id": "node/1400114767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9264173,
+      40.45935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1564218657",
+  "properties": {
+    "addr:housenumber": "2827",
+    "addr:postcode": "15204",
+    "addr:street": "Chartiers Ave.",
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "PNC Bank",
+    "id": "node/1564218657"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0549305,
+      40.4532921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1671524376",
+  "properties": {
+    "amenity": "bank",
+    "name": "Eureka Bank",
+    "id": "node/1671524376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9598145,
+      40.4397058
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1837780864",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "Citizens Bank",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-14:00",
+    "operator": "Citizens Bank",
+    "phone": "+1-412-621-3345",
+    "id": "node/1837780864"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9491703,
+      40.4467044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1873504031",
+  "properties": {
+    "amenity": "bank",
+    "fax": "+1-412-325-2281",
+    "name": "Northwest Savings Bank (Oakland branch)",
+    "opening_hours": "Mo-Th 09:00-16:30; Fr 09:00-18:00; Sa 09:00-13:00",
+    "operator": "Northwest Savings Bank",
+    "phone": "+1-412-682-0700",
+    "website": "http://www.snl.com/IRWeblinkX/branchdetails.aspx?iid=1137118&bankfacility=5715",
+    "id": "node/1873504031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9509851,
+      40.4499337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2127251895",
+  "properties": {
+    "addr:housenumber": "420",
+    "addr:street": "Smithfield Street",
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "National City Bank",
+    "operator": "PNC",
+    "website": "https://www.pnc.co",
+    "id": "node/2127251895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9989299,
+      40.439997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133394186",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "Allegheny Valley Bank of Pittsburgh",
+    "opening_hours": "Mo-Fr 8:30-17:00",
+    "phone": "(412) 338-9036",
+    "website": "https://www.avbpgh.com/",
+    "id": "node/2133394186"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9981732,
+      40.4388895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2134617774",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "Citizens Bank.",
+    "website": "https://www.citizensbank.com/",
+    "id": "node/2134617774"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9976914,
+      40.4403352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2296934966",
+  "properties": {
+    "amenity": "bank",
+    "name": "PNC",
+    "id": "node/2296934966"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0564715,
+      40.427106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2388002397",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "3718",
+    "addr:postcode": "15213",
+    "addr:street": "Fifth Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "Citizens Bank",
+    "brand:wikidata": "Q25209674",
+    "brand:wikipedia": "en:Citizens Bank (South Bend, Indiana)",
+    "name": "Citizens Bank",
+    "phone": "412-683-1111",
+    "id": "node/2388002397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9578177,
+      40.4420507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2388002644",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "3714",
+    "addr:postcode": "15213",
+    "addr:street": "Fifth Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "Dollar Bank",
+    "phone": "412-621-3178",
+    "id": "node/2388002644"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9578877,
+      40.4419825
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2710170969",
+  "properties": {
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "First National Bank",
+    "id": "node/2710170969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9584206,
+      40.4403932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4041696838",
+  "properties": {
+    "amenity": "bank",
+    "name": "PNC Bank",
+    "id": "node/4041696838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0439739,
+      40.3992648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4591599395",
+  "properties": {
+    "amenity": "bank",
+    "name": "KeyBank",
+    "id": "node/4591599395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0199267,
+      40.4515963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4960676595",
+  "properties": {
+    "addr:housenumber": "1940",
+    "addr:street": "Murray Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "First National Bank",
+    "id": "node/4960676595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.922993,
+      40.4349102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4960676822",
+  "properties": {
+    "addr:housenumber": "1730",
+    "addr:street": "Murray Avenue",
+    "amenity": "bank",
+    "brand": "First Niagara",
+    "name": "First Niagara",
+    "id": "node/4960676822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9230896,
+      40.4371344
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5337836678",
+  "properties": {
+    "amenity": "bank",
+    "name": "PNC Bank",
+    "id": "node/5337836678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0041565,
+      40.4471681
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5553611265",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "4761",
+    "addr:postcode": "15224",
+    "addr:state": "PA",
+    "addr:street": "Liberty Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "name": "PNC Bank",
+    "opening_hours": "Mo-Fr 09:00-16:00; PH off",
+    "id": "node/5553611265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9478765,
+      40.4612213
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5553630801",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "820",
+    "addr:postcode": "15210",
+    "addr:state": "PA",
+    "addr:street": "East Warrington Avenue",
+    "amenity": "bank",
+    "name": "Dollar Bank",
+    "id": "node/5553630801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9928183,
+      40.4216693
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6050058363",
+  "properties": {
+    "addr:housenumber": "4724",
+    "addr:street": "Liberty Avenue",
+    "amenity": "bank",
+    "atm": "yes",
+    "branch": "Bloomfield",
+    "name": "First National Bank",
+    "opening_hours": "Mo-Th 09:00-16:00; Fr 09:00-17:30",
+    "opening_hours:atm": "24/7",
+    "phone": "+1-412-688-7210",
+    "website": "https://locations.fnb-online.com/pa/bloomfield",
+    "wheelchair": "yes",
+    "id": "node/6050058363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9491318,
+      40.4615342
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6073983274",
+  "properties": {
+    "amenity": "bank",
+    "name": "PNC Bank",
+    "id": "node/6073983274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9834452,
+      40.4516049
+    ]
+  }
+}
+]
+}

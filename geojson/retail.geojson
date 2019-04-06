@@ -1,0 +1,6905 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/6830026",
+  "properties": {
+    "building": "retail",
+    "type": "multipolygon",
+    "id": "relation/6830026"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9990786,
+          40.3811932
+        ],
+        [
+          -79.9987844,
+          40.3813346
+        ],
+        [
+          -79.9987962,
+          40.3813488
+        ],
+        [
+          -79.9984767,
+          40.3815023
+        ],
+        [
+          -79.9986371,
+          40.381696
+        ],
+        [
+          -79.9992508,
+          40.3814012
+        ],
+        [
+          -79.9990786,
+          40.3811932
+        ]
+      ],
+      [
+        [
+          -79.9989016,
+          40.3814767
+        ],
+        [
+          -79.9987194,
+          40.3815643
+        ],
+        [
+          -79.9986736,
+          40.3815089
+        ],
+        [
+          -79.9988558,
+          40.3814214
+        ],
+        [
+          -79.9989016,
+          40.3814767
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/34317059",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "5739",
+    "addr:postcode": "15206",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "building": "retail",
+    "name": "Masterwork Paint & Decorating Centers",
+    "phone": "+1-412-361-8770",
+    "shop": "paint",
+    "website": "http://www.masterworkpaint.com/",
+    "id": "way/34317059"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9326573,
+          40.4581644
+        ],
+        [
+          -79.9325114,
+          40.4578794
+        ],
+        [
+          -79.9323071,
+          40.45794
+        ],
+        [
+          -79.93243,
+          40.45818
+        ],
+        [
+          -79.932453,
+          40.4582249
+        ],
+        [
+          -79.9326573,
+          40.4581644
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/109860416",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "4656",
+    "addr:postcode": "15217",
+    "addr:street": "Browns Hill Rd",
+    "alt_name": "International House of Pancakes",
+    "amenity": "restaurant",
+    "building": "retail",
+    "cuisine": "american",
+    "name": "IHOP",
+    "website": "https://www.ihop.com/",
+    "id": "way/109860416"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9232891,
+          40.4148589
+        ],
+        [
+          -79.9232149,
+          40.4149305
+        ],
+        [
+          -79.9232604,
+          40.4149579
+        ],
+        [
+          -79.9231843,
+          40.4150314
+        ],
+        [
+          -79.9233935,
+          40.415157
+        ],
+        [
+          -79.9235688,
+          40.4149878
+        ],
+        [
+          -79.9235137,
+          40.4149547
+        ],
+        [
+          -79.9234988,
+          40.4149691
+        ],
+        [
+          -79.9233477,
+          40.4148784
+        ],
+        [
+          -79.9233377,
+          40.414888
+        ],
+        [
+          -79.9232891,
+          40.4148589
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/160607007",
+  "properties": {
+    "amenity": "pharmacy",
+    "building": "retail",
+    "name": "Rite Aid",
+    "id": "way/160607007"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9954784,
+          40.3818081
+        ],
+        [
+          -79.9954459,
+          40.3817558
+        ],
+        [
+          -79.9954194,
+          40.3817631
+        ],
+        [
+          -79.9952071,
+          40.3814595
+        ],
+        [
+          -79.9949554,
+          40.3815547
+        ],
+        [
+          -79.9952129,
+          40.3819123
+        ],
+        [
+          -79.9954784,
+          40.3818081
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/166903180",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "5200",
+    "addr:postcode": "15224",
+    "addr:state": "PA",
+    "addr:street": "Baum Boulevard",
+    "amenity": "fast_food",
+    "building": "retail",
+    "drive_through": "yes",
+    "name": "Boston Market",
+    "phone": "+1-412-683-9752",
+    "source": "Bing",
+    "id": "way/166903180"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.941662,
+          40.4556953
+        ],
+        [
+          -79.9416486,
+          40.4556688
+        ],
+        [
+          -79.9416553,
+          40.4556668
+        ],
+        [
+          -79.9416072,
+          40.4555716
+        ],
+        [
+          -79.9416285,
+          40.4555653
+        ],
+        [
+          -79.9415737,
+          40.4554568
+        ],
+        [
+          -79.9414289,
+          40.4554991
+        ],
+        [
+          -79.9414408,
+          40.4555227
+        ],
+        [
+          -79.9414307,
+          40.4555257
+        ],
+        [
+          -79.9414965,
+          40.4556559
+        ],
+        [
+          -79.9415093,
+          40.4556522
+        ],
+        [
+          -79.9415159,
+          40.4556652
+        ],
+        [
+          -79.9415339,
+          40.4556599
+        ],
+        [
+          -79.941552,
+          40.4556957
+        ],
+        [
+          -79.9415605,
+          40.4556933
+        ],
+        [
+          -79.9415745,
+          40.4557209
+        ],
+        [
+          -79.941662,
+          40.4556953
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/170328365",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4900",
+    "addr:postcode": "15213-1713",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "building": "retail",
+    "name": "John A. Freyvogel, Incorporated",
+    "phone": "+1-412-621-1665",
+    "shop": "funeral_directors",
+    "source": "Bing",
+    "website": "http://freyvogelfuneralhome.com/",
+    "id": "way/170328365"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9468152,
+          40.4531506
+        ],
+        [
+          -79.9468036,
+          40.4531254
+        ],
+        [
+          -79.9468321,
+          40.4531178
+        ],
+        [
+          -79.9468077,
+          40.453065
+        ],
+        [
+          -79.9467793,
+          40.4530725
+        ],
+        [
+          -79.9467529,
+          40.4530152
+        ],
+        [
+          -79.9466268,
+          40.4530488
+        ],
+        [
+          -79.9466171,
+          40.4530278
+        ],
+        [
+          -79.9464959,
+          40.45306
+        ],
+        [
+          -79.9465055,
+          40.453081
+        ],
+        [
+          -79.9464074,
+          40.4531072
+        ],
+        [
+          -79.9464594,
+          40.4532203
+        ],
+        [
+          -79.9464859,
+          40.4532133
+        ],
+        [
+          -79.9464961,
+          40.4532355
+        ],
+        [
+          -79.9468152,
+          40.4531506
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171464187",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "301",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "N Craig St",
+    "amenity": "pub",
+    "building": "retail",
+    "name": "Logan's Pub",
+    "source": "Bing",
+    "id": "way/171464187"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.952404,
+          40.4519629
+        ],
+        [
+          -79.9523516,
+          40.4518684
+        ],
+        [
+          -79.9521658,
+          40.451928
+        ],
+        [
+          -79.9522181,
+          40.4520225
+        ],
+        [
+          -79.952404,
+          40.4519629
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171465007",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4521",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "fried_food",
+    "name": "K & T's Fish & Chicken",
+    "opening_hours": "Mo-Su 12:15-23:30; Fr 14:00-23:30",
+    "source": "Bing",
+    "takeaway": "yes",
+    "website": "http://kntfish.com/",
+    "id": "way/171465007"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9525744,
+          40.4519861
+        ],
+        [
+          -79.952487,
+          40.4518285
+        ],
+        [
+          -79.9524245,
+          40.4518485
+        ],
+        [
+          -79.9525119,
+          40.4520062
+        ],
+        [
+          -79.9525744,
+          40.4519861
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171465008",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4523",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "building": "retail",
+    "craft": "jeweller",
+    "fax": "+1-412-687-6800",
+    "name": "Riviera Jeweler",
+    "phone": "+1-412-687-6800",
+    "shop": "jewelry",
+    "source": "Bing",
+    "website": "http://www.rivierajeweler.com/",
+    "id": "way/171465008"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9525119,
+          40.4520062
+        ],
+        [
+          -79.9524245,
+          40.4518485
+        ],
+        [
+          -79.9523621,
+          40.4518686
+        ],
+        [
+          -79.9524494,
+          40.4520262
+        ],
+        [
+          -79.9525119,
+          40.4520062
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171841458",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4601",
+    "addr:postcode": "15213-1503",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "building": "retail",
+    "name": "Sultan Bey",
+    "shop": "convenience",
+    "source": "Bing",
+    "id": "way/171841458"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.952093,
+          40.4521929
+        ],
+        [
+          -79.9519775,
+          40.4520036
+        ],
+        [
+          -79.951938,
+          40.4519917
+        ],
+        [
+          -79.9518088,
+          40.4520305
+        ],
+        [
+          -79.9518673,
+          40.4521308
+        ],
+        [
+          -79.9518769,
+          40.4521279
+        ],
+        [
+          -79.9519414,
+          40.4522384
+        ],
+        [
+          -79.952093,
+          40.4521929
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171841816",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "931",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "S Millvale Ave",
+    "building": "retail",
+    "name": "Pep Boys",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 09:00-18:00",
+    "operator": "Pep Boys",
+    "phone": "+1-412-578-0478",
+    "service": "tyres;parts;repair",
+    "shop": "car",
+    "source": "Bing",
+    "id": "way/171841816"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9484662,
+          40.453676
+        ],
+        [
+          -79.948415,
+          40.453476
+        ],
+        [
+          -79.9483332,
+          40.4531854
+        ],
+        [
+          -79.9480125,
+          40.4532357
+        ],
+        [
+          -79.94801,
+          40.4532265
+        ],
+        [
+          -79.9479266,
+          40.4532396
+        ],
+        [
+          -79.9479605,
+          40.4533644
+        ],
+        [
+          -79.9480023,
+          40.4535186
+        ],
+        [
+          -79.9478367,
+          40.4535446
+        ],
+        [
+          -79.9478965,
+          40.4537654
+        ],
+        [
+          -79.9484662,
+          40.453676
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171842513",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4815",
+    "addr:postcode": "15213-1738",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "building": "retail",
+    "name": "Centre Plaza",
+    "source": "Bing",
+    "website": "https://www.walnutcapital.com/commercial_centre.php",
+    "id": "way/171842513"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.947235,
+          40.4537201
+        ],
+        [
+          -79.9472495,
+          40.4537157
+        ],
+        [
+          -79.9472528,
+          40.4537221
+        ],
+        [
+          -79.9473499,
+          40.4536927
+        ],
+        [
+          -79.9473108,
+          40.4536177
+        ],
+        [
+          -79.9473026,
+          40.4536202
+        ],
+        [
+          -79.9472373,
+          40.453495
+        ],
+        [
+          -79.9472455,
+          40.4534925
+        ],
+        [
+          -79.9472065,
+          40.4534178
+        ],
+        [
+          -79.9471078,
+          40.4534476
+        ],
+        [
+          -79.9471112,
+          40.4534541
+        ],
+        [
+          -79.9468182,
+          40.4535426
+        ],
+        [
+          -79.9468149,
+          40.4535362
+        ],
+        [
+          -79.9467174,
+          40.4535656
+        ],
+        [
+          -79.9467566,
+          40.4536408
+        ],
+        [
+          -79.9467653,
+          40.4536381
+        ],
+        [
+          -79.9468295,
+          40.4537612
+        ],
+        [
+          -79.9468208,
+          40.4537638
+        ],
+        [
+          -79.9468608,
+          40.4538405
+        ],
+        [
+          -79.9469591,
+          40.4538108
+        ],
+        [
+          -79.9469558,
+          40.4538044
+        ],
+        [
+          -79.9471132,
+          40.4537569
+        ],
+        [
+          -79.9470482,
+          40.4536323
+        ],
+        [
+          -79.94717,
+          40.4535955
+        ],
+        [
+          -79.947235,
+          40.4537201
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172222620",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "304",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "N Craig St",
+    "amenity": "bar",
+    "building": "retail",
+    "name": "Luna Bar & Grill",
+    "source": "Bing",
+    "id": "way/172222620"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9521473,
+          40.4522859
+        ],
+        [
+          -79.952093,
+          40.4521929
+        ],
+        [
+          -79.9519414,
+          40.4522384
+        ],
+        [
+          -79.9519957,
+          40.4523314
+        ],
+        [
+          -79.9521473,
+          40.4522859
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172222623",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4611",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "pizza",
+    "name": "Pizza Pronto",
+    "source": "Bing",
+    "takeaway": "yes",
+    "id": "way/172222623"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9516906,
+          40.4522218
+        ],
+        [
+          -79.9516133,
+          40.4520893
+        ],
+        [
+          -79.9515595,
+          40.4521054
+        ],
+        [
+          -79.9516368,
+          40.452238
+        ],
+        [
+          -79.9516906,
+          40.4522218
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172222625",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4609",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "chinese",
+    "name": "New China Inn",
+    "source": "Bing",
+    "takeaway": "yes",
+    "id": "way/172222625"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9517646,
+          40.4522478
+        ],
+        [
+          -79.9516633,
+          40.4520742
+        ],
+        [
+          -79.9516133,
+          40.4520893
+        ],
+        [
+          -79.9516906,
+          40.4522218
+        ],
+        [
+          -79.9517146,
+          40.4522628
+        ],
+        [
+          -79.9517646,
+          40.4522478
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172222626",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4613",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "amenity": "fast_food",
+    "brand": "Subway",
+    "building": "retail",
+    "cuisine": "sandwich",
+    "name": "Subway",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-21:00",
+    "phone": "+1-412-687-0701",
+    "source": "Bing",
+    "takeaway": "yes",
+    "id": "way/172222626"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9516671,
+          40.4522898
+        ],
+        [
+          -79.9516368,
+          40.452238
+        ],
+        [
+          -79.9515595,
+          40.4521054
+        ],
+        [
+          -79.9515049,
+          40.4521218
+        ],
+        [
+          -79.9516089,
+          40.4523
+        ],
+        [
+          -79.9516125,
+          40.4523062
+        ],
+        [
+          -79.9516671,
+          40.4522898
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172222628",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4605",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Centre Avenue",
+    "building": "retail",
+    "fax": "+1-412-687-5100",
+    "name": "Bombay Food Market",
+    "opening_hours": "11:00-21:00",
+    "phone": "+1-412-687-7100",
+    "shop": "convenience",
+    "source": "Bing",
+    "website": "http://abombay.com/",
+    "id": "way/172222628"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9518673,
+          40.4521308
+        ],
+        [
+          -79.9518088,
+          40.4520305
+        ],
+        [
+          -79.9516633,
+          40.4520742
+        ],
+        [
+          -79.9517646,
+          40.4522478
+        ],
+        [
+          -79.951794,
+          40.4522389
+        ],
+        [
+          -79.951806,
+          40.4522594
+        ],
+        [
+          -79.951882,
+          40.4522366
+        ],
+        [
+          -79.9518701,
+          40.4522161
+        ],
+        [
+          -79.9519101,
+          40.4522041
+        ],
+        [
+          -79.9518673,
+          40.4521308
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172658860",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4609",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Forbes Ave",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "chinese",
+    "drive_in": "no",
+    "drive_through": "no",
+    "name": "Orient Express",
+    "phone": "+1-412-622-7232",
+    "source": "Bing",
+    "takeaway": "yes",
+    "id": "way/172658860"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9482364,
+          40.4447978
+        ],
+        [
+          -79.948236,
+          40.4447915
+        ],
+        [
+          -79.9482248,
+          40.444558
+        ],
+        [
+          -79.9481372,
+          40.4445617
+        ],
+        [
+          -79.9481491,
+          40.4448009
+        ],
+        [
+          -79.9482364,
+          40.4447978
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172661493",
+  "properties": {
+    "building": "retail",
+    "source": "Bing",
+    "id": "way/172661493"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9484049,
+          40.4447151
+        ],
+        [
+          -79.9484088,
+          40.444778
+        ],
+        [
+          -79.9486025,
+          40.444771
+        ],
+        [
+          -79.9485748,
+          40.4445495
+        ],
+        [
+          -79.9484066,
+          40.4445518
+        ],
+        [
+          -79.9484169,
+          40.4447146
+        ],
+        [
+          -79.9484049,
+          40.4447151
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/173057615",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "207",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "S Craig St",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "crepe",
+    "drive_in": "no",
+    "drive_through": "no",
+    "name": "Crêpes Parisiennes",
+    "phone": "+1-412-683-1912",
+    "source": "Bing",
+    "id": "way/173057615"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9487705,
+          40.446096
+        ],
+        [
+          -79.9487644,
+          40.4460437
+        ],
+        [
+          -79.9485754,
+          40.4460566
+        ],
+        [
+          -79.9485123,
+          40.4460609
+        ],
+        [
+          -79.9485184,
+          40.4461131
+        ],
+        [
+          -79.9487705,
+          40.446096
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/173057992",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "201",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "S Craig St",
+    "building": "retail",
+    "source": "Bing",
+    "id": "way/173057992"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9487858,
+          40.446248
+        ],
+        [
+          -79.9484463,
+          40.4462731
+        ],
+        [
+          -79.948455,
+          40.4463419
+        ],
+        [
+          -79.9487946,
+          40.4463168
+        ],
+        [
+          -79.9487858,
+          40.446248
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/173058901",
+  "properties": {
+    "building": "retail",
+    "source": "Bing",
+    "id": "way/173058901"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9486025,
+          40.4452297
+        ],
+        [
+          -79.9485822,
+          40.4450516
+        ],
+        [
+          -79.9484159,
+          40.4450625
+        ],
+        [
+          -79.9484163,
+          40.4450662
+        ],
+        [
+          -79.948362,
+          40.4450698
+        ],
+        [
+          -79.9483708,
+          40.4451467
+        ],
+        [
+          -79.94839,
+          40.4451454
+        ],
+        [
+          -79.9483918,
+          40.4451618
+        ],
+        [
+          -79.9483726,
+          40.4451631
+        ],
+        [
+          -79.9483814,
+          40.4452406
+        ],
+        [
+          -79.9484357,
+          40.4452371
+        ],
+        [
+          -79.9484361,
+          40.4452406
+        ],
+        [
+          -79.9486025,
+          40.4452297
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/174190199",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "4800",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "Baum Boulevard",
+    "amenity": "fast_food",
+    "brand": "Chipotle Mexican Grill",
+    "building": "retail",
+    "cuisine": "mexican",
+    "fax": "+1-412-621-1998",
+    "name": "Chipotle Mexican Grill",
+    "opening_hours": "11:00-22:00",
+    "phone": "+1-412-621-1993",
+    "source": "Bing",
+    "website": "https://www.chipotle.com/",
+    "id": "way/174190199"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9475195,
+          40.4542899
+        ],
+        [
+          -79.947477,
+          40.4541489
+        ],
+        [
+          -79.9473211,
+          40.454176
+        ],
+        [
+          -79.9473635,
+          40.4543171
+        ],
+        [
+          -79.9475195,
+          40.4542899
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/176867971",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:country": "US",
+    "addr:housenumber": "257",
+    "addr:postcode": "15213",
+    "addr:state": "PA",
+    "addr:street": "N Craig St",
+    "amenity": "restaurant",
+    "building": "retail",
+    "cuisine": "indian",
+    "name": "Tamarind",
+    "opening_hours": "Tu-Fr 11:30-14:30,17:00-22:00; Sa-Su 12:00-15:00,17:00-22:30",
+    "phone": "+1-412-605-0500",
+    "source": "Bing",
+    "website": "http://www.tamarindpa.com/",
+    "id": "way/176867971"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9519559,
+          40.451089
+        ],
+        [
+          -79.9519519,
+          40.4511146
+        ],
+        [
+          -79.9518074,
+          40.4511657
+        ],
+        [
+          -79.9518491,
+          40.4512339
+        ],
+        [
+          -79.9520836,
+          40.4511509
+        ],
+        [
+          -79.9520298,
+          40.4510629
+        ],
+        [
+          -79.9519559,
+          40.451089
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/183011363",
+  "properties": {
+    "building": "retail",
+    "name": "Mineo Building",
+    "id": "way/183011363"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9350709,
+          40.4506926
+        ],
+        [
+          -79.9349636,
+          40.4504966
+        ],
+        [
+          -79.9346401,
+          40.4505993
+        ],
+        [
+          -79.9347475,
+          40.4507952
+        ],
+        [
+          -79.9350709,
+          40.4506926
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202721261",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:postcode": "15222",
+    "addr:state": "PA",
+    "building": "retail",
+    "id": "way/202721261"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0023894,
+          40.443489
+        ],
+        [
+          -80.0021354,
+          40.4435562
+        ],
+        [
+          -80.0021584,
+          40.4436065
+        ],
+        [
+          -80.0024124,
+          40.4435392
+        ],
+        [
+          -80.0023894,
+          40.443489
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202721262",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:postcode": "15222",
+    "addr:state": "PA",
+    "addr:street": "6th Street",
+    "building": "retail",
+    "id": "way/202721262"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0023658,
+          40.4434373
+        ],
+        [
+          -80.0021118,
+          40.4435046
+        ],
+        [
+          -80.0021354,
+          40.4435562
+        ],
+        [
+          -80.0023894,
+          40.443489
+        ],
+        [
+          -80.0023658,
+          40.4434373
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202721271",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "123",
+    "addr:postcode": "15222",
+    "addr:state": "PA",
+    "addr:street": "6th Street",
+    "amenity": "restaurant",
+    "building": "retail",
+    "building:levels": "1",
+    "cuisine": "pizza",
+    "name": "Giovanni's Pizza & Pasta",
+    "opening_hours": "Mo-Th 09:00-01:00; Fr 09:00-02:00; Sa 10:00-02:00; Su 10:00-01:00",
+    "website": "http://ilovegiovannis.com/",
+    "wheelchair": "limited",
+    "id": "way/202721271"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0023195,
+          40.4433359
+        ],
+        [
+          -80.0020655,
+          40.4434031
+        ],
+        [
+          -80.0021118,
+          40.4435046
+        ],
+        [
+          -80.0023658,
+          40.4434373
+        ],
+        [
+          -80.0023195,
+          40.4433359
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202721272",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "129",
+    "addr:postcode": "15222",
+    "addr:state": "PA",
+    "addr:street": "6th Street",
+    "building": "retail",
+    "building:levels": "1",
+    "id": "way/202721272"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0022942,
+          40.4432805
+        ],
+        [
+          -80.0020402,
+          40.4433477
+        ],
+        [
+          -80.0020655,
+          40.4434031
+        ],
+        [
+          -80.0023195,
+          40.4433359
+        ],
+        [
+          -80.0022942,
+          40.4432805
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204207858",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:postcode": "15203",
+    "addr:state": "PA",
+    "addr:street": "Wharton Street",
+    "building": "retail",
+    "name": "Wharton Square",
+    "shop": "mall",
+    "id": "way/204207858"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9787353,
+          40.4314059
+        ],
+        [
+          -79.9768967,
+          40.4313033
+        ],
+        [
+          -79.9769123,
+          40.4311412
+        ],
+        [
+          -79.9769898,
+          40.4311455
+        ],
+        [
+          -79.9770176,
+          40.4308566
+        ],
+        [
+          -79.9769401,
+          40.4308522
+        ],
+        [
+          -79.9769497,
+          40.4307523
+        ],
+        [
+          -79.9761606,
+          40.4307083
+        ],
+        [
+          -79.9761485,
+          40.4308348
+        ],
+        [
+          -79.976275,
+          40.4308419
+        ],
+        [
+          -79.9762276,
+          40.4313339
+        ],
+        [
+          -79.976394,
+          40.4313432
+        ],
+        [
+          -79.9763866,
+          40.4314207
+        ],
+        [
+          -79.9766738,
+          40.4316448
+        ],
+        [
+          -79.9784543,
+          40.4317441
+        ],
+        [
+          -79.9784564,
+          40.4317222
+        ],
+        [
+          -79.9787035,
+          40.431736
+        ],
+        [
+          -79.9787353,
+          40.4314059
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226576419",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "1005",
+    "addr:postcode": "15233",
+    "addr:state": "PA",
+    "addr:street": "Western Avenue",
+    "building": "retail",
+    "name": "7-Eleven",
+    "shop": "convenience",
+    "id": "way/226576419"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0192235,
+          40.4510929
+        ],
+        [
+          -80.0190466,
+          40.4511251
+        ],
+        [
+          -80.019085,
+          40.451248
+        ],
+        [
+          -80.019135,
+          40.4512773
+        ],
+        [
+          -80.0192735,
+          40.4512509
+        ],
+        [
+          -80.0192235,
+          40.4510929
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226579490",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "801",
+    "addr:postcode": "15233",
+    "addr:state": "PA",
+    "addr:street": "Allegheny Avenue",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "burger",
+    "drive_through": "yes",
+    "name": "McDonald's",
+    "website": "http://www.mcdonalds.com/",
+    "id": "way/226579490"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0192143,
+          40.4508481
+        ],
+        [
+          -80.0191926,
+          40.4507841
+        ],
+        [
+          -80.0191615,
+          40.4507903
+        ],
+        [
+          -80.0191424,
+          40.4507341
+        ],
+        [
+          -80.0190829,
+          40.4507458
+        ],
+        [
+          -80.0190782,
+          40.4507318
+        ],
+        [
+          -80.0188271,
+          40.4507813
+        ],
+        [
+          -80.0188317,
+          40.4507947
+        ],
+        [
+          -80.018813,
+          40.4507984
+        ],
+        [
+          -80.0188569,
+          40.4509276
+        ],
+        [
+          -80.0191806,
+          40.4508639
+        ],
+        [
+          -80.0191777,
+          40.4508553
+        ],
+        [
+          -80.0192143,
+          40.4508481
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226581623",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "725",
+    "addr:postcode": "15233",
+    "addr:state": "PA",
+    "addr:street": "Allegheny Avenue",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "burger",
+    "drive_through": "yes",
+    "name": "Wendy's",
+    "wheelchair": "yes",
+    "id": "way/226581623"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0187348,
+          40.4502293
+        ],
+        [
+          -80.0187662,
+          40.450325
+        ],
+        [
+          -80.0191196,
+          40.4502578
+        ],
+        [
+          -80.0191031,
+          40.4502076
+        ],
+        [
+          -80.0190253,
+          40.4502224
+        ],
+        [
+          -80.0190104,
+          40.4501769
+        ],
+        [
+          -80.0187348,
+          40.4502293
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256939376",
+  "properties": {
+    "building": "retail",
+    "id": "way/256939376"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.8920815,
+          40.4892845
+        ],
+        [
+          -79.8922913,
+          40.4893431
+        ],
+        [
+          -79.892315,
+          40.4892942
+        ],
+        [
+          -79.8924363,
+          40.4893281
+        ],
+        [
+          -79.8923812,
+          40.4894419
+        ],
+        [
+          -79.8925559,
+          40.4894909
+        ],
+        [
+          -79.8925851,
+          40.4894307
+        ],
+        [
+          -79.8926517,
+          40.4894494
+        ],
+        [
+          -79.8926807,
+          40.4893896
+        ],
+        [
+          -79.8928116,
+          40.4894264
+        ],
+        [
+          -79.8927548,
+          40.4895432
+        ],
+        [
+          -79.8928988,
+          40.4895836
+        ],
+        [
+          -79.8930033,
+          40.4893562
+        ],
+        [
+          -79.8928808,
+          40.489153
+        ],
+        [
+          -79.8922312,
+          40.4889722
+        ],
+        [
+          -79.8920815,
+          40.4892845
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302829415",
+  "properties": {
+    "addr:housenumber": "151",
+    "addr:postcode": "15206",
+    "addr:street": "Bakery Square Boulevard",
+    "amenity": "cafe",
+    "building": "retail",
+    "name": "Coffee Tree Roasters",
+    "id": "way/302829415"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.915906,
+          40.4565666
+        ],
+        [
+          -79.9157427,
+          40.4564547
+        ],
+        [
+          -79.9156635,
+          40.4565217
+        ],
+        [
+          -79.9158267,
+          40.4566335
+        ],
+        [
+          -79.915906,
+          40.4565666
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/348814191",
+  "properties": {
+    "building": "retail",
+    "id": "way/348814191"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0419419,
+          40.4816327
+        ],
+        [
+          -80.0419124,
+          40.4815399
+        ],
+        [
+          -80.0419982,
+          40.4815205
+        ],
+        [
+          -80.0419634,
+          40.4814103
+        ],
+        [
+          -80.0416871,
+          40.4814195
+        ],
+        [
+          -80.0416643,
+          40.4814491
+        ],
+        [
+          -80.0417327,
+          40.4816694
+        ],
+        [
+          -80.0419419,
+          40.4816327
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356790304",
+  "properties": {
+    "building": "retail",
+    "name": "Ray Walsh Auto Sales",
+    "phone": "+1 412 761 5325",
+    "shop": "car",
+    "id": "way/356790304"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0374645,
+          40.4867355
+        ],
+        [
+          -80.037427,
+          40.486861
+        ],
+        [
+          -80.0375211,
+          40.4868788
+        ],
+        [
+          -80.0375373,
+          40.4868706
+        ],
+        [
+          -80.0375775,
+          40.4867597
+        ],
+        [
+          -80.0374645,
+          40.4867355
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356790309",
+  "properties": {
+    "building": "retail",
+    "name": "Kelly's Beer Distributor",
+    "shop": "alcohol",
+    "id": "way/356790309"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0371792,
+          40.4863883
+        ],
+        [
+          -80.0369138,
+          40.4864547
+        ],
+        [
+          -80.0369579,
+          40.4865682
+        ],
+        [
+          -80.037298,
+          40.4864844
+        ],
+        [
+          -80.0371792,
+          40.4863883
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356790311",
+  "properties": {
+    "amenity": "bar",
+    "building": "retail",
+    "name": "Jimmy Z's",
+    "id": "way/356790311"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0373073,
+          40.486697
+        ],
+        [
+          -80.0371946,
+          40.4866409
+        ],
+        [
+          -80.037095,
+          40.4867549
+        ],
+        [
+          -80.0371022,
+          40.4867622
+        ],
+        [
+          -80.0372101,
+          40.4868133
+        ],
+        [
+          -80.0373073,
+          40.486697
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/360676285",
+  "properties": {
+    "building": "retail",
+    "shop": "convenience",
+    "id": "way/360676285"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0257109,
+          40.466946
+        ],
+        [
+          -80.0255459,
+          40.4668331
+        ],
+        [
+          -80.0254692,
+          40.4669052
+        ],
+        [
+          -80.0253983,
+          40.4669719
+        ],
+        [
+          -80.0253516,
+          40.4670158
+        ],
+        [
+          -80.0257109,
+          40.466946
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825009",
+  "properties": {
+    "addr:housenumber": "3324",
+    "addr:street": "Brighton Road",
+    "building": "retail",
+    "id": "way/366825009"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0311629,
+          40.4760793
+        ],
+        [
+          -80.0313252,
+          40.4760875
+        ],
+        [
+          -80.0313656,
+          40.4760489
+        ],
+        [
+          -80.0313613,
+          40.476026
+        ],
+        [
+          -80.0312393,
+          40.475952
+        ],
+        [
+          -80.0311384,
+          40.4760668
+        ],
+        [
+          -80.0311629,
+          40.4760793
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825011",
+  "properties": {
+    "building": "retail",
+    "id": "way/366825011"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0358499,
+          40.4846535
+        ],
+        [
+          -80.0358131,
+          40.4845706
+        ],
+        [
+          -80.0357725,
+          40.484581
+        ],
+        [
+          -80.0357796,
+          40.4845968
+        ],
+        [
+          -80.0357276,
+          40.4846101
+        ],
+        [
+          -80.0357352,
+          40.4846271
+        ],
+        [
+          -80.0356313,
+          40.4846538
+        ],
+        [
+          -80.0356264,
+          40.4846429
+        ],
+        [
+          -80.035534,
+          40.4846666
+        ],
+        [
+          -80.0355611,
+          40.4847277
+        ],
+        [
+          -80.0355892,
+          40.4847205
+        ],
+        [
+          -80.035839,
+          40.4846563
+        ],
+        [
+          -80.0358499,
+          40.4846535
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825014",
+  "properties": {
+    "building": "retail",
+    "id": "way/366825014"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0303736,
+          40.475697
+        ],
+        [
+          -80.0304332,
+          40.4757348
+        ],
+        [
+          -80.030597,
+          40.4755853
+        ],
+        [
+          -80.0305262,
+          40.4755404
+        ],
+        [
+          -80.0303736,
+          40.475697
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825021",
+  "properties": {
+    "addr:housenumber": "3242",
+    "addr:street": "Brighton Road",
+    "building": "retail",
+    "name": "OTT Dental Supply",
+    "shop": "yes",
+    "id": "way/366825021"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0315466,
+          40.4762781
+        ],
+        [
+          -80.031341,
+          40.4762728
+        ],
+        [
+          -80.0313378,
+          40.4763447
+        ],
+        [
+          -80.0315715,
+          40.4763507
+        ],
+        [
+          -80.0315466,
+          40.4762781
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825023",
+  "properties": {
+    "amenity": "car_wash",
+    "building": "retail",
+    "id": "way/366825023"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.027837,
+          40.4718681
+        ],
+        [
+          -80.0277281,
+          40.4718899
+        ],
+        [
+          -80.0277969,
+          40.4720886
+        ],
+        [
+          -80.0279058,
+          40.4720668
+        ],
+        [
+          -80.027837,
+          40.4718681
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825028",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "name": "Circle K",
+    "shop": "convenience",
+    "id": "way/366825028"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0274309,
+          40.4715187
+        ],
+        [
+          -80.0272107,
+          40.4715219
+        ],
+        [
+          -80.0272134,
+          40.4716321
+        ],
+        [
+          -80.027214,
+          40.4716557
+        ],
+        [
+          -80.0274342,
+          40.4716525
+        ],
+        [
+          -80.0274309,
+          40.4715187
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825029",
+  "properties": {
+    "addr:housenumber": "3800",
+    "addr:street": "Brighton Road",
+    "building": "retail",
+    "building:levels": "3",
+    "id": "way/366825029"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0357422,
+          40.4844715
+        ],
+        [
+          -80.0355816,
+          40.4845798
+        ],
+        [
+          -80.0356546,
+          40.4846416
+        ],
+        [
+          -80.0358046,
+          40.4845398
+        ],
+        [
+          -80.0357942,
+          40.4845169
+        ],
+        [
+          -80.0357422,
+          40.4844715
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825032",
+  "properties": {
+    "building": "retail",
+    "name": "Kuhn's",
+    "shop": "supermarket",
+    "id": "way/366825032"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0267436,
+          40.468255
+        ],
+        [
+          -80.026427,
+          40.4683129
+        ],
+        [
+          -80.0264991,
+          40.4685411
+        ],
+        [
+          -80.0264358,
+          40.4685527
+        ],
+        [
+          -80.0265877,
+          40.469033
+        ],
+        [
+          -80.0269676,
+          40.4689635
+        ],
+        [
+          -80.0267436,
+          40.468255
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825037",
+  "properties": {
+    "addr:housenumber": "3160",
+    "addr:street": "Brighton Road",
+    "building": "retail",
+    "id": "way/366825037"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0300955,
+          40.4754378
+        ],
+        [
+          -80.03019,
+          40.4753512
+        ],
+        [
+          -80.0301209,
+          40.4753092
+        ],
+        [
+          -80.0301091,
+          40.4753103
+        ],
+        [
+          -80.0300035,
+          40.4754133
+        ],
+        [
+          -80.0300626,
+          40.4754472
+        ],
+        [
+          -80.0300841,
+          40.4754308
+        ],
+        [
+          -80.0300955,
+          40.4754378
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825040",
+  "properties": {
+    "building": "retail",
+    "building:levels": "1",
+    "id": "way/366825040"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0360354,
+          40.4844393
+        ],
+        [
+          -80.0360496,
+          40.4844718
+        ],
+        [
+          -80.0360587,
+          40.4844926
+        ],
+        [
+          -80.0361221,
+          40.4846378
+        ],
+        [
+          -80.0362896,
+          40.4845917
+        ],
+        [
+          -80.0362544,
+          40.4845177
+        ],
+        [
+          -80.0364922,
+          40.4845226
+        ],
+        [
+          -80.0364571,
+          40.4844445
+        ],
+        [
+          -80.0362183,
+          40.4844397
+        ],
+        [
+          -80.0362136,
+          40.4844421
+        ],
+        [
+          -80.0360354,
+          40.4844393
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366825041",
+  "properties": {
+    "building": "retail",
+    "id": "way/366825041"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0353406,
+          40.4847389
+        ],
+        [
+          -80.0353975,
+          40.4848792
+        ],
+        [
+          -80.0354916,
+          40.4848572
+        ],
+        [
+          -80.0354639,
+          40.4847888
+        ],
+        [
+          -80.0354843,
+          40.484784
+        ],
+        [
+          -80.0354683,
+          40.4847447
+        ],
+        [
+          -80.0355438,
+          40.484727
+        ],
+        [
+          -80.0355034,
+          40.4846273
+        ],
+        [
+          -80.0353406,
+          40.4847389
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366879579",
+  "properties": {
+    "addr:housenumber": "1534",
+    "addr:street": "Brighton Road",
+    "building": "retail",
+    "id": "way/366879579"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0158008,
+          40.4578323
+        ],
+        [
+          -80.0157833,
+          40.4577781
+        ],
+        [
+          -80.0157776,
+          40.4577791
+        ],
+        [
+          -80.0156463,
+          40.4578037
+        ],
+        [
+          -80.0155647,
+          40.4578189
+        ],
+        [
+          -80.0155823,
+          40.4578732
+        ],
+        [
+          -80.0158008,
+          40.4578323
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368835872",
+  "properties": {
+    "addr:housenumber": "3891",
+    "addr:street": "Brighton Road",
+    "amenity": "bar",
+    "building": "retail",
+    "name": "Zangaro's Bar",
+    "id": "way/368835872"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.037427,
+          40.486861
+        ],
+        [
+          -80.0374645,
+          40.4867355
+        ],
+        [
+          -80.0374842,
+          40.4866641
+        ],
+        [
+          -80.0374592,
+          40.4866597
+        ],
+        [
+          -80.0373913,
+          40.4866477
+        ],
+        [
+          -80.0373343,
+          40.48684
+        ],
+        [
+          -80.0373337,
+          40.4868468
+        ],
+        [
+          -80.0373364,
+          40.4868525
+        ],
+        [
+          -80.0373424,
+          40.4868555
+        ],
+        [
+          -80.0374252,
+          40.4868692
+        ],
+        [
+          -80.037427,
+          40.486861
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/372281243",
+  "properties": {
+    "building": "retail",
+    "id": "way/372281243"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0371763,
+          40.4871934
+        ],
+        [
+          -80.0372151,
+          40.4870573
+        ],
+        [
+          -80.0371027,
+          40.4870387
+        ],
+        [
+          -80.0370516,
+          40.487217
+        ],
+        [
+          -80.0371215,
+          40.4872286
+        ],
+        [
+          -80.0371238,
+          40.4872204
+        ],
+        [
+          -80.0371665,
+          40.4872275
+        ],
+        [
+          -80.0371763,
+          40.4871934
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/372282931",
+  "properties": {
+    "building": "retail",
+    "shop": "convenience",
+    "id": "way/372282931"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.016437,
+          40.4563362
+        ],
+        [
+          -80.0163902,
+          40.4561902
+        ],
+        [
+          -80.0161617,
+          40.4562326
+        ],
+        [
+          -80.0161478,
+          40.4562499
+        ],
+        [
+          -80.0161901,
+          40.456382
+        ],
+        [
+          -80.016437,
+          40.4563362
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/372282938",
+  "properties": {
+    "building": "retail",
+    "id": "way/372282938"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0290549,
+          40.4736034
+        ],
+        [
+          -80.0290392,
+          40.4735443
+        ],
+        [
+          -80.0289924,
+          40.4735512
+        ],
+        [
+          -80.0289759,
+          40.473492
+        ],
+        [
+          -80.0288085,
+          40.4735221
+        ],
+        [
+          -80.0288974,
+          40.4736309
+        ],
+        [
+          -80.0290549,
+          40.4736034
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/373477650",
+  "properties": {
+    "building": "retail",
+    "name": "Family Dollar",
+    "shop": "variety_store",
+    "id": "way/373477650"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0152064,
+          40.4549757
+        ],
+        [
+          -80.0152692,
+          40.4550075
+        ],
+        [
+          -80.015367,
+          40.455057
+        ],
+        [
+          -80.015662,
+          40.4552062
+        ],
+        [
+          -80.0158212,
+          40.455024
+        ],
+        [
+          -80.0153656,
+          40.4547935
+        ],
+        [
+          -80.0153601,
+          40.4547998
+        ],
+        [
+          -80.0152064,
+          40.4549757
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/373477667",
+  "properties": {
+    "building": "retail",
+    "id": "way/373477667"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0316181,
+          40.4769563
+        ],
+        [
+          -80.0316268,
+          40.4768254
+        ],
+        [
+          -80.0315753,
+          40.4768252
+        ],
+        [
+          -80.031493,
+          40.4768245
+        ],
+        [
+          -80.0314911,
+          40.4769552
+        ],
+        [
+          -80.0316181,
+          40.4769563
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/374188455",
+  "properties": {
+    "addr:city": "Pittsburgh",
+    "addr:housenumber": "802",
+    "addr:postcode": "14233",
+    "addr:state": "PA",
+    "addr:street": "Pennsylvania Avenue",
+    "amenity": "pharmacy",
+    "building": "retail",
+    "name": "Rite Aid Pharmacy",
+    "id": "way/374188455"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.015708,
+          40.4565323
+        ],
+        [
+          -80.0157937,
+          40.4565154
+        ],
+        [
+          -80.0160384,
+          40.4564672
+        ],
+        [
+          -80.0159777,
+          40.4562888
+        ],
+        [
+          -80.0155517,
+          40.4563727
+        ],
+        [
+          -80.0156064,
+          40.4565504
+        ],
+        [
+          -80.015708,
+          40.4565323
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/374298349",
+  "properties": {
+    "building": "retail",
+    "id": "way/374298349"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0429545,
+          40.4004477
+        ],
+        [
+          -80.0441123,
+          40.3992279
+        ],
+        [
+          -80.0440264,
+          40.3991807
+        ],
+        [
+          -80.0436402,
+          40.3992215
+        ],
+        [
+          -80.0426826,
+          40.4002308
+        ],
+        [
+          -80.0427822,
+          40.4002856
+        ],
+        [
+          -80.0427404,
+          40.4003298
+        ],
+        [
+          -80.0429545,
+          40.4004477
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/376297646",
+  "properties": {
+    "building": "retail",
+    "id": "way/376297646"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.030665,
+          40.4756284
+        ],
+        [
+          -80.030597,
+          40.4755853
+        ],
+        [
+          -80.0304332,
+          40.4757348
+        ],
+        [
+          -80.0304223,
+          40.4757447
+        ],
+        [
+          -80.0304903,
+          40.4757878
+        ],
+        [
+          -80.030665,
+          40.4756284
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380333318",
+  "properties": {
+    "building": "retail",
+    "id": "way/380333318"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0522849,
+          40.4303787
+        ],
+        [
+          -80.0523959,
+          40.4303331
+        ],
+        [
+          -80.0523071,
+          40.4302079
+        ],
+        [
+          -80.0518679,
+          40.4303884
+        ],
+        [
+          -80.0518398,
+          40.4303487
+        ],
+        [
+          -80.0517359,
+          40.4303914
+        ],
+        [
+          -80.0517641,
+          40.4304311
+        ],
+        [
+          -80.0515591,
+          40.4305153
+        ],
+        [
+          -80.0515684,
+          40.4305285
+        ],
+        [
+          -80.0514288,
+          40.4306344
+        ],
+        [
+          -80.051702,
+          40.4310196
+        ],
+        [
+          -80.0517877,
+          40.4309844
+        ],
+        [
+          -80.0518451,
+          40.4310652
+        ],
+        [
+          -80.0525626,
+          40.4307704
+        ],
+        [
+          -80.0522849,
+          40.4303787
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380333319",
+  "properties": {
+    "building": "retail",
+    "id": "way/380333319"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0519911,
+          40.4301655
+        ],
+        [
+          -80.0523724,
+          40.4300089
+        ],
+        [
+          -80.0523835,
+          40.4300246
+        ],
+        [
+          -80.0525055,
+          40.4299744
+        ],
+        [
+          -80.0524965,
+          40.4299617
+        ],
+        [
+          -80.0526849,
+          40.4298843
+        ],
+        [
+          -80.0525009,
+          40.4296248
+        ],
+        [
+          -80.0526231,
+          40.4295746
+        ],
+        [
+          -80.0525975,
+          40.4295385
+        ],
+        [
+          -80.0525373,
+          40.4295632
+        ],
+        [
+          -80.0524687,
+          40.4294665
+        ],
+        [
+          -80.0522183,
+          40.4295694
+        ],
+        [
+          -80.0520101,
+          40.4292758
+        ],
+        [
+          -80.0518832,
+          40.429328
+        ],
+        [
+          -80.0518332,
+          40.4292575
+        ],
+        [
+          -80.0516829,
+          40.4293193
+        ],
+        [
+          -80.0516614,
+          40.4292891
+        ],
+        [
+          -80.0516057,
+          40.4293119
+        ],
+        [
+          -80.0516272,
+          40.4293422
+        ],
+        [
+          -80.051571,
+          40.4293653
+        ],
+        [
+          -80.0516585,
+          40.4294886
+        ],
+        [
+          -80.0516085,
+          40.4295091
+        ],
+        [
+          -80.0516813,
+          40.4296118
+        ],
+        [
+          -80.051334,
+          40.4297546
+        ],
+        [
+          -80.0514892,
+          40.4299734
+        ],
+        [
+          -80.0517724,
+          40.4298571
+        ],
+        [
+          -80.0519911,
+          40.4301655
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458469",
+  "properties": {
+    "building": "retail",
+    "name": "GetGo",
+    "operator": "Giant Eagle",
+    "shop": "convenience",
+    "id": "way/380458469"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.961799,
+          40.4687276
+        ],
+        [
+          -79.9616284,
+          40.4686066
+        ],
+        [
+          -79.9615991,
+          40.4686305
+        ],
+        [
+          -79.9615796,
+          40.4686167
+        ],
+        [
+          -79.9615272,
+          40.4686594
+        ],
+        [
+          -79.9617173,
+          40.4687943
+        ],
+        [
+          -79.961799,
+          40.4687276
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458471",
+  "properties": {
+    "addr:housenumber": "4001",
+    "addr:street": "Butler Street",
+    "amenity": "fast_food",
+    "building": "retail",
+    "cuisine": "burger",
+    "name": "Wendy's",
+    "id": "way/380458471"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9623649,
+          40.4689977
+        ],
+        [
+          -79.9622653,
+          40.4690744
+        ],
+        [
+          -79.9622805,
+          40.4690859
+        ],
+        [
+          -79.962247,
+          40.4691117
+        ],
+        [
+          -79.962239,
+          40.4691057
+        ],
+        [
+          -79.9621507,
+          40.4691737
+        ],
+        [
+          -79.9622505,
+          40.4692487
+        ],
+        [
+          -79.9622812,
+          40.469225
+        ],
+        [
+          -79.9622906,
+          40.4692321
+        ],
+        [
+          -79.9623125,
+          40.4692152
+        ],
+        [
+          -79.9623031,
+          40.4692082
+        ],
+        [
+          -79.9623387,
+          40.4691807
+        ],
+        [
+          -79.9623482,
+          40.4691878
+        ],
+        [
+          -79.9623872,
+          40.4691577
+        ],
+        [
+          -79.9623778,
+          40.4691507
+        ],
+        [
+          -79.9624201,
+          40.4691181
+        ],
+        [
+          -79.9624086,
+          40.4691094
+        ],
+        [
+          -79.9624604,
+          40.4690695
+        ],
+        [
+          -79.9623649,
+          40.4689977
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458473",
+  "properties": {
+    "building": "retail",
+    "id": "way/380458473"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9609705,
+          40.4698564
+        ],
+        [
+          -79.9608965,
+          40.4699728
+        ],
+        [
+          -79.9609711,
+          40.4700008
+        ],
+        [
+          -79.9611114,
+          40.470104
+        ],
+        [
+          -79.9612717,
+          40.470222
+        ],
+        [
+          -79.9613663,
+          40.4701476
+        ],
+        [
+          -79.961203,
+          40.4700262
+        ],
+        [
+          -79.9609705,
+          40.4698564
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458479",
+  "properties": {
+    "building": "retail",
+    "building:levels": "3",
+    "id": "way/380458479"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9617654,
+          40.4694674
+        ],
+        [
+          -79.9616042,
+          40.4693544
+        ],
+        [
+          -79.9615469,
+          40.469401
+        ],
+        [
+          -79.9616611,
+          40.4694825
+        ],
+        [
+          -79.9616845,
+          40.4694992
+        ],
+        [
+          -79.9616973,
+          40.4694887
+        ],
+        [
+          -79.9618503,
+          40.4695977
+        ],
+        [
+          -79.9618967,
+          40.4695595
+        ],
+        [
+          -79.9617654,
+          40.4694674
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458480",
+  "properties": {
+    "building": "retail",
+    "building:levels": "3",
+    "id": "way/380458480"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9610853,
+          40.4695335
+        ],
+        [
+          -79.9610925,
+          40.4695388
+        ],
+        [
+          -79.9612477,
+          40.4694156
+        ],
+        [
+          -79.9611562,
+          40.4693539
+        ],
+        [
+          -79.9610521,
+          40.4692762
+        ],
+        [
+          -79.9610095,
+          40.4693093
+        ],
+        [
+          -79.9610981,
+          40.4693755
+        ],
+        [
+          -79.9610808,
+          40.4693889
+        ],
+        [
+          -79.9609987,
+          40.4693277
+        ],
+        [
+          -79.9609159,
+          40.4693919
+        ],
+        [
+          -79.960998,
+          40.4694531
+        ],
+        [
+          -79.9609869,
+          40.4694618
+        ],
+        [
+          -79.9610853,
+          40.4695335
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458507",
+  "properties": {
+    "amenity": "restaurant",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "The Vandal",
+    "id": "way/380458507"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9600614,
+          40.4708714
+        ],
+        [
+          -79.9601026,
+          40.4708099
+        ],
+        [
+          -79.9599372,
+          40.4707458
+        ],
+        [
+          -79.959896,
+          40.4708073
+        ],
+        [
+          -79.9600614,
+          40.4708714
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458509",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/380458509"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9616265,
+          40.4691178
+        ],
+        [
+          -79.961458,
+          40.4689983
+        ],
+        [
+          -79.9613618,
+          40.4690768
+        ],
+        [
+          -79.9615219,
+          40.4692049
+        ],
+        [
+          -79.9616305,
+          40.4691206
+        ],
+        [
+          -79.9616265,
+          40.4691178
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458514",
+  "properties": {
+    "amenity": "restaurant",
+    "building": "retail",
+    "building:levels": "1",
+    "cuisine": "sandwich",
+    "name": "Deli on Butler",
+    "id": "way/380458514"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9613038,
+          40.4693674
+        ],
+        [
+          -79.9611876,
+          40.4692891
+        ],
+        [
+          -79.9611623,
+          40.4693155
+        ],
+        [
+          -79.9611839,
+          40.4693301
+        ],
+        [
+          -79.9611562,
+          40.4693539
+        ],
+        [
+          -79.9612477,
+          40.4694156
+        ],
+        [
+          -79.9612756,
+          40.4693916
+        ],
+        [
+          -79.9613038,
+          40.4693674
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458516",
+  "properties": {
+    "building": "retail",
+    "name": "Bargain Auto Mart",
+    "phone": "+1 412 687 9292",
+    "shop": "car",
+    "id": "way/380458516"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9595435,
+          40.4725048
+        ],
+        [
+          -79.9594484,
+          40.4724643
+        ],
+        [
+          -79.9593132,
+          40.4726479
+        ],
+        [
+          -79.9593581,
+          40.4726671
+        ],
+        [
+          -79.9593443,
+          40.4726858
+        ],
+        [
+          -79.9593946,
+          40.4727072
+        ],
+        [
+          -79.9595435,
+          40.4725048
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458524",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "building:material": "brick",
+    "id": "way/380458524"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9613624,
+          40.4693193
+        ],
+        [
+          -79.9612441,
+          40.4692391
+        ],
+        [
+          -79.9612387,
+          40.4692355
+        ],
+        [
+          -79.9611816,
+          40.4692851
+        ],
+        [
+          -79.9611876,
+          40.4692891
+        ],
+        [
+          -79.9613038,
+          40.4693674
+        ],
+        [
+          -79.9613624,
+          40.4693193
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458525",
+  "properties": {
+    "amenity": "bar",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Belvedere's",
+    "id": "way/380458525"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9616265,
+          40.4691178
+        ],
+        [
+          -79.961741,
+          40.4690244
+        ],
+        [
+          -79.9615861,
+          40.4689146
+        ],
+        [
+          -79.9614206,
+          40.4687972
+        ],
+        [
+          -79.9613061,
+          40.4688906
+        ],
+        [
+          -79.961363,
+          40.4689309
+        ],
+        [
+          -79.961458,
+          40.4689983
+        ],
+        [
+          -79.9616265,
+          40.4691178
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458536",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/380458536"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9608721,
+          40.4695615
+        ],
+        [
+          -79.960972,
+          40.4696344
+        ],
+        [
+          -79.9610344,
+          40.4695848
+        ],
+        [
+          -79.9610273,
+          40.4695796
+        ],
+        [
+          -79.9608904,
+          40.4694798
+        ],
+        [
+          -79.9608628,
+          40.4695018
+        ],
+        [
+          -79.9609069,
+          40.4695339
+        ],
+        [
+          -79.9608915,
+          40.4695462
+        ],
+        [
+          -79.9608721,
+          40.4695615
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380458537",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/380458537"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.961741,
+          40.4690244
+        ],
+        [
+          -79.9617467,
+          40.4690285
+        ],
+        [
+          -79.9618145,
+          40.4689732
+        ],
+        [
+          -79.961808,
+          40.4689685
+        ],
+        [
+          -79.9616898,
+          40.4688847
+        ],
+        [
+          -79.9616133,
+          40.4688305
+        ],
+        [
+          -79.9615873,
+          40.4688517
+        ],
+        [
+          -79.9616279,
+          40.4688805
+        ],
+        [
+          -79.9615861,
+          40.4689146
+        ],
+        [
+          -79.961741,
+          40.4690244
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382364381",
+  "properties": {
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Evolve",
+    "shop": "hairdresser",
+    "id": "way/382364381"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9612441,
+          40.4692391
+        ],
+        [
+          -79.9613624,
+          40.4693193
+        ],
+        [
+          -79.9613958,
+          40.4692919
+        ],
+        [
+          -79.9612782,
+          40.4692095
+        ],
+        [
+          -79.9612441,
+          40.4692391
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382364759",
+  "properties": {
+    "building": "retail",
+    "building:levels": "3",
+    "id": "way/382364759"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9607474,
+          40.4694704
+        ],
+        [
+          -79.9606999,
+          40.4695081
+        ],
+        [
+          -79.9607209,
+          40.4695233
+        ],
+        [
+          -79.9606758,
+          40.4695591
+        ],
+        [
+          -79.9608796,
+          40.4697077
+        ],
+        [
+          -79.960972,
+          40.4696344
+        ],
+        [
+          -79.9608721,
+          40.4695615
+        ],
+        [
+          -79.9607474,
+          40.4694704
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382364760",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/382364760"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9609869,
+          40.4694618
+        ],
+        [
+          -79.9606961,
+          40.4692449
+        ],
+        [
+          -79.9606342,
+          40.4692929
+        ],
+        [
+          -79.9606431,
+          40.4692995
+        ],
+        [
+          -79.9607144,
+          40.4693515
+        ],
+        [
+          -79.9607934,
+          40.4694091
+        ],
+        [
+          -79.9608904,
+          40.4694798
+        ],
+        [
+          -79.9610273,
+          40.4695796
+        ],
+        [
+          -79.9610853,
+          40.4695335
+        ],
+        [
+          -79.9609869,
+          40.4694618
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382365368",
+  "properties": {
+    "building": "retail",
+    "id": "way/382365368"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9618188,
+          40.4694248
+        ],
+        [
+          -79.9616582,
+          40.4693105
+        ],
+        [
+          -79.9616042,
+          40.4693544
+        ],
+        [
+          -79.9617654,
+          40.4694674
+        ],
+        [
+          -79.9618188,
+          40.4694248
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382365369",
+  "properties": {
+    "building": "retail",
+    "building:levels": "3",
+    "id": "way/382365369"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9618181,
+          40.4693314
+        ],
+        [
+          -79.9618834,
+          40.4692784
+        ],
+        [
+          -79.9617845,
+          40.4692079
+        ],
+        [
+          -79.9617192,
+          40.4692609
+        ],
+        [
+          -79.9618181,
+          40.4693314
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382365371",
+  "properties": {
+    "addr:housenumber": "4019",
+    "addr:street": "Butler Street",
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/382365371"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9618984,
+          40.4693886
+        ],
+        [
+          -79.9618181,
+          40.4693314
+        ],
+        [
+          -79.9617192,
+          40.4692609
+        ],
+        [
+          -79.9616582,
+          40.4693105
+        ],
+        [
+          -79.9618188,
+          40.4694248
+        ],
+        [
+          -79.9618375,
+          40.4694381
+        ],
+        [
+          -79.9618984,
+          40.4693886
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382972820",
+  "properties": {
+    "addr:housenumber": "4119",
+    "addr:street": "Butler Street",
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/382972820"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9610707,
+          40.4701366
+        ],
+        [
+          -79.9611114,
+          40.470104
+        ],
+        [
+          -79.9609711,
+          40.4700008
+        ],
+        [
+          -79.9608965,
+          40.4699728
+        ],
+        [
+          -79.9608531,
+          40.4700378
+        ],
+        [
+          -79.9610249,
+          40.4701042
+        ],
+        [
+          -79.9610707,
+          40.4701366
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382972830",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "building:material": "brick",
+    "id": "way/382972830"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.961203,
+          40.4700262
+        ],
+        [
+          -79.9612507,
+          40.4699889
+        ],
+        [
+          -79.9611239,
+          40.4698957
+        ],
+        [
+          -79.9611293,
+          40.4698915
+        ],
+        [
+          -79.9610249,
+          40.4698147
+        ],
+        [
+          -79.9609705,
+          40.4698564
+        ],
+        [
+          -79.961203,
+          40.4700262
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/383326607",
+  "properties": {
+    "building": "retail",
+    "building:levels": "1",
+    "id": "way/383326607"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9594666,
+          40.4720771
+        ],
+        [
+          -79.9594213,
+          40.4721372
+        ],
+        [
+          -79.9595417,
+          40.4722224
+        ],
+        [
+          -79.9596346,
+          40.4721464
+        ],
+        [
+          -79.9594666,
+          40.4720771
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385322436",
+  "properties": {
+    "building": "retail",
+    "building:levels": "1",
+    "id": "way/385322436"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0151304,
+          40.4526416
+        ],
+        [
+          -80.0152376,
+          40.4526227
+        ],
+        [
+          -80.0152229,
+          40.4525812
+        ],
+        [
+          -80.0151908,
+          40.4525862
+        ],
+        [
+          -80.0151888,
+          40.452579
+        ],
+        [
+          -80.0151628,
+          40.4524966
+        ],
+        [
+          -80.0151612,
+          40.4524914
+        ],
+        [
+          -80.0151375,
+          40.4524185
+        ],
+        [
+          -80.015137,
+          40.4524167
+        ],
+        [
+          -80.0151254,
+          40.452383
+        ],
+        [
+          -80.0150994,
+          40.4523069
+        ],
+        [
+          -80.0150206,
+          40.4523184
+        ],
+        [
+          -80.0151304,
+          40.4526416
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385322441",
+  "properties": {
+    "addr:street": "Western Avenue",
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/385322441"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0159925,
+          40.4523398
+        ],
+        [
+          -80.0160623,
+          40.452326
+        ],
+        [
+          -80.0160469,
+          40.4522808
+        ],
+        [
+          -80.0160235,
+          40.4522848
+        ],
+        [
+          -80.0159735,
+          40.4521459
+        ],
+        [
+          -80.0159293,
+          40.4521539
+        ],
+        [
+          -80.0159925,
+          40.4523398
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385322449",
+  "properties": {
+    "building": "retail",
+    "building:levels": "1",
+    "opening_hours": "06:00-21:30",
+    "phone": "+1 412 364 6072",
+    "shop": "laundry",
+    "id": "way/385322449"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0159552,
+          40.451993
+        ],
+        [
+          -80.0160109,
+          40.4519827
+        ],
+        [
+          -80.0160274,
+          40.4519797
+        ],
+        [
+          -80.0159872,
+          40.4518538
+        ],
+        [
+          -80.0159856,
+          40.4518488
+        ],
+        [
+          -80.0159642,
+          40.4518528
+        ],
+        [
+          -80.0159534,
+          40.4518188
+        ],
+        [
+          -80.0159025,
+          40.4518283
+        ],
+        [
+          -80.0159552,
+          40.451993
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385322452",
+  "properties": {
+    "addr:housenumber": "860",
+    "addr:street": "Western Avenue",
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/385322452"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0164183,
+          40.4522902
+        ],
+        [
+          -80.016537,
+          40.4522686
+        ],
+        [
+          -80.0164975,
+          40.4521576
+        ],
+        [
+          -80.016465,
+          40.4520534
+        ],
+        [
+          -80.016347,
+          40.4520749
+        ],
+        [
+          -80.0164001,
+          40.4522349
+        ],
+        [
+          -80.0164133,
+          40.4522746
+        ],
+        [
+          -80.0164183,
+          40.4522902
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385322458",
+  "properties": {
+    "addr:housenumber": "854",
+    "addr:street": "Western Avenue",
+    "building": "retail",
+    "id": "way/385322458"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0162306,
+          40.452268
+        ],
+        [
+          -80.016176,
+          40.4521101
+        ],
+        [
+          -80.0161043,
+          40.4521233
+        ],
+        [
+          -80.0161378,
+          40.4522117
+        ],
+        [
+          -80.0161563,
+          40.452209
+        ],
+        [
+          -80.0161772,
+          40.4522754
+        ],
+        [
+          -80.0162306,
+          40.452268
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385322459",
+  "properties": {
+    "addr:housenumber": "856",
+    "addr:street": "Western Avenue",
+    "building": "retail",
+    "id": "way/385322459"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0162306,
+          40.452268
+        ],
+        [
+          -80.0162387,
+          40.4522941
+        ],
+        [
+          -80.0162961,
+          40.4522831
+        ],
+        [
+          -80.0162618,
+          40.4521846
+        ],
+        [
+          -80.0162858,
+          40.4521801
+        ],
+        [
+          -80.0162559,
+          40.4520938
+        ],
+        [
+          -80.016176,
+          40.4521101
+        ],
+        [
+          -80.0162306,
+          40.452268
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385332652",
+  "properties": {
+    "addr:housenumber": "845",
+    "addr:street": "Western Avenue",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Book Discount Warehouse",
+    "shop": "books",
+    "id": "way/385332652"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0158478,
+          40.4517866
+        ],
+        [
+          -80.0157929,
+          40.4517972
+        ],
+        [
+          -80.0158468,
+          40.451962
+        ],
+        [
+          -80.0158618,
+          40.4519591
+        ],
+        [
+          -80.01588,
+          40.4520148
+        ],
+        [
+          -80.0159398,
+          40.4520035
+        ],
+        [
+          -80.0158921,
+          40.4518576
+        ],
+        [
+          -80.0158723,
+          40.4518613
+        ],
+        [
+          -80.0158478,
+          40.4517866
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/400072674",
+  "properties": {
+    "addr:housenumber": "10444",
+    "addr:street": "Saw Mill Run Boulevard",
+    "building": "retail",
+    "name": "Quality Granite Outlet",
+    "shop": "kitchen",
+    "id": "way/400072674"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0049699,
+          40.4072411
+        ],
+        [
+          -80.0047995,
+          40.407325
+        ],
+        [
+          -80.0048345,
+          40.4073973
+        ],
+        [
+          -80.0046285,
+          40.4074503
+        ],
+        [
+          -80.0047435,
+          40.4077098
+        ],
+        [
+          -80.0049495,
+          40.4076568
+        ],
+        [
+          -80.0049182,
+          40.4075862
+        ],
+        [
+          -80.0049989,
+          40.4075654
+        ],
+        [
+          -80.0050289,
+          40.4072924
+        ],
+        [
+          -80.0049699,
+          40.4072411
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/400072704",
+  "properties": {
+    "building": "retail",
+    "name": "Red, White & Blue Thrift Store",
+    "opening_hours": "Mo-Sa 09:00-18:00",
+    "shop": "clothes",
+    "id": "way/400072704"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0065363,
+          40.4109208
+        ],
+        [
+          -80.0065977,
+          40.4108791
+        ],
+        [
+          -80.0066504,
+          40.4109117
+        ],
+        [
+          -80.0068105,
+          40.4107615
+        ],
+        [
+          -80.0063689,
+          40.4104886
+        ],
+        [
+          -80.0062089,
+          40.4106387
+        ],
+        [
+          -80.0061023,
+          40.4107389
+        ],
+        [
+          -80.0064185,
+          40.4110788
+        ],
+        [
+          -80.0065949,
+          40.4109837
+        ],
+        [
+          -80.0065363,
+          40.4109208
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/400075875",
+  "properties": {
+    "building": "retail",
+    "building:levels": "1",
+    "name": "CoGo's",
+    "shop": "convenience",
+    "id": "way/400075875"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.997393,
+          40.3960215
+        ],
+        [
+          -79.9974373,
+          40.3959279
+        ],
+        [
+          -79.9973971,
+          40.3959168
+        ],
+        [
+          -79.9974025,
+          40.3959053
+        ],
+        [
+          -79.9972727,
+          40.3958697
+        ],
+        [
+          -79.9972672,
+          40.3958812
+        ],
+        [
+          -79.9972324,
+          40.3958716
+        ],
+        [
+          -79.9971881,
+          40.3959652
+        ],
+        [
+          -79.997393,
+          40.3960215
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/404597280",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/404597280"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0299558,
+          40.4745672
+        ],
+        [
+          -80.0300786,
+          40.4745455
+        ],
+        [
+          -80.0300407,
+          40.4744211
+        ],
+        [
+          -80.0299179,
+          40.4744427
+        ],
+        [
+          -80.0299558,
+          40.4745672
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/404609672",
+  "properties": {
+    "addr:housenumber": "3141",
+    "addr:street": "Brighton Road",
+    "building": "retail",
+    "building:levels": "2",
+    "building:material": "brick",
+    "id": "way/404609672"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0298248,
+          40.4746625
+        ],
+        [
+          -80.0301138,
+          40.4746115
+        ],
+        [
+          -80.0300939,
+          40.4745462
+        ],
+        [
+          -80.0298049,
+          40.4745972
+        ],
+        [
+          -80.0298248,
+          40.4746625
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/421660658",
+  "properties": {
+    "amenity": "pharmacy",
+    "building": "retail",
+    "name": "Rite Aid",
+    "id": "way/421660658"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.998284,
+          40.4538336
+        ],
+        [
+          -79.9984527,
+          40.4538012
+        ],
+        [
+          -79.9983904,
+          40.4535839
+        ],
+        [
+          -79.9982183,
+          40.4536137
+        ],
+        [
+          -79.998284,
+          40.4538336
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/441541549",
+  "properties": {
+    "building": "retail",
+    "building:levels": "3",
+    "id": "way/441541549"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0168876,
+          40.4518215
+        ],
+        [
+          -80.0168256,
+          40.451632
+        ],
+        [
+          -80.0168119,
+          40.4515902
+        ],
+        [
+          -80.0167348,
+          40.4516048
+        ],
+        [
+          -80.0167519,
+          40.4516569
+        ],
+        [
+          -80.0168105,
+          40.4518361
+        ],
+        [
+          -80.0168876,
+          40.4518215
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/442802651",
+  "properties": {
+    "addr:housenumber": "3309",
+    "addr:street": "Brighton Road",
+    "building": "retail",
+    "name": "Steel City Cutzs",
+    "note": "The name is not a typo. It's the actual spelling of the store's sign.",
+    "shop": "hairdresser",
+    "id": "way/442802651"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0320176,
+          40.4768126
+        ],
+        [
+          -80.0321354,
+          40.4768138
+        ],
+        [
+          -80.0321369,
+          40.4767271
+        ],
+        [
+          -80.0320191,
+          40.4767259
+        ],
+        [
+          -80.0320176,
+          40.4768126
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/444998202",
+  "properties": {
+    "addr:city": "West Mifflin",
+    "addr:housenumber": "6001",
+    "addr:postcode": "15207",
+    "addr:state": "PA",
+    "addr:street": "Buttermilk Hollow Road",
+    "building": "retail",
+    "name": "Shop & Go",
+    "opening_hours": "06:00-23:00",
+    "shop": "convenience",
+    "id": "way/444998202"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9073962,
+          40.3626058
+        ],
+        [
+          -79.9074043,
+          40.3624662
+        ],
+        [
+          -79.9072662,
+          40.3624616
+        ],
+        [
+          -79.9072651,
+          40.3624806
+        ],
+        [
+          -79.9072581,
+          40.3626011
+        ],
+        [
+          -79.9073962,
+          40.3626058
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451799956",
+  "properties": {
+    "building": "retail",
+    "id": "way/451799956"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0168336,
+          40.4520702
+        ],
+        [
+          -80.0168082,
+          40.4520587
+        ],
+        [
+          -80.0168011,
+          40.4520372
+        ],
+        [
+          -80.0168214,
+          40.4520333
+        ],
+        [
+          -80.0168052,
+          40.4519844
+        ],
+        [
+          -80.0166371,
+          40.4520166
+        ],
+        [
+          -80.0166949,
+          40.4521913
+        ],
+        [
+          -80.0167853,
+          40.452174
+        ],
+        [
+          -80.016784,
+          40.45217
+        ],
+        [
+          -80.016813,
+          40.4521645
+        ],
+        [
+          -80.0168081,
+          40.4521497
+        ],
+        [
+          -80.0168568,
+          40.4521404
+        ],
+        [
+          -80.0168336,
+          40.4520702
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462164608",
+  "properties": {
+    "addr:housenumber": "947",
+    "addr:street": "Western Avenue",
+    "building": "retail",
+    "building:levels": "3",
+    "id": "way/462164608"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0183026,
+          40.451558
+        ],
+        [
+          -80.0183871,
+          40.451542
+        ],
+        [
+          -80.0183828,
+          40.4515288
+        ],
+        [
+          -80.0183079,
+          40.4512999
+        ],
+        [
+          -80.0182233,
+          40.4513159
+        ],
+        [
+          -80.018241,
+          40.4513699
+        ],
+        [
+          -80.0183026,
+          40.451558
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462164612",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/462164612"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.017515,
+          40.4516121
+        ],
+        [
+          -80.0174743,
+          40.4516198
+        ],
+        [
+          -80.017432,
+          40.4514905
+        ],
+        [
+          -80.0173692,
+          40.4515024
+        ],
+        [
+          -80.0174394,
+          40.4517169
+        ],
+        [
+          -80.0175969,
+          40.4516871
+        ],
+        [
+          -80.0175211,
+          40.4514555
+        ],
+        [
+          -80.0174763,
+          40.451464
+        ],
+        [
+          -80.0174871,
+          40.4514971
+        ],
+        [
+          -80.0174687,
+          40.4515006
+        ],
+        [
+          -80.0175005,
+          40.4515978
+        ],
+        [
+          -80.0175098,
+          40.4515961
+        ],
+        [
+          -80.017515,
+          40.4516121
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462164613",
+  "properties": {
+    "building": "retail",
+    "building:levels": "2",
+    "id": "way/462164613"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0170968,
+          40.451429
+        ],
+        [
+          -80.0170948,
+          40.451423
+        ],
+        [
+          -80.0170153,
+          40.4514381
+        ],
+        [
+          -80.017126,
+          40.4517764
+        ],
+        [
+          -80.0172787,
+          40.4517475
+        ],
+        [
+          -80.0171699,
+          40.4514151
+        ],
+        [
+          -80.0170968,
+          40.451429
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462224721",
+  "properties": {
+    "amenity": "car_wash",
+    "building": "retail",
+    "building:levels": "1",
+    "id": "way/462224721"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9989519,
+          40.3965631
+        ],
+        [
+          -79.9989265,
+          40.3964579
+        ],
+        [
+          -79.9988328,
+          40.3964711
+        ],
+        [
+          -79.9988583,
+          40.3965763
+        ],
+        [
+          -79.9989519,
+          40.3965631
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462224722",
+  "properties": {
+    "building": "retail",
+    "name": "Snack Shop",
+    "shop": "convenience",
+    "id": "way/462224722"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9988393,
+          40.3964201
+        ],
+        [
+          -79.9987236,
+          40.3962896
+        ],
+        [
+          -79.9986415,
+          40.3963318
+        ],
+        [
+          -79.9987572,
+          40.3964623
+        ],
+        [
+          -79.9988393,
+          40.3964201
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462224724",
+  "properties": {
+    "addr:housenumber": "1281",
+    "addr:street": "Saw Mill Run Boulevard",
+    "building": "retail",
+    "name": "Red Line Auto Sales",
+    "phone": "+1 412 207 2338",
+    "shop": "car",
+    "id": "way/462224724"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0012743,
+          40.4039525
+        ],
+        [
+          -80.0011781,
+          40.4038178
+        ],
+        [
+          -80.0010759,
+          40.4038601
+        ],
+        [
+          -80.0011721,
+          40.4039948
+        ],
+        [
+          -80.0012743,
+          40.4039525
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462424676",
+  "properties": {
+    "building": "retail",
+    "name": "Leopardi Auto Sales",
+    "shop": "car",
+    "id": "way/462424676"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9956477,
+          40.3836019
+        ],
+        [
+          -79.9953573,
+          40.3835042
+        ],
+        [
+          -79.9952924,
+          40.3836161
+        ],
+        [
+          -79.9955829,
+          40.3837137
+        ],
+        [
+          -79.9956477,
+          40.3836019
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462424680",
+  "properties": {
+    "addr:housenumber": "2244",
+    "addr:street": "Saw Mill Run Boulevard",
+    "building": "retail",
+    "name": "Showcase Motors",
+    "phone": "+1 412 668 3040",
+    "shop": "car",
+    "id": "way/462424680"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9963089,
+          40.387454
+        ],
+        [
+          -79.9963993,
+          40.3874081
+        ],
+        [
+          -79.9961579,
+          40.3871323
+        ],
+        [
+          -79.9960675,
+          40.3871782
+        ],
+        [
+          -79.9963089,
+          40.387454
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462424683",
+  "properties": {
+    "amenity": "restaurant",
+    "building": "retail",
+    "building:levels": "1",
+    "cuisine": "american",
+    "name": "Frank & Shirley's",
+    "phone": "+1 412 882 3550",
+    "id": "way/462424683"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9966864,
+          40.3886813
+        ],
+        [
+          -79.9966428,
+          40.3885633
+        ],
+        [
+          -79.9965074,
+          40.3885924
+        ],
+        [
+          -79.9965115,
+          40.3886036
+        ],
+        [
+          -79.9964945,
+          40.3886073
+        ],
+        [
+          -79.996534,
+          40.388714
+        ],
+        [
+          -79.9966864,
+          40.3886813
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462439825",
+  "properties": {
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Murphy's Auto Mart",
+    "shop": "car",
+    "id": "way/462439825"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0042828,
+          40.3777584
+        ],
+        [
+          -80.0043947,
+          40.3776026
+        ],
+        [
+          -80.0042953,
+          40.3775611
+        ],
+        [
+          -80.0041834,
+          40.3777169
+        ],
+        [
+          -80.0042828,
+          40.3777584
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/463691349",
+  "properties": {
+    "amenity": "restaurant",
+    "building": "retail",
+    "name": "The Royal Palace",
+    "phone": "+1 412 882 8000",
+    "id": "way/463691349"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0014276,
+          40.3792638
+        ],
+        [
+          -80.0014777,
+          40.3793047
+        ],
+        [
+          -80.001628,
+          40.3794273
+        ],
+        [
+          -80.0017481,
+          40.3795253
+        ],
+        [
+          -80.0020379,
+          40.3793192
+        ],
+        [
+          -80.0017656,
+          40.379097
+        ],
+        [
+          -80.0016437,
+          40.3791837
+        ],
+        [
+          -80.0015955,
+          40.3791443
+        ],
+        [
+          -80.0014276,
+          40.3792638
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/463691351",
+  "properties": {
+    "building": "retail",
+    "name": "Harper Printing Service",
+    "phone": "+1 412 884 2666",
+    "shop": "printing",
+    "id": "way/463691351"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0010881,
+          40.3798498
+        ],
+        [
+          -80.0011391,
+          40.3797987
+        ],
+        [
+          -80.0010989,
+          40.3797754
+        ],
+        [
+          -80.0011042,
+          40.37977
+        ],
+        [
+          -80.0009682,
+          40.3796914
+        ],
+        [
+          -80.0009119,
+          40.379748
+        ],
+        [
+          -80.0010881,
+          40.3798498
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/463691356",
+  "properties": {
+    "addr:housenumber": "2590",
+    "addr:street": "Library Road",
+    "amenity": "car_rental",
+    "building": "retail",
+    "name": "Enterprise",
+    "id": "way/463691356"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9996761,
+          40.3811731
+        ],
+        [
+          -79.9995901,
+          40.3810638
+        ],
+        [
+          -79.9994479,
+          40.3811287
+        ],
+        [
+          -79.9995339,
+          40.381238
+        ],
+        [
+          -79.9996761,
+          40.3811731
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/474718913",
+  "properties": {
+    "building": "retail",
+    "id": "way/474718913"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0048264,
+          40.4072989
+        ],
+        [
+          -80.0049525,
+          40.4072368
+        ],
+        [
+          -80.0048546,
+          40.4069606
+        ],
+        [
+          -80.0047139,
+          40.4069895
+        ],
+        [
+          -80.0046733,
+          40.4068749
+        ],
+        [
+          -80.0045563,
+          40.406899
+        ],
+        [
+          -80.0046979,
+          40.4072984
+        ],
+        [
+          -80.0048068,
+          40.407276
+        ],
+        [
+          -80.0048264,
+          40.4072989
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/477594185",
+  "properties": {
+    "addr:housenumber": "2801",
+    "addr:street": "Saw Mill Run Boulevard",
+    "building": "retail",
+    "name": "Advance Auto Parts",
+    "shop": "car_repair",
+    "id": "way/477594185"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9892171,
+          40.378496
+        ],
+        [
+          -79.988863,
+          40.3784086
+        ],
+        [
+          -79.9887751,
+          40.3786155
+        ],
+        [
+          -79.9891291,
+          40.3787028
+        ],
+        [
+          -79.9892171,
+          40.378496
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/495046542",
+  "properties": {
+    "building": "retail",
+    "name": "Family Dollar",
+    "shop": "variety_store",
+    "id": "way/495046542"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0309357,
+          40.4758311
+        ],
+        [
+          -80.0309333,
+          40.4758144
+        ],
+        [
+          -80.0309311,
+          40.4757984
+        ],
+        [
+          -80.030681,
+          40.4756399
+        ],
+        [
+          -80.0305052,
+          40.4758005
+        ],
+        [
+          -80.030779,
+          40.475974
+        ],
+        [
+          -80.0309357,
+          40.4758311
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/502923931",
+  "properties": {
+    "building": "retail",
+    "id": "way/502923931"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.006894,
+          40.45673
+        ],
+        [
+          -80.006868,
+          40.4567178
+        ],
+        [
+          -80.0065659,
+          40.4567781
+        ],
+        [
+          -80.0066398,
+          40.4569921
+        ],
+        [
+          -80.0069554,
+          40.4569327
+        ],
+        [
+          -80.006894,
+          40.45673
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/502923936",
+  "properties": {
+    "building": "retail",
+    "id": "way/502923936"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.006624,
+          40.4558976
+        ],
+        [
+          -80.0064573,
+          40.4559307
+        ],
+        [
+          -80.0064708,
+          40.4559701
+        ],
+        [
+          -80.0066375,
+          40.455937
+        ],
+        [
+          -80.006624,
+          40.4558976
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/502923937",
+  "properties": {
+    "building": "retail",
+    "id": "way/502923937"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0066089,
+          40.4558537
+        ],
+        [
+          -80.0064423,
+          40.4558868
+        ],
+        [
+          -80.0064573,
+          40.4559307
+        ],
+        [
+          -80.006624,
+          40.4558976
+        ],
+        [
+          -80.0066089,
+          40.4558537
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/524664160",
+  "properties": {
+    "building": "retail",
+    "name": "Shop 'n Save",
+    "shop": "supermarket",
+    "id": "way/524664160"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0082606,
+          40.4293245
+        ],
+        [
+          -80.0079818,
+          40.4291773
+        ],
+        [
+          -80.0078605,
+          40.4293105
+        ],
+        [
+          -80.0077714,
+          40.4292635
+        ],
+        [
+          -80.0075646,
+          40.4294904
+        ],
+        [
+          -80.0079325,
+          40.4296846
+        ],
+        [
+          -80.0082606,
+          40.4293245
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/533017954",
+  "properties": {
+    "addr:housenumber": "910",
+    "addr:postcode": "15238",
+    "addr:street": "Freeport Road",
+    "brand": "Giant Eagle",
+    "brand:wikidata": "Q1522721",
+    "brand:wikipedia": "en:Giant Eagle",
+    "building": "retail",
+    "name": "Giant Eagle",
+    "shop": "supermarket",
+    "store_name": "Market District",
+    "website": "https://www.gianteagle.com/Stores/Store/?storeId=0072",
+    "id": "way/533017954"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.8940335,
+          40.4886568
+        ],
+        [
+          -79.8941584,
+          40.4886919
+        ],
+        [
+          -79.8941362,
+          40.4887361
+        ],
+        [
+          -79.8942182,
+          40.488756
+        ],
+        [
+          -79.8942685,
+          40.4886515
+        ],
+        [
+          -79.8945913,
+          40.4887412
+        ],
+        [
+          -79.8949985,
+          40.4878937
+        ],
+        [
+          -79.8940541,
+          40.4876312
+        ],
+        [
+          -79.8940168,
+          40.4877102
+        ],
+        [
+          -79.8937087,
+          40.4883529
+        ],
+        [
+          -79.8941244,
+          40.4884651
+        ],
+        [
+          -79.8940335,
+          40.4886568
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/533017955",
+  "properties": {
+    "brand": "TJ Maxx",
+    "brand:wikidata": "Q10860683",
+    "brand:wikipedia": "en:TJ Maxx",
+    "building": "retail",
+    "name": "TJ Maxx",
+    "shop": "clothes",
+    "id": "way/533017955"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.8929416,
+          40.4891728
+        ],
+        [
+          -79.8930495,
+          40.4893407
+        ],
+        [
+          -79.8930721,
+          40.4893788
+        ],
+        [
+          -79.8932102,
+          40.4896116
+        ],
+        [
+          -79.8936643,
+          40.4894559
+        ],
+        [
+          -79.8935337,
+          40.4892356
+        ],
+        [
+          -79.8933943,
+          40.4890053
+        ],
+        [
+          -79.8929416,
+          40.4891728
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/533017956",
+  "properties": {
+    "building": "retail",
+    "id": "way/533017956"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.8937087,
+          40.4883529
+        ],
+        [
+          -79.8933943,
+          40.4890053
+        ],
+        [
+          -79.8935337,
+          40.4892356
+        ],
+        [
+          -79.8938167,
+          40.4893145
+        ],
+        [
+          -79.8939613,
+          40.4890146
+        ],
+        [
+          -79.8937954,
+          40.4889684
+        ],
+        [
+          -79.8938426,
+          40.4888706
+        ],
+        [
+          -79.8940025,
+          40.4889152
+        ],
+        [
+          -79.8940935,
+          40.4887265
+        ],
+        [
+          -79.8940103,
+          40.4887024
+        ],
+        [
+          -79.8940335,
+          40.4886568
+        ],
+        [
+          -79.8941244,
+          40.4884651
+        ],
+        [
+          -79.8937087,
+          40.4883529
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/533017957",
+  "properties": {
+    "building": "retail",
+    "id": "way/533017957"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.8917284,
+          40.4888329
+        ],
+        [
+          -79.8896478,
+          40.4882472
+        ],
+        [
+          -79.8894331,
+          40.4886892
+        ],
+        [
+          -79.8894643,
+          40.488698
+        ],
+        [
+          -79.8893507,
+          40.4889318
+        ],
+        [
+          -79.889405,
+          40.4890236
+        ],
+        [
+          -79.8899414,
+          40.4891719
+        ],
+        [
+          -79.8900125,
+          40.4890232
+        ],
+        [
+          -79.8903003,
+          40.4891028
+        ],
+        [
+          -79.8903355,
+          40.4890291
+        ],
+        [
+          -79.8902378,
+          40.4890021
+        ],
+        [
+          -79.8902617,
+          40.4889523
+        ],
+        [
+          -79.8910901,
+          40.4891819
+        ],
+        [
+          -79.8911362,
+          40.4890859
+        ],
+        [
+          -79.8910577,
+          40.4890642
+        ],
+        [
+          -79.8910878,
+          40.4890015
+        ],
+        [
+          -79.8913589,
+          40.4890769
+        ],
+        [
+          -79.8913806,
+          40.489032
+        ],
+        [
+          -79.8916036,
+          40.4890935
+        ],
+        [
+          -79.8917284,
+          40.4888329
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/533017958",
+  "properties": {
+    "brand": "Marshalls",
+    "brand:wikidata": "Q15903261",
+    "brand:wikipedia": "en:Marshalls",
+    "building": "retail",
+    "name": "Marshalls",
+    "shop": "department_store",
+    "id": "way/533017958"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.8922312,
+          40.4889722
+        ],
+        [
+          -79.8917284,
+          40.4888329
+        ],
+        [
+          -79.8916036,
+          40.4890935
+        ],
+        [
+          -79.8915064,
+          40.4892964
+        ],
+        [
+          -79.8920091,
+          40.4894357
+        ],
+        [
+          -79.8920815,
+          40.4892845
+        ],
+        [
+          -79.8922312,
+          40.4889722
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/537706708",
+  "properties": {
+    "building": "retail",
+    "building:levels": "3",
+    "building:material": "brick",
+    "id": "way/537706708"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9947481,
+          40.3847893
+        ],
+        [
+          -79.9947228,
+          40.3848273
+        ],
+        [
+          -79.9946741,
+          40.3848083
+        ],
+        [
+          -79.9946358,
+          40.3848658
+        ],
+        [
+          -79.9946675,
+          40.3848781
+        ],
+        [
+          -79.9946554,
+          40.3848962
+        ],
+        [
+          -79.9948276,
+          40.384917
+        ],
+        [
+          -79.9948788,
+          40.3848402
+        ],
+        [
+          -79.9947481,
+          40.3847893
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/537713427",
+  "properties": {
+    "building": "retail",
+    "name": "Sunrise Auto Sales",
+    "shop": "car",
+    "id": "way/537713427"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0001078,
+          40.398038
+        ],
+        [
+          -79.9999469,
+          40.3980746
+        ],
+        [
+          -79.9999776,
+          40.3981535
+        ],
+        [
+          -80.0001385,
+          40.3981169
+        ],
+        [
+          -80.0001078,
+          40.398038
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/537718394",
+  "properties": {
+    "addr:housenumber": "2400",
+    "addr:street": "Saw Mill Run Boulevard",
+    "building": "retail",
+    "id": "way/537718394"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9950648,
+          40.3851017
+        ],
+        [
+          -79.9950455,
+          40.3852041
+        ],
+        [
+          -79.9952429,
+          40.3852259
+        ],
+        [
+          -79.9952622,
+          40.3851234
+        ],
+        [
+          -79.9950648,
+          40.3851017
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/537718647",
+  "properties": {
+    "addr:housenumber": "2230",
+    "addr:street": "Saw Mill Run Boulevard",
+    "building": "retail",
+    "name": "Boulevard Motor Mart",
+    "shop": "car",
+    "id": "way/537718647"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9966614,
+          40.3877085
+        ],
+        [
+          -79.996612,
+          40.3877323
+        ],
+        [
+          -79.9966804,
+          40.3878153
+        ],
+        [
+          -79.9967298,
+          40.3877915
+        ],
+        [
+          -79.9966614,
+          40.3877085
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/537718710",
+  "properties": {
+    "amenity": "restaurant",
+    "building": "retail",
+    "cuisine": "chinese",
+    "name": "Silver Palace",
+    "id": "way/537718710"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0037536,
+          40.3772867
+        ],
+        [
+          -80.003638,
+          40.3773763
+        ],
+        [
+          -80.0036102,
+          40.3773554
+        ],
+        [
+          -80.0035354,
+          40.3774134
+        ],
+        [
+          -80.0036076,
+          40.3774679
+        ],
+        [
+          -80.0036862,
+          40.3774069
+        ],
+        [
+          -80.0038097,
+          40.3775
+        ],
+        [
+          -80.0038586,
+          40.3774621
+        ],
+        [
+          -80.0039167,
+          40.377506
+        ],
+        [
+          -80.0039585,
+          40.3774736
+        ],
+        [
+          -80.0038434,
+          40.3773868
+        ],
+        [
+          -80.0038645,
+          40.3773704
+        ],
+        [
+          -80.0037536,
+          40.3772867
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/537718715",
+  "properties": {
+    "amenity": "restaurant",
+    "building": "retail",
+    "cuisine": "pizza",
+    "name": "Pizza (412)",
+    "id": "way/537718715"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.9976762,
+          40.3923073
+        ],
+        [
+          -79.9974703,
+          40.392353
+        ],
+        [
+          -79.9975062,
+          40.3924475
+        ],
+        [
+          -79.9974866,
+          40.3924519
+        ],
+        [
+          -79.9975099,
+          40.3925132
+        ],
+        [
+          -79.9975542,
+          40.3925034
+        ],
+        [
+          -79.9975327,
+          40.3924468
+        ],
+        [
+          -79.9976117,
+          40.3924293
+        ],
+        [
+          -79.9975995,
+          40.3923971
+        ],
+        [
+          -79.9977017,
+          40.3923744
+        ],
+        [
+          -79.9976762,
+          40.3923073
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/541625256",
+  "properties": {
+    "building": "retail",
+    "id": "way/541625256"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.0343181,
+          40.4669608
+        ],
+        [
+          -80.0342796,
+          40.4669673
+        ],
+        [
+          -80.034312,
+          40.4670784
+        ],
+        [
+          -80.0343541,
+          40.4670712
+        ],
+        [
+          -80.0343689,
+          40.4671221
+        ],
+        [
+          -80.0344575,
+          40.467107
+        ],
+        [
+          -80.034432,
+          40.4670196
+        ],
+        [
+          -80.0343181,
+          40.4669608
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4600803008",
+  "properties": {
+    "building": "retail",
+    "name": "Premier Automotive Group",
+    "phone": "+1 412 668 2122",
+    "shop": "car",
+    "id": "node/4600803008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9960673,
+      40.3830111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4624321938",
+  "properties": {
+    "building": "retail",
+    "name": "Used Car World",
+    "phone": "+1 412 882 3123",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://usedcarworldpa.com/",
+    "id": "node/4624321938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9945993,
+      40.3850907
+    ]
+  }
+}
+]
+}

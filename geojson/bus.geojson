@@ -1,0 +1,5988 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/533017959",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Waterworks Mall at Giant Eagle",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "way/533017959"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.8940541,
+          40.4876312
+        ],
+        [
+          -79.894023,
+          40.4876227
+        ],
+        [
+          -79.8939857,
+          40.4877017
+        ],
+        [
+          -79.8940168,
+          40.4877102
+        ],
+        [
+          -79.8940541,
+          40.4876312
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/533221618",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Negley Station A & B",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "way/533221618"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.932753,
+          40.4564759
+        ],
+        [
+          -79.9327301,
+          40.4564527
+        ],
+        [
+          -79.932541,
+          40.4565609
+        ],
+        [
+          -79.9323155,
+          40.4566899
+        ],
+        [
+          -79.9323384,
+          40.4567131
+        ],
+        [
+          -79.9325621,
+          40.4565851
+        ],
+        [
+          -79.932753,
+          40.4564759
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/533221619",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Negley Station C & D",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "way/533221619"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -79.932989,
+          40.456542
+        ],
+        [
+          -79.9329675,
+          40.456519
+        ],
+        [
+          -79.9326641,
+          40.4566928
+        ],
+        [
+          -79.9326,
+          40.4567307
+        ],
+        [
+          -79.9326235,
+          40.4567522
+        ],
+        [
+          -79.932989,
+          40.456542
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/104448976",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fingal St at Rutledge St",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "id": "node/104448976"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0268941,
+      40.4405956
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/105710558",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Penn Station B",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "5124",
+    "id": "node/105710558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9919503,
+      40.444036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/281348352",
+  "properties": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Herron Station",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "wikidata": "Q48529190",
+    "wikipedia": "en:Herron (PAT station)",
+    "id": "node/281348352"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9669567,
+      40.4592143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/312632777",
+  "properties": {
+    "highway": "bus_stop",
+    "note": "Routes 44U 501 61A 61B 61C 67A 67C 67E 67F 67J 61D",
+    "operator": "Port Authority Pittsburgh",
+    "shelter": "no",
+    "id": "node/312632777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9593971,
+      40.4397722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/392939671",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/392939671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9346479,
+      40.4569802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/392940481",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/392940481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9337724,
+      40.4582603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/392940505",
+  "properties": {
+    "highway": "bus_stop",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "yes",
+    "id": "node/392940505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9342874,
+      40.4574766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/392974007",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/392974007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9494708,
+      40.4478969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/392974201",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/392974201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9492477,
+      40.4472502
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/393000891",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/393000891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9339088,
+      40.4573953
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/393398614",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/393398614"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9338927,
+      40.4571508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/394971287",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Center Avenue",
+    "shelter": "yes",
+    "id": "node/394971287"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9287879,
+      40.4589083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/520905079",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "91A In-bound Butler at 56th",
+    "id": "node/520905079"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9479734,
+      40.4845078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/520905086",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "91A Out-bound Butler at 56th",
+    "shelter": "yes",
+    "id": "node/520905086"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9482128,
+      40.4842671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/584657205",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue opposite Aiken Avenue",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "ref": "3255",
+    "shelter": "no",
+    "id": "node/584657205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9341104,
+      40.4483568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/684907684",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "East Ohio St at Heinz St",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "id": "node/684907684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.992764,
+      40.4552551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/687084720",
+  "properties": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "East Liberty Station",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "source": "bing;http://www.portauthority.org/PAAC/apps/maps/P1.pdf",
+    "wheelchair": "yes",
+    "id": "node/687084720"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9227219,
+      40.4594864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/687142253",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "South Bank",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "id": "node/687142253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9983741,
+      40.3924476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1152032787",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Ella Street",
+    "network": "58; 86",
+    "operator": "PAT",
+    "passenger_information_display": "no",
+    "id": "node/1152032787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9519858,
+      40.4631537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1152032788",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Ella Street",
+    "network": "54; 86",
+    "operator": "PAT",
+    "id": "node/1152032788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9516639,
+      40.4631456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1152032790",
+  "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ella Street at Liberty Avenue",
+    "network": "87",
+    "operator": "PAT",
+    "shelter": "yes",
+    "id": "node/1152032790"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9517444,
+      40.4633047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1356087410",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Bigelow Boulevard",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "ref": "34",
+    "shelter": "yes",
+    "id": "node/1356087410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9547157,
+      40.4445838
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1376901907",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Aiken Avenue",
+    "public_transport": "platform",
+    "ref": "3145",
+    "shelter": "no",
+    "id": "node/1376901907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9341266,
+      40.4484925
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1565739600",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Sheraden Station",
+    "id": "node/1565739600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0529912,
+      40.4527879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1585004422",
+  "properties": {
+    "highway": "bus_stop",
+    "local_ref": "Carson Street at 24th",
+    "name": "Carson Street at 24th",
+    "id": "node/1585004422"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9710269,
+      40.4282786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1598833926",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at Wyndham Grand",
+    "public_transport": "stop_position",
+    "ref": "4126",
+    "id": "node/1598833926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0056517,
+      40.4414206
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1778609167",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Morewood Avenue",
+    "public_transport": "platform",
+    "ref": "1177",
+    "shelter": "no",
+    "id": "node/1778609167"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9425102,
+      40.4473487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1778609170",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1778609170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9332942,
+      40.4561049
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1779808739",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1779808739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9298132,
+      40.45023
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1779808746",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1779808746"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.931736,
+      40.4590281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1780450942",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1780450942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9208145,
+      40.452804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1780450943",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1780450943"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9205854,
+      40.4529708
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1781108738",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1781108738"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9415015,
+      40.4549364
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1781108739",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1781108739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9386827,
+      40.4558058
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1783546388",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Bellefonte Street",
+    "public_transport": "platform",
+    "ref": "3144",
+    "shelter": "no",
+    "id": "node/1783546388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9325018,
+      40.4490158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1783546393",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Negley Avenue",
+    "public_transport": "platform",
+    "ref": "3143",
+    "shelter": "no",
+    "id": "node/1783546393"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9295676,
+      40.4499204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1783546395",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "FIFTH AVE AT MARYLAND AVE",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1783546395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9274154,
+      40.4506002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1783546397",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1783546397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9337714,
+      40.4566659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1784102246",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1784102246"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9445094,
+      40.4540719
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1784102247",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1784102247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9435004,
+      40.4543712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1784102248",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1784102248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9307033,
+      40.459205
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1784102249",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1784102249"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9304753,
+      40.4594027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1784102250",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "survey",
+    "id": "node/1784102250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9292283,
+      40.4597773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1784102251",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1784102251"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9278118,
+      40.4602003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1784102252",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1784102252"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9265217,
+      40.4605975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1785427182",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1785427182"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.940869,
+      40.4513925
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1785427183",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1785427183"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9388482,
+      40.4519542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1785427184",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1785427184"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9391605,
+      40.451961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1785427185",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1785427185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9366019,
+      40.4528659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1785427186",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1785427186"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9347629,
+      40.453746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1785427187",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1785427187"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9343682,
+      40.4538179
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1786772014",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "survey",
+    "id": "node/1786772014"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9497785,
+      40.4527311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1786772015",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "survey",
+    "id": "node/1786772015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9496409,
+      40.4527907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1812433922",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1812433922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9474279,
+      40.4531829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1812433927",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1812433927"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9472252,
+      40.453387
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1812433930",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "survey",
+    "id": "node/1812433930"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9474991,
+      40.4533992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1815342336",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1815342336"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9533924,
+      40.4513807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1815342341",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1815342341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9532185,
+      40.4515984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1815342345",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "Bing",
+    "id": "node/1815342345"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9521271,
+      40.4517583
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1815342348",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1815342348"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9509536,
+      40.4521335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1815342352",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1815342352"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9497825,
+      40.4524813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1824542801",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1824542801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9487572,
+      40.4457668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1829751659",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue opposite College Street",
+    "public_transport": "platform",
+    "ref": "3143",
+    "shelter": "no",
+    "id": "node/1829751659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.925888,
+      40.45107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1831061807",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1831061807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9316723,
+      40.4533532
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1831061808",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1831061808"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9324208,
+      40.4546324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1831061809",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1831061809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9324021,
+      40.4548725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1832109159",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue opposite Amberson Avenue",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "ref": "1178",
+    "shelter": "no",
+    "id": "node/1832109159"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9388496,
+      40.447619
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1835579476",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "Bing",
+    "id": "node/1835579476"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9516474,
+      40.4520537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1835929650",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1835929650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9410404,
+      40.4512237
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1835929651",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1835929651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9410582,
+      40.4516348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1835929661",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1835929661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9368092,
+      40.4526336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1838673345",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "survey",
+    "id": "node/1838673345"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9381861,
+      40.4561004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1838801466",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1838801466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9443186,
+      40.4542496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1838801467",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1838801467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9413825,
+      40.4551302
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1838801468",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "survey",
+    "id": "node/1838801468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9404586,
+      40.4554247
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1839957800",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at William Penn Pl",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County;Beaver County Transit Authority",
+    "public_transport": "stop_position",
+    "ref": ";1342",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1839957800"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9954257,
+      40.4436015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1839957801",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Liberty Ave past 10th St",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1839957801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9957338,
+      40.4436066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1892471692",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/1892471692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9431305,
+      40.4508013
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1970968856",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/1970968856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0442487,
+      40.3996348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1970968857",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/1970968857"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0443828,
+      40.3997084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2295158520",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Megabus Pittsburgh",
+    "operator": "Megabus",
+    "id": "node/2295158520"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9942235,
+      40.4448856
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2296932022",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "31",
+    "id": "node/2296932022"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.053843,
+      40.4280779
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2430015584",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at Smithfield St",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County;Beaver County Transit Authority",
+    "public_transport": "stop_position",
+    "ref": ";1338",
+    "id": "node/2430015584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9968184,
+      40.4432313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2430015588",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave opp 9th St",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/2430015588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9982071,
+      40.4427918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2430015589",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/2430015589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9966123,
+      40.4427929
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2430015590",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/2430015590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9980478,
+      40.4538733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2541477351",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/2541477351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9259187,
+      40.444067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2553700812",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "source": "survey",
+    "id": "node/2553700812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9315264,
+      40.4619633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2625613286",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Freeport Rd at Dollar Bank",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "17355",
+    "id": "node/2625613286"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8853592,
+      40.4872039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2625614493",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Waterworks Mall at Walmart",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "17655",
+    "id": "node/2625614493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8885274,
+      40.4878156
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2634336032",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Center and Neville",
+    "id": "node/2634336032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9494722,
+      40.4527441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2672381466",
+  "properties": {
+    "highway": "bus_stop",
+    "operator": "PAT of Allegheny County",
+    "id": "node/2672381466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.947873,
+      40.4842938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2672381542",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/2672381542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9463461,
+      40.4850964
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2672381551",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/2672381551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9462277,
+      40.4852945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2675302031",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/2675302031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9325986,
+      40.476874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2676344771",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/2676344771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9246134,
+      40.4614227
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2698855703",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/2698855703"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9392206,
+      40.4439918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2698855704",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/2698855704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9385988,
+      40.4439834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2698855706",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/2698855706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9377594,
+      40.4427253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2766543187",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/2766543187"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9274552,
+      40.4324683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2837397847",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/2837397847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9285921,
+      40.4230871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3209378793",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "local knowledge",
+    "id": "node/3209378793"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9231982,
+      40.4379892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3209378794",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "mapillary",
+    "id": "node/3209378794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9237159,
+      40.4381198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3209378795",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "mapillary",
+    "id": "node/3209378795"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9229327,
+      40.4384526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3224418048",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "bing;local knowledge",
+    "id": "node/3224418048"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9436293,
+      40.4447526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3237448164",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "bing;local knowledge",
+    "id": "node/3237448164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9396203,
+      40.455535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3369561303",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3369561303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9525462,
+      40.4250149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3547592104",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Homewood",
+    "source": "bing;http://www.portauthority.org/PAAC/apps/maps/P1.pdf",
+    "wikipedia": "en:Homewood (PAT station)",
+    "id": "node/3547592104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8990729,
+      40.4529733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3639923516",
+  "properties": {
+    "covered": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "source": "survey;bing",
+    "id": "node/3639923516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9561682,
+      40.4349438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3652076304",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "id": "node/3652076304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9146717,
+      40.4332966
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3652076305",
+  "properties": {
+    "covered": "yes",
+    "highway": "bus_stop",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "source": "survey;bing",
+    "id": "node/3652076305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9590798,
+      40.4309279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3652076321",
+  "properties": {
+    "bench": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "bing;survey",
+    "id": "node/3652076321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9424859,
+      40.4444364
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3653092496",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3653092496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0216535,
+      40.492789
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3653092497",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/3653092497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0220014,
+      40.4929099
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3659604299",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3659604299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0144113,
+      40.4540873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3681697956",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/3681697956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9997079,
+      40.4421361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3681741033",
+  "properties": {
+    "fixme": "Position is approximate",
+    "highway": "bus_stop",
+    "id": "node/3681741033"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0409417,
+      40.4875929
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3688752127",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "source": "bing",
+    "id": "node/3688752127"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.998834,
+      40.4366487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3706977371",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/3706977371"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0135684,
+      40.450676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3758311427",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3758311427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0318153,
+      40.4765999
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3760723274",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3760723274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0248984,
+      40.4668587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3769754622",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/3769754622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0312271,
+      40.4796958
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3771066351",
+  "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ohio River Blvd opp. McKees Rocks Bridge",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "1307",
+    "shelter": "yes",
+    "id": "node/3771066351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0434458,
+      40.4794044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3772223149",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/3772223149"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0360027,
+      40.4844929
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3773919369",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3773919369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0134955,
+      40.4505247
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3773919370",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3773919370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0225428,
+      40.4637664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3773919400",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3773919400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0253002,
+      40.4684202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3775783186",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3775783186"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0226891,
+      40.4637007
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3778368628",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/3778368628"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0157587,
+      40.4569937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3778368631",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/3778368631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0167311,
+      40.4593803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3781491072",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3781491072"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0160189,
+      40.458402
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3781491073",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3781491073"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0394403,
+      40.4752161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3781492660",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3781492660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0357089,
+      40.4842799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3799361006",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3799361006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0182827,
+      40.4603398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416634",
+  "properties": {
+    "fixme": "Position is approximate",
+    "highway": "bus_stop",
+    "id": "node/3810416634"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0149545,
+      40.4548828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416635",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0151544,
+      40.4558345
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416636",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416636"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0155026,
+      40.456186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416637",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416637"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0155798,
+      40.4571084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416638",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0160525,
+      40.4580357
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416639",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416639"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0169175,
+      40.4596873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416640",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0190232,
+      40.4614994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416641",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416641"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0188591,
+      40.4615121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416642",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416642"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0202136,
+      40.462644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416643",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0205269,
+      40.4630803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416644",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416644"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0237656,
+      40.464503
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416645",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0236507,
+      40.4645882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416646",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416646"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0246535,
+      40.4655884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416647",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0251447,
+      40.4671524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416648",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416648"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0251345,
+      40.4683932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416649",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416649"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0255402,
+      40.4699615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416650",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0257293,
+      40.4699983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416651",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0259725,
+      40.4707476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416652",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416652"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0259549,
+      40.4712132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416653",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416653"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0271179,
+      40.471721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416654",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0270019,
+      40.4718345
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416655",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810416655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0286154,
+      40.4735646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810416656",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/3810416656"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.029003,
+      40.4738019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425457",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0301589,
+      40.4753108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425458",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0305214,
+      40.4753516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425459",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0316027,
+      40.476415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425461",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425461"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.031148,
+      40.4781932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425462",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.031236,
+      40.4783876
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425463",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425463"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0310351,
+      40.4797135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425464",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425464"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0322603,
+      40.4808128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425465",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425465"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.032899,
+      40.4810257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425466",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0327947,
+      40.4811245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425467",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0342014,
+      40.4817846
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425468",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0344718,
+      40.4820878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425470",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0355289,
+      40.4830926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425471",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0353083,
+      40.4829753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425472",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.03656,
+      40.4862098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425473",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0372469,
+      40.4870314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425474",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0380252,
+      40.4870438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425475",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0390422,
+      40.487356
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3810425477",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3810425477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0405467,
+      40.4876365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3812002447",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "East Ohio St opp Union Ave",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/3812002447"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.00277,
+      40.4530127
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3861305013",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3861305013"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.019876,
+      40.496268
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3861320087",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3861320087"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0073685,
+      40.4959877
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3861320088",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3861320088"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0080855,
+      40.4960369
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3861320089",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3861320089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0091898,
+      40.4964712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3861320090",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3861320090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0115713,
+      40.496728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3861320091",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3861320091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0115679,
+      40.4968298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3865719357",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3865719357"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9603346,
+      40.4705257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3865719483",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3865719483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9597645,
+      40.4713638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3886814073",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3886814073"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.016654,
+      40.4518803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3886814078",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3886814078"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0164564,
+      40.452031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3886814081",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/3886814081"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.01434,
+      40.4524238
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3910908217",
+  "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ohio River Blvd at McKees Rocks Bridge",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "1308",
+    "id": "node/3910908217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0432832,
+      40.4788795
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4068378813",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/4068378813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0140473,
+      40.453974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4068378821",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4068378821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.017101,
+      40.4598369
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4149829691",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at Market St",
+    "operator": "Port Authority of Allegheny County;Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": ";3406",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/4149829691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0020891,
+      40.441753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4197495513",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4197495513"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0349079,
+      40.4814653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4214116549",
+  "properties": {
+    "fixme": "Position is approximate",
+    "highway": "bus_stop",
+    "id": "node/4214116549"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9947931,
+      40.4556011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4214125707",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4214125707"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0235484,
+      40.4587751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4232985367",
+  "properties": {
+    "highway": "bus_stop",
+    "source": "USGS imagery;Pittsburgh Parks Riverview Park Map PDF",
+    "id": "node/4232985367"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0133397,
+      40.4838762
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4232985369",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "USGS imagery;Pittsburgh Parks Riverview Park Map PDF",
+    "id": "node/4232985369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0122045,
+      40.4799193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448579",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301448579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9618922,
+      40.4619879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448580",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301448580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9533396,
+      40.4634731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448582",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Pearl Street",
+    "network": "54; 86",
+    "operator": "PAT",
+    "id": "node/4301448582"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9497778,
+      40.4621222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448583",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at South Millvale Avenue",
+    "network": "54;86",
+    "operator": "PAT",
+    "passenger_information_display": "no",
+    "ref": "1155",
+    "shelter": "no",
+    "id": "node/4301448583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9461442,
+      40.4600134
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448584",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301448584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9469564,
+      40.4588219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448585",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301448585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9475198,
+      40.4559059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448586",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301448586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9475719,
+      40.4544466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448587",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301448587"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9487613,
+      40.4445436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301448588",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bellefield Avenue at 5th Avenue",
+    "public_transport": "platform",
+    "ref": "1173",
+    "id": "node/4301448588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9517678,
+      40.44635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449469",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9539609,
+      40.4634757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449470",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9823449,
+      40.4511569
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449471",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Pearl Street",
+    "network": "54; 86",
+    "operator": "PAT",
+    "id": "node/4301449471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9500364,
+      40.4621442
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449472",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Edmond Street",
+    "network": "54;86",
+    "operator": "PAT",
+    "ref": "1154",
+    "id": "node/4301449472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9482543,
+      40.4611429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449473",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Millvale Avenue at Mitre Way",
+    "network": "54",
+    "operator": "PAT",
+    "passenger_information_display": "no",
+    "shelter": "no",
+    "id": "node/4301449473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9462704,
+      40.4595362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449474",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9477183,
+      40.4561149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449475",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9478069,
+      40.4544743
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449476",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449476"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9488971,
+      40.4457305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449477",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9499203,
+      40.4441875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449478",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Desoto Street",
+    "public_transport": "platform",
+    "ref": "5128",
+    "id": "node/4301449478"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9578246,
+      40.4423769
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449479",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Chesterfield Road",
+    "public_transport": "platform",
+    "ref": "38",
+    "id": "node/4301449479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9617397,
+      40.439468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449480",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Craft Avenue",
+    "public_transport": "platform",
+    "ref": "2561",
+    "id": "node/4301449480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9640729,
+      40.4377441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449481",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9628747,
+      40.4372175
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449489",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue opposite Atwood Street",
+    "public_transport": "platform",
+    "ref": "5128",
+    "id": "node/4301449489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9584663,
+      40.4419029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449490",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue opposite Craft Avenue",
+    "public_transport": "platform",
+    "ref": "2639",
+    "id": "node/4301449490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9638158,
+      40.4379746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449491",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Craft Avenue past Fifth (Dialysis Center)",
+    "public_transport": "platform",
+    "ref": "39",
+    "id": "node/4301449491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9637435,
+      40.4375407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301449492",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4301449492"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9622956,
+      40.4363817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4306208120",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Bellefield Avenue",
+    "public_transport": "platform",
+    "ref": "3254",
+    "id": "node/4306208120"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.952016,
+      40.4463015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4306208237",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Bellefield Avenue",
+    "public_transport": "platform",
+    "ref": "1171",
+    "id": "node/4306208237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9517335,
+      40.4467112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4378180394",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Highland Avenue at Broad Street",
+    "public_transport": "platform",
+    "ref": "17602",
+    "shelter": "no",
+    "id": "node/4378180394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9243899,
+      40.4625875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4378685541",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Avenue at Tennyson Avenue",
+    "public_transport": "platform",
+    "ref": "33",
+    "shelter": "yes",
+    "id": "node/4378685541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9530376,
+      40.4458125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4384113713",
+  "properties": {
+    "bench": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/4384113713"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9523621,
+      40.46606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4388717493",
+  "properties": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "no",
+    "id": "node/4388717493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9669831,
+      40.462719
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4436161159",
+  "properties": {
+    "fixme": "Position is approximate",
+    "highway": "bus_stop",
+    "id": "node/4436161159"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0159076,
+      40.4560849
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4461750396",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/4461750396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0309765,
+      40.4621391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4487904816",
+  "properties": {
+    "highway": "bus_stop",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "yes",
+    "source": "bing",
+    "id": "node/4487904816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9232196,
+      40.4325311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4487904817",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Shady Avenue",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/4487904817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.920128,
+      40.4592311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4493613504",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Penn Station D",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "bing",
+    "id": "node/4493613504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9911087,
+      40.4448186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4551135981",
+  "properties": {
+    "covered": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "source": "bing",
+    "id": "node/4551135981"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9729342,
+      40.4377066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4575674114",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4575674114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0185272,
+      40.4515361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4575674171",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4575674171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0144668,
+      40.4522902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4591608524",
+  "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/4591608524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9964809,
+      40.3827106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4600771786",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4600771786"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0121778,
+      40.4759419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4600771787",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4600771787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0133204,
+      40.4806793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4600771788",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4600771788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.013476,
+      40.4827194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4600771989",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4600771989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0156566,
+      40.4849512
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4608877854",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "E Carson St at Station Square",
+    "note": "40 Mt Washington, 43 Bailey",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "bing",
+    "id": "node/4608877854"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0035587,
+      40.4318264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4615706921",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "South Busway at Station Square",
+    "public_transport": "platform",
+    "id": "node/4615706921"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0037195,
+      40.4317488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4617383472",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Pioneer",
+    "shelter": "yes",
+    "source": "http://www.portauthority.org/rt/Y46.pdf",
+    "source:shelter": "bing",
+    "id": "node/4617383472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0085373,
+      40.4118706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4617393683",
+  "properties": {
+    "highway": "bus_stop",
+    "source": "bing;http://www.portauthority.org/rt/40.pdf",
+    "id": "node/4617393683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0090257,
+      40.411862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4913631178",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4913631178"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0219035,
+      40.4510477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4924927845",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4924927845"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0448498,
+      40.4873258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4924927846",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4924927846"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0449222,
+      40.4873747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4928862394",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4928862394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0185052,
+      40.4516641
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4960676554",
+  "properties": {
+    "bin": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/4960676554"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9230319,
+      40.4338108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4961818979",
+  "properties": {
+    "highway": "bus_stop",
+    "id": "node/4961818979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9460721,
+      40.4444864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5105282270",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Boggs Avenue at Soffel St",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5105282270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0114463,
+      40.4197112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5105282286",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "South Hills Junction",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5105282286"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0062642,
+      40.4211661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5105402842",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Virginia Ave at Shop n Save",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5105402842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0080928,
+      40.4297612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5105402844",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Warrington Ave at Boggs Ave",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5105402844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0113571,
+      40.4155352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5166276672",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "East Ohio St at Cedar Ave",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "id": "node/5166276672"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0015006,
+      40.4533224
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5166276675",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave opp Smithfield St",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County;Beaver County Transit Authority",
+    "public_transport": "stop_position",
+    "ref": ";1341",
+    "id": "node/5166276675"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9963789,
+      40.4433457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5166276677",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "7th St past Penn Ave",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "12626",
+    "id": "node/5166276677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0001169,
+      40.4428936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5166276679",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "7th St at Ft Duquesne Blvd",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/5166276679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0007212,
+      40.4444465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5166276683",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at 7th Street",
+    "operator": "Port Authority of Allegheny County;Beaver County Transit Authority",
+    "public_transport": "stop_position",
+    "ref": ";1335",
+    "id": "node/5166276683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9995594,
+      40.4425114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5166276686",
+  "properties": {
+    "alt_name": "Liberty Ave at Gateway #4",
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at Stanwix St",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/5166276686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0049852,
+      40.4412855
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171316618",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "9th St at Penn Ave",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/5171316618"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9985449,
+      40.4439189
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171318177",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "31st Street Bridge Ramp at 31st St Bridge",
+    "network": "PAT",
+    "note": "Served by routes 1 & 2",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "id": "node/5171318177"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9797979,
+      40.4645691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171318185",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "31st Street Bridge Ramp at Rialto St",
+    "network": "PAT",
+    "note": "Served by routes 1 & 2",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "id": "node/5171318185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9796434,
+      40.4651462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171799972",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Freeport Rd at Waterworks Mall Entrance",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "9329",
+    "id": "node/5171799972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8864276,
+      40.4870457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171799983",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Waterworks Mall opp Walmart",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "18827",
+    "id": "node/5171799983"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8897325,
+      40.4880868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171799989",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Waterworks Mall at Marshalls",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "3202; 9357",
+    "id": "node/5171799989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8918945,
+      40.4887679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171799999",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Freeport Rd opp St Margaret Dr",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5171799999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8956077,
+      40.4872156
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171800005",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Freeport Rd at Virginia Ave",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "3205",
+    "id": "node/5171800005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8995579,
+      40.4884134
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5171800010",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Freeport Rd at Brilliant Ave",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "3307; 3206",
+    "id": "node/5171800010"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9008341,
+      40.4887606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461623",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Washington Blvd opp Highland Dr",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "14568",
+    "id": "node/5173461623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9083463,
+      40.4742857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461625",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Washington Blvd at Highland Dr",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5173461625"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9081747,
+      40.4740177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461626",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Washington Blvd at Frankstown Ave",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "14572",
+    "id": "node/5173461626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9079249,
+      40.4588242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461627",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fifth Ave at Frankstown Ave",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "18377",
+    "id": "node/5173461627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9081082,
+      40.4585758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461631",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Penn Ave at East Busway",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5173461631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9215581,
+      40.4601384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461708",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at Tito Way",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "15266",
+    "id": "node/5173461708"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9988363,
+      40.4427069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461936",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Penn Station A",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "20287",
+    "id": "node/5173461936"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9927358,
+      40.4434963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461942",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Penn Station C",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "stop_position",
+    "ref": "1407",
+    "id": "node/5173461942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9918017,
+      40.4441926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5173461991",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Liberty Ave at 5th Ave",
+    "public_transport": "platform",
+    "id": "node/5173461991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0025266,
+      40.4418291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5175252823",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Grant St at Post Office",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5175252823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9944243,
+      40.442785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5175252830",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Grant St at US Steel Building A",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5175252830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9953678,
+      40.4413724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5175252832",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Grant St at US Steel Building B",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5175252832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9951606,
+      40.4416745
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5175252833",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Smithfield St at 6th Ave",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/5175252833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.99757,
+      40.4418029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5175252864",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Liberty Ave at 11th St (Greyhound)",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5175252864"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9932676,
+      40.4442909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5175252867",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Liberty Ave past 11th St (Amtrak)",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5175252867"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9926674,
+      40.4446073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5176255536",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grant St at Liberty Ave (Federal Building)",
+    "operator": "Port Authority of Allegheny County;Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": ";3424",
+    "shelter": "no",
+    "id": "node/5176255536"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9943231,
+      40.4433064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5201362025",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "route_ref": "8",
+    "route_ref_1": "11",
+    "route_ref_2": "15",
+    "route_ref_3": "17",
+    "shelter": "yes",
+    "id": "node/5201362025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0009875,
+      40.4515626
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5269142773",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "no",
+    "id": "node/5269142773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0012224,
+      40.4515677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5269158753",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "network": "PAT",
+    "operator": "Port Authority of Alleghney County",
+    "shelter": "no",
+    "id": "node/5269158753"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0014322,
+      40.4528835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5269174405",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "network": "PAT",
+    "operator": "Port Authority of Allegheny County",
+    "shelter": "yes",
+    "id": "node/5269174405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.001904,
+      40.453182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5335943968",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/5335943968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0126342,
+      40.45425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5335943969",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/5335943969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0105527,
+      40.4546446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5335943970",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/5335943970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0088192,
+      40.4549732
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5336811722",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/5336811722"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0068938,
+      40.4553076
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5337484841",
+  "properties": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "shelter": "no",
+    "id": "node/5337484841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0064148,
+      40.4543914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5337484842",
+  "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "shelter": "yes",
+    "id": "node/5337484842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0062279,
+      40.4546551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5394752826",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "LIBERTY AVE AT 6TH ST NS",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "ref": "P70027",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/5394752826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.001237,
+      40.4421766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5394752827",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "FIFTH AVE AT WILKINS AVE FS",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "id": "node/5394752827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9368862,
+      40.4477666
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5394752828",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "FIFTH AVE OPP BELLEFONTE ST",
+    "operator": "Port Authority of Allegheny County",
+    "public_transport": "platform",
+    "id": "node/5394752828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9325788,
+      40.448838
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5394752829",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "FIFTH AVE AT NEGLEY AVE",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5394752829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9297195,
+      40.4497375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5394752830",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "FIFTH AVE OPP MARYLAND AVE",
+    "public_transport": "platform",
+    "id": "node/5394752830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9274638,
+      40.4504432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5417585589",
+  "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5417585589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0174327,
+      40.4463128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5451079501",
+  "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "id": "node/5451079501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0199351,
+      40.4478576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5455256649",
+  "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "6th st /ft duquesne blvd",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "id": "node/5455256649"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0029163,
+      40.4438729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5471059095",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "4353",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "id": "node/5471059095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0030228,
+      40.4425764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5471059100",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "19514",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "id": "node/5471059100"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.004176,
+      40.4426106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5472017957",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "1502",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "id": "node/5472017957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0044421,
+      40.4427047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5472091332",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "4126",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "id": "node/5472091332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0056629,
+      40.4414827
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5562804256",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5562804256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.927556,
+      40.4381114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5562804257",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5562804257"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.930607,
+      40.4379194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5562804258",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5562804258"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9279506,
+      40.4379733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5562804259",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5562804259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9308281,
+      40.4377952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5562804260",
+  "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "id": "node/5562804260"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.93746,
+      40.4426128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6012656937",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6012656937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0171563,
+      40.4398907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6040093561",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Mathilda Street",
+    "network": "54;86",
+    "id": "node/6040093561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9468832,
+      40.4605982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6044649227",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Gross Street",
+    "network": "64;86",
+    "operator": "PAT",
+    "public_transport": "platform",
+    "ref": "9127",
+    "id": "node/6044649227"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9450752,
+      40.4594317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6044699159",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberty Avenue at Edmond Street",
+    "network": "54;86",
+    "operator": "PAT",
+    "public_transport": "platform",
+    "ref": "1192",
+    "id": "node/6044699159"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9479478,
+      40.4611756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6057855172",
+  "properties": {
+    "highway": "bus_stop",
+    "name": "Howley Street at Gangwish Street",
+    "network": "87",
+    "operator": "PAT",
+    "id": "node/6057855172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.952159,
+      40.4644462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6066956211",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6066956211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9727367,
+      40.4589591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6076540201",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6076540201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9853801,
+      40.449094
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6113377569",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6113377569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9693331,
+      40.460089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6113377570",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6113377570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9708896,
+      40.4590148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6113377571",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6113377571"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9721572,
+      40.458148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6113377572",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6113377572"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9732405,
+      40.4573959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6113676589",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6113676589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.976462,
+      40.4551811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6113729363",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6113729363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9792458,
+      40.4532491
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6113817706",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6113817706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9820379,
+      40.4513163
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6219360990",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "id": "node/6219360990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9892905,
+      40.4467048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6254736665",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Blvd of the Allies at Stanwix Street",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "3452",
+    "id": "node/6254736665"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0047451,
+      40.4395904
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6254736666",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Blvd of the Allies at Cherry Way",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "3444",
+    "id": "node/6254736666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9990937,
+      40.4374686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6254736667",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grant St at 4th Ave",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "3440",
+    "id": "node/6254736667"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9977687,
+      40.4381892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6254736668",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grant St at 5th Ave",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "3436",
+    "id": "node/6254736668"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9968433,
+      40.4395348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6254736669",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grant Street at Oliver Ave",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "3432",
+    "id": "node/6254736669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9963613,
+      40.4402591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6254736670",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grant St at Strawberry Way",
+    "operator": "Beaver County Transit Authority",
+    "public_transport": "platform",
+    "ref": "3428",
+    "id": "node/6254736670"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9954825,
+      40.4415892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6276854289",
+  "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Greenfield Bus Stop",
+    "public_transport": "platform",
+    "id": "node/6276854289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9298456,
+      40.4218494
+    ]
+  }
+}
+]
+}
