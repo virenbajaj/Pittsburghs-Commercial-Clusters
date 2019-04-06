@@ -44,4 +44,5 @@ Directory Information
 4. node_modules is from gpd_lite_toolbox (https://github.com/mthh/gpd_lite_toolbox) used to 'gridify' data
 5. Commercial Centers of Pittsburgh is the notebook with the final analysis
 6. utils.py has all the helper functions used to conduct the analysis 
+7. folium_maps has the html folium maps.
 

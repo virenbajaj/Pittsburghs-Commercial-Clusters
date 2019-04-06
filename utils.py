@@ -252,6 +252,7 @@ def plot_cluster_folium(pois,osmfile,geojsonfile,run_query=True):
     #project to UTM zone 17T
     pois_df.to_crs('+proj=utm +zone=17T +ellps=WGS84 +datum=WGS84 +units=m +no_defs',inplace=True)
     city_boundary_df.to_crs('+proj=utm +zone=17T +ellps=WGS84 +datum=WGS84 +units=m +no_defs',inplace=True)
+    m.save('folium_maps/poi_cluster.html')
     return pois_df,m,city_boundary_df
 
 
@@ -292,6 +293,7 @@ def plot_grid_folium(pois_df,height,use_area):
     city_boundary_df = gpd.read_file('geojson/Pittsburgh_City_Boundary.geojson')
     city_boundary_df.to_crs('+proj=utm +zone=17T +ellps=WGS84 +datum=WGS84 +units=m +no_defs',inplace=True)
     m = make_folium_grid_map(grid_df,city_boundary_df)
+    m.save('folium_maps/poi_grid.html')
     return grid_df, m 
 
 def plot_grid(pois_df,height,use_area):
@@ -360,6 +362,7 @@ def spatial_lag_folium(df):
     # plt.title("Spatial Lag Number of POIs (Quintiles)")
     # plt.show()
     m=make_folium_grid_map(df,city_boundary_df,col='ylagq5yb')
+    m.save('folium_maps/ylag.html')
     return df,m
     
 
@@ -453,7 +456,7 @@ def moran_scatterplot(df):
 #     return m
 
 
-def find_hotspot_folium(threshold):
+def find_hotspot_folium(df,threshold):
     wq = Queen.from_dataframe(df)
     wq.transform = 'r'
     y = df["value"]
@@ -470,6 +473,8 @@ def find_hotspot_folium(threshold):
     df = df.assign(hotspot=labels)
 
     m = make_folium_grid_map(df,city_boundary_df,col='hotspot')
+    m.save('folium_maps/hotspots.html')
+
     return df,m
 
 def find_hotspots(df,threshold):
