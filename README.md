@@ -32,7 +32,11 @@ The analysis for the collected POI data can be summarized as follows:
 3. Calculate how non-random these clusters are using Moran's I Coefficient of Spatial Autocorrelation 
 4. Identify the statistically significant hot-spots of the POIs
 
-Finally, we validate that these are actually commercial centers from expert knowledge. 
+Finally, we validate that these are actually commercial centers from expert knowledge.
+
+Improvements: 
+1. Calculate Morans's I statistic for each POI and choose only significant POIs
+2. Use Land Zoning map and find what percent of hot-spots overlap with commercial land zones. Pitssburgh has, for example, 'Urban Neighborhood Commercial', 'Local Neighborhood Commercial', etc. This can be a metric for goodness of detected hot-spots. 
 
 
 ----------------------------------------
