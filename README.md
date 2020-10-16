@@ -4,33 +4,33 @@ This project's aim is to identify centers of commerial activity in the city of P
 
 In this notebook I will demonstrate how to identify commercial centers of the city of Pittsburgh, PA using Points of Interest aquired from Open Street Maps.
 
-The first step is to answer the question: what is a commercial center?  
+The first step is to answer the question: *what is a commercial center?*  
 As the name suggests, commercial centers are areas of high economic activity. 
-These regions have a high density of businesses that partake in buying and selling of goods and services.
+These regions have a **high density of businesses** that partake in buying and selling of goods and services.
 These businesses include retail shops, restaurants, bars, cafes, offices, banks, etc. 
-People travel to these commmercial centers on a regular basis to conduct all kinds of economic activity, as a result of which the commercial areas need to encorporate 'features' for the primary mode of transport of the people in the city. 
+People travel to these commmercial centers on a regular basis to conduct all kinds of economic activity, as a result of which the **commercial areas need to encorporate 'features' for the primary modes of transport of the people in the city.** 
 In Pittsburgh, people primarily travel by car, but it also has well-connected 'bus-driven' public transport system. 
 
 
 In our analysis we will look at the following major points of interest as indicators for commercial activity:
-1. Restaurants
-2. Bars
-3. Pubs
-4. Cafes
-5. Shops
-6. Offices
-7. Commercial Buildings
-8. Retail Buildings
-9. Bus Stops
-10. Parking
+  1. Restaurants
+  2. Bars
+  3. Pubs
+  4. Cafes
+  5. Shops
+  6. Offices
+  7. Commercial Buildings
+  8. Retail Buildings
+  9. Bus Stops
+  10. Parking
 
 Since there is no easy and robust way to validate the actual commercial activity of a region, I have chosen a city of which I have 'expert' knowledge, which is to say, I can confirm/reject an area as being commercially active based on past experience. 
 
 The analysis for the collected POI data can be summarized as follows:
-1. Visualize their locations on the map
-2. Identify spatial clusters (regions of high density) of that category of POI 
-3. Calculate how non-random these clusters are using Moran's I Coefficient of Spatial Autocorrelation 
-4. Identify the statistically significant hot-spots of the POIs
+  1. Visualize their locations on the map
+  2. Identify spatial clusters (regions of high density) of that category of POI 
+  3. Calculate how non-random these clusters are using **Moran's I Coefficient of Spatial Autocorrelation** 
+  4. Identify the **statistically significant hot-spots of the POIs**
 
 Finally, we validate that these are actually commercial centers from expert knowledge.
 
