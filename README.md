@@ -1,6 +1,6 @@
 # Pittsburgh's Commercial Clusters  
 
-This project's aim is to identify centers of commerial activity in the city of Pittsburgh using open GIS data and to create an interactive map to visualize them.
+This project's aim is to identify centers of commercial activity in the city of Pittsburgh using open GIS data and to create an interactive map to visualize them.
 
 In this notebook I will demonstrate how to identify commercial centers of the city of Pittsburgh, PA using Points of Interest aquired from Open Street Maps.
 
